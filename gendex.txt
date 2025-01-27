@@ -1,0 +1,2171 @@
+;; Skapad av MinSläkt 4.8 2025-01-19, Programmet tillhör: Göran Barck
+;;
+p449a4268.html|" the Stout" Ljotsdottir|Steinvor /" the Stout" Ljotsdottir/|||||
+p234821d7.html|"barnakarl" Einarsson|Ölvir /"barnakarl" Einarsson/|||||
+pf86c4597.html|"Blood-axe" Haraldsson|Erik /"Blood-axe" Haraldsson/|885|Sogn, Norge|954|Stainmore, England|
+pe289e9ee.html|"Blåtand" Gormsson|Harald /"Blåtand" Gormsson/|||985||
+p8b7d6d74.html|"den fundne"|Finnvid /"den fundne"/|857|Möre og Romsdal, Norge|881|881|
+p5a8dcb42.html|"den gamle"|Gorm /"den gamle"/|||960||
+p1449935f.html|"den grymme"|Boleslav I /"den grymme"/|900|Prag, Tjekien|972||
+p70549500.html|"den äldre" Stenkilsson|Inge /"den äldre" Stenkilsson/|||||
+pfc86354e.html|"Frilla"| /"Frilla"/|||||
+p98d0fd87.html|"i Berg"Svadisson i Oppland|Hrolf /"i Berg"Svadisson i Oppland/|560|Dovre, Oppland, Norge|620|Hedmark, Norge|
+p109eec0a.html|"Longleg" Douglas of Douglas|William /"Longleg" Douglas of Douglas/|1200|Douglasdale, Lanarkshire, Scotland|1274|Lanarkshire, Scotland|
+pc751209f.html|"Stagbrell" Eiriksson|Eirik /"Stagbrell" Eiriksson/|1131||||
+p88b97807.html|"Strida" Thorlijtson|Eirik /"Strida" Thorlijtson/|1100|Njardvik, Island|||
+pb12ef346.html|"The Black" Gudrödsson|Harald /"The Black" Gudrödsson/|980||1040||
+p983cb5a1.html|"The Destroyer" of Scotland|Malcolm II /"The Destroyer" of Scotland/|954|Dunkeld, Perth and Kinross, Scotland|1034|Glamis Castle, Angus, Scotland|
+pe9e2571d.html|"the Magnificent"|Robert I /"the Magnificent"/|1000|Rouen, France|1035|Nikaia, Turkiet|
+p043c96f1.html|"The stammerer"|Louis II /"The stammerer"/|846|Frankrike|879|Picardy, Frankrike|
+p7ba9d7b8.html|"Tveskägg" Haraldsson|Sven /"Tveskägg" Haraldsson/|960||1014|Gainsborough, England|
+pba46939f.html|(Andersson) Lindberg|Johannes /(Andersson) Lindberg/|9FEB 1772|Bolstad (P)|14MAR 1835|Amunderöd, Foss (O)|
+p5a7df765.html|(Borgos) Vetsel|Ola /(Borgos) Vetsel/|11APR 1905|Röros, Norge|1JUN 1976||
+p7b60edcc.html|(Bruce VII, Earl of Carrick) of Scotland|Robert I /(Bruce VII, Earl of Carrick) of Scotland/|11JUL 1274|Scotland|7JUN 1329|Cardross, Scotland|
+p97ad0127.html|(Carloman) of Italy|Pepin I /(Carloman) of Italy/|775|Aachen, Cologne, Tyskland|810|Milano, Lombardiet, Italien|
+p3d6cacd4.html|(de Lorraine) of Saunois|Rainer /(de Lorraine) of Saunois/|820|Champagne, Dordogne, Frankrike|890|Ardennes, Frankrike|
+pd7fe8374.html|(de Lothringen) of Verdun|Sigebert /(de Lothringen) of Verdun/|860|Provece, Frankrike|919|Luxenburg|
+p18e1f67f.html|(den fromme)|Ludvig /(den fromme)/|778|Chasseneuil-du-Poitou, France|840|Ingelheim, Rheinland-Pfalz, Germany|
+pc86ead19.html|(den lille)|Pipin III /(den lille)/|714||768|Saint-Denis, France|
+p242f6dbd.html|(den skallige)|Karl  II /(den skallige)/|823|Frankfurt, Tyskland|877|Mont Cenis, Frankrike|
+pd6639434.html|(Dunkeld) of Huntingdon|Henry /(Dunkeld) of Huntingdon/|1114|Scotland|12JUN 1152|Kelso, Roxburghshire, Scotland|
+pdb11c88d.html|(en frilla)|Thora /(en frilla)/|||||
+p44bf8e18.html|(Johansson) Lindberg|Lars /(Johansson) Lindberg/|10AUG 1808|Amunderöd, Foss (O)|30MAR 1866|Liden, Amunderöd (O)|
+pb39036ee.html|(Jorsalafare) Magnusson|Sigurd I /(Jorsalafare) Magnusson/|1090|Trondheim, Norge|1130|Oslo, Norge|
+pa5bc8767.html|(Stewart) de Menteith of Rusky & Knapdale|John /(Stewart) de Menteith of Rusky & Knapdale/|1265|Menteith, Pearthshire, Scotland|1323|Menteith, Pearthshire, Scotland|
+p7232c349.html|(Stewart) of Menteith|Alexander /(Stewart) of Menteith/|1240|Clydesdale, Crawford, Lanarkshire, Scotland|1306|Menteith, Pearthshire, Scotland|
+pa8eec7f7.html||Adelaide //|1035|Bayern, Tyskland|1091|Sulzbach, Bayern, Tyskland|
+p92d84162.html||AElfflaed //|||||
+p2ca24a98.html||Aelfgifu //|||||
+pedae4801.html||Agatha //|||||
+p09f28fc9.html||Benedicte //|||||
+p398e092a.html||Benedicte //|1290||1340||
+pe08f063d.html||Beret //|||||
+p6cf17c04.html||Bertha //|||||
+p5b0871ad.html||Birgitta //|||||
+pc16dd7a2.html||Björn //|||||
+p678ab5e3.html||Cecilie //|1120|Köpenhamn, Danmark|1170|Sorö, Danmark|
+p8f6a88d1.html||Charlemagne (Karl den Store) //|2APR 742|Liege, Frankrike|28JAN 814|Aachen, Cologne, Tyskland|
+p547ee9cc.html||Ealdgyth //|992||1016||
+pfb5ae8ca.html||Ealhswith //|||||
+p4fccc0eb.html||Eggberth //|||||
+p158e5bcc.html||Eline //|1380||1426|Ångsta, Lockne (Z)|
+pe7241d9e.html||Estrid //|||||
+p9e083989.html||Ethelred //|||||
+p8d4d3c9c.html||Frederuna //|||||
+pb7454c7f.html||Freskin //|||1171||
+p9a9ac2c0.html||Gudrun //|||||
+p86ecaf36.html||Gundred //|||1085|Castle Acre, Norfolk, England|
+p64ebf7bd.html||Gunnor //|950||1031||
+p0f68c72e.html||Gunnor //|950||1031||
+p2274c30a.html||Guren //|1630||||
+p7250d98c.html||Hardrad //|||||
+p0216399e.html||Helena //|||||
+p0cd95006.html||Herleva //|||||
+p84710d16.html||Herluf //|||||
+pe509468c.html||Ingeborg //|||1741|Heden, Dalskog (P)|
+p1ca06b76.html||Jonet //|1460||1520||
+p2f77be99.html||Juditd //|||||
+p4a9ef1c9.html||Karin //|||1547||
+p924bdc62.html||Kerstin //|||||
+p3e9c27b9.html||Kirsten //|||1371||
+pa6d82eb2.html||Kristine //|1562|Os, Hedmark, Viken, Norge|1612|Ingevalds Berget, Forsebol, Ör (P)|
+p41ef9fd3.html||Lestek //|||||
+pd19737c8.html||Lindorm //|1295||1364||
+p53784a33.html||Lucie //|||||
+p3c4057e0.html||Marthe //|1632|Röros, Norge|1702||
+p5f5b7596.html||Mieszko I //|930|Poznan, Polen|992|Poznan, Polen|
+p5607ffb1.html||Okänd //|||||
+pe9dfa0a2.html||Osburgh //|||||
+pefb0be14.html||Richenza //|1015||1063||
+pa3f17e2e.html||Siemowith //|||||
+p6b46ff32.html||Sprota //|911|Rouen, France|940|Fecamp, France|
+pb267330c.html||Stenkil //|||||
+pc637c654.html||Stenkil //|1030||1066||
+pea129328.html||Stoislav I //|1140|Tyskland|1194||
+pdd0eb12c.html||Suanhildis //|||||
+p3ad5c018.html||Svase eller Svåse //|||||
+p44ea1d2f.html||Swanechilde //|||||
+pab8f344d.html||William //|||1203||
+p64c5507f.html||Åsmund //|||||
+pe23c2851.html|10th of Mar & Douglas|Margaret /10th of Mar & Douglas/|1329|Kildrummie, Aberdeenshire, Scotland|1391|Douglasdale, Lanarkshire, Scotland|
+pbbd939f8.html|Aagesdatter Thott til Naes|Stig /Aagesdatter Thott til Naes/|1351|Löddeköpinge (M)|MAR 1417|Trollenäs slott, Onsjö (M)|
+pfe4fffc9.html|Aagesdatter Thott|Julianne /Aagesdatter Thott/|1315||||
+p9380e735.html|Aagesen Gagge til Stostorp|Anders /Aagesen Gagge til Stostorp/|1430|Fårebäck herrgård, Oxie, Malmö (M)|1492|Stostorp, Skåne|
+p431b4b13.html|Aagesen Stenbrikke|Anders /Aagesen Stenbrikke/|1295|Kokkedal, Hjörring, Danmark|1360||
+p927a0542.html|Aagesen Stenbrikke|Saxe /Aagesen Stenbrikke/|1200|Estland|1260||
+pe2e36fb0.html|Aagesen Thott til Löddeköpinge|Tord /Aagesen Thott til Löddeköpinge/|1230|Löddeköpinge (M)|1288||
+pa73e5cf0.html|Abernethy of Saltoun|James /Abernethy of Saltoun/|1454|Haddington, East Lotian, Scotland|1505|Edinburg, Scotland|
+pdea71ffd.html|Abernethy|Alexander /Abernethy/|1273|Abernethy, Pearthshire, Scotland|1315|Abernethy, Pearthshire, Scotland|
+pb7fb411d.html|Abernethy|Elizabeth /Abernethy/|1480|Haddington, East Lotian, Scotland|1574|Scotland|
+pf04eab9b.html|Abernethy|Laurence /Abernethy/|1400|Haddington, East Lotian, Scotland|13MAR 1461|Haddington, East Lotian, Scotland|
+p69af2068.html|Abernethy|Mary /Abernethy/|1289|Scotland|19NOV 1335|Lindores Abbey, Fifeshire, Scotland|
+p37279489.html|Abjörnsdotter (Bagge af Berga)|Märta /Abjörnsdotter (Bagge af Berga)/|1430|Ljungby (G)|1496|Ljungby (G)|
+p7d726eaa.html|Abjörnsson (Bagge af Berga)|Jöns /Abjörnsson (Bagge af Berga)/|1342|Hjälmaryd (G)|1417||
+p17593b3f.html|Abrahamsdatter Sjövold|Lisbeth /Abrahamsdatter Sjövold/|1801|Sjövold, Brekken, Norge|1888|Vasa, Goodhue, Minnesota, US|
+p80fb7797.html|Abrahamsdatter Svenske|Beritte /Abrahamsdatter Svenske/|1737|Svenskán, Stormoen, Röros, Norge|1780|Klasvollen Øvre, Djupsjølia, Røros, Norge|
+pf202fe4c.html|Abrahamsdotter Bonde (Baad av Halland)|Cecilia /Abrahamsdotter Bonde (Baad av Halland)/|1407||||
+p9511fad5.html|Abrahamsson Djäkn|Mårten /Abrahamsson Djäkn/|1350|Finland|1423|Finland|
+pf7405032.html|Abramsen Sjövold|Ole /Abramsen Sjövold/|1794|Sjövold, Brekken, Norge|1861|Sjövold, Brekken, Norge|
+p4538568f.html|Agmundsson Stangarfylja Bolt|Harald /Agmundsson Stangarfylja Bolt/|1180|Stange, Hedmark, Norge|1227||
+pe0440b34.html|av Akvitanien|Grimhildis /av Akvitanien/|784|Aquitaine, France|856|Roussillion, France|
+pd607c92d.html|Albertsdatter von Eberstein|Marianne /Albertsdatter von Eberstein/|1275|Everstein, Holzminden, Tyskland|1360|Asdal, Hjörring, Danmark|
+p10d08fcf.html|Albrechtsen von Everstein|Ludvig /Albrechtsen von Everstein/|1272|Gaggenau, Tyskland|1328|Viborg, Danmark|
+p26fb71c8.html|Alexandersson Mowat av Loscragie and Freswick|John /Alexandersson Mowat av Loscragie and Freswick/|1440|Balquholly, Banffshire, Scotland|1512||
+p7ee306c7.html|Alfsson|Reer /Alfsson/|1610|Lyse (O)|1657|Lyse (O)|
+p8830d645.html|von Altdorf|Welf /von Altdorf/|776|Altdorf, Schweiz|825|Schwaben, Frankiska riket (i nuvarande Tyskland)|
+pd32d02bf.html|Alvsdatter spedelsko Thornberg|Kristina /Alvsdatter spedelsko Thornberg/|1260|Tanberg, Ringerike, Norge|1348|Søum, Sandsvær, Norge|
+p1b304869.html|Alvsson til Tornberg|Erling "den unge" /Alvsson til Tornberg/|1230|Tornberg, Ringerike, Norge|1283|Helsingborg (M)|
+p5b794370.html|Ambjörnsson|Anders /Ambjörnsson/|||||
+p571bddd3.html|Amundsdotter|Anna /Amundsdotter/|1689|Sanne (O)|1763|Hede (O)|
+p8ea3eefe.html|Amundsson|Anders /Amundsson/|||1648|Sanne (O)|
+pc8e6836a.html|av Andenne|Begge /av Andenne/|615|Landen, Brabant, Flandern, Belgien|693|Andenne, Namur, Vallonien, Belgien|
+paaafedd1.html|Andersdatter Blaa|Kjöle /Andersdatter Blaa/||Lövestad (M)|||
+p7ebe994a.html|Andersdatter Gagge|Katrine /Andersdatter Gagge/|1385|Jordberga, Trelleborg (M)||Skåne, Sverige|
+p06b3105d.html|Andersdatter Hitterdal|Anne /Andersdatter Hitterdal/|1748|Jensvoll, Röros, Norge|1788|Röros, Norge|
+pa5409572.html|Andersdatter Lien|Gjertrud /Andersdatter Lien/|1809||1861|Ålen, Norge|
+p9dae4376.html|Andersdatter Ryen|Lisbeth /Andersdatter Ryen/|1725|Ryen gård, Brekken, Aursund, Norge|1778|Myrmoen, Aursunden, Norge|
+p526b6835.html|Andersdatter|Lucia /Andersdatter/|||1766|Brekken, Norge|
+pda76c8fe.html|Andersdotter (Panter)|Ingeborg /Andersdotter (Panter)/||Löddeköpinge (M)|1417||
+paaef8751.html|Andersdotter (Stenbrikke)|Johanne /Andersdotter (Stenbrikke)/|1360|Eberstein, Braunschweig, Tyskland|1419|Knivholt, Danmark|
+p786c2baa.html|Andersdotter Gadd|Anna /Andersdotter Gadd/|1648|Gävle (X)|1715|Gävle (X)|
+p8b924983.html|Andersdotter Thott|Ellen /Andersdotter Thott/|1430||||
+pab4049ce.html|Andersdotter|Anna /Andersdotter/|||||
+pfc4649b5.html|Andersdotter|Anna /Andersdotter/|||||
+p308dbe8e.html|Andersdotter|Anna /Andersdotter/|||||
+p6d34e4a8.html|Andersdotter|Anna /Andersdotter/|||2DEC 1716|Sjöritz, Foss (O)|
+pbda92a52.html|Andersdotter|Anna /Andersdotter/|1640|Foss (O)|1693|Foss (O)|
+pb633a53a.html|Andersdotter|Anna /Andersdotter/|1674|Brastad (O)|1717|Brastad (O)|
+p32177435.html|Andersdotter|Anna /Andersdotter/|1687|Skulevik, Foss (O)|13DEC 1757|Holmen, Foss (O)|
+pc0881c44.html|Andersdotter|Anna /Andersdotter/|1710|Foss (O)|||
+pce98d0c8.html|Andersdotter|Anna /Andersdotter/|1755|Hede (O)|1808|Hede (O)|
+pb410f5cb.html|Andersdotter|Anna /Andersdotter/|1760||||
+p83b0d8ce.html|Andersdotter|Anna /Andersdotter/|1761|Torrskog (P)|1832|Ärtemark (P)|
+p6a7cd40c.html|Andersdotter|Anna /Andersdotter/|1768||||
+pb39f450f.html|Andersdotter|Astri /Andersdotter/|||1716|Håby (O)|
+p965ca87f.html|Andersdotter|Barbro /Andersdotter/|||||
+pae21d24b.html|Andersdotter|Britta /Andersdotter/|22JAN 1727|Flatgärde, Holm (P)|1808|Svecklingeby, Ör (P)|
+p0473f74b.html|Andersdotter|Börita /Andersdotter/|1605|Järn (P)|1670|Skärbo, Järn (P)|
+p7ac1f222.html|Andersdotter|Börta /Andersdotter/|1639|Foss (O)|1691|Foss (O)|
+pcc744a36.html|Andersdotter|Börta /Andersdotter/|1726|Håby (O)|1801|Hede (O)|
+pb1acbaa9.html|Andersdotter|Carin /Andersdotter/|1736|Laxarby (P)|1801|Laxarby (P)|
+p8e308c78.html|Andersdotter|Carin /Andersdotter/|1782|Dalsland|1846|Närestad, Foss (O)|
+p81aaab47.html|Andersdotter|Carolina /Andersdotter/|11OCT 1838|Håby (O)|17MAY 1917|Ulseröd, Mo (O)|
+pbb1d90f2.html|Andersdotter|Christina /Andersdotter/|1777|Håby (O)|1818|Svarteborg (O)|
+p0390255b.html|Andersdotter|Christina Maria /Andersdotter/|3JUN 1840|Haneström, Fuxerna (P)|2OCT 1898|Kullås, Fuxerna (P)|
+pbf839f7c.html|Andersdotter|Ella /Andersdotter/|AUG 1699|Rickebo, Bollnäs (X)|1750|Svartbo, Bollnäs (X)|
+p2991492e.html|Andersdotter|Gunvor /Andersdotter/|||||
+p5066c126.html|Andersdotter|Ingeborg /Andersdotter/|1708|Uddheden, Gräsmark (S)|||
+p37eb8315.html|Andersdotter|Johanna /Andersdotter/|20SEP 1797|Edet, Fuxerna (P)|21APR 1859|Kullås, Fuxerna (P)|
+pd9b63935.html|Andersdotter|Kajsa /Andersdotter/|7DEC 1805|Arnolfsby Stommen, Skållerud (P)|1856|Dalskog (P)|
+pf98abc4c.html|Andersdotter|Karin /Andersdotter/|||1714|Bärfendal (O)|
+pf498d8a1.html|Andersdotter|Kersti /Andersdotter/|||||
+p8c0fea83.html|Andersdotter|Kerstin /Andersdotter/|||||
+pf64eade0.html|Andersdotter|Kerstin /Andersdotter/|||||
+p8207f2eb.html|Andersdotter|Kerstin /Andersdotter/|1655|Nössemark (P)|1730|Torrskog (P)|
+p5ad2cd97.html|Andersdotter|Kerstin /Andersdotter/|1738|Skållerud (P)|1822|Skållerud (P)|
+p89716d5d.html|Andersdotter|Kerstin /Andersdotter/|1775|Dalskog (P)|4MAR 1843|Eriksbyn, Skållerud (P)|
+p43dd44f6.html|Andersdotter|Maja (Maria) /Andersdotter/|30JUN 1802|Laxarby (P)|12JAN 1885|Översidan, Laxarby (P)|
+pd7d39095.html|Andersdotter|Malin /Andersdotter/|SEP 1734|Glyckshult, Skålleröd (P)|1808|Kopparbol, Dalskog (P)|
+p7ed62605.html|Andersdotter|Margareta /Andersdotter/|1721|Hede (O)|1799|Hede (O)|
+pddb797c6.html|Andersdotter|Margareta /Andersdotter/|14JAN 1807|Rörseröd, Hede (O)|1876|Amunderöd, Foss (O)|
+p1f69f506.html|Andersdotter|Maria /Andersdotter/|||||
+pf209b388.html|Andersdotter|Maria /Andersdotter/|1672|Bråland, Foss (O)|21FEB 1752|Foss (O)|
+pef4316cd.html|Andersdotter|Maria /Andersdotter/|1780|Heden, Dalskog (P)|10OCT 1850|Kopparbol, Dalskog (P)|
+pb79d432d.html|Andersdotter|Mikael /Andersdotter/|||||
+pe34f7e07.html|Andersdotter|Märta /Andersdotter/|||1797|Dalskog (P)|
+p8039f6d7.html|Andersdotter|Sigrid /Andersdotter/|1662|Foss (O)|1734|Foss (O)|
+p3661088b.html|Andersdotter|Stina /Andersdotter/|1788|Ärtemark (P)|1854|Ärtemark (P)|
+pb10e09ac.html|Andersdotter|Stina Maja /Andersdotter/|6OCT 1848|Anolfsbyn, Skållerud (P)|22OCT 1927|Nedra Steröd, Hjärtum (O)|
+p78cd0fa0.html|Andersdotter|Walborg /Andersdotter/|1733|Foss (O)|1789|Foss (O)|
+p9599f173.html|Andersen Dalen|Peder /Andersen Dalen/|1684|Pålsdalen, Röros, Norge|1773|Kvipsdalen, Röros, Norge|
+p42779dc3.html|Andersen Dalen|Troen /Andersen Dalen/|1686|Pålsdalen, Röros, Norge|1751|Röros, Norge|
+p1d62673f.html|Andersen Evavoll|Ole /Andersen Evavoll/|1764|Evavoll söndre, Röros, Norge||Svendsam, Tamnes, Norge|
+pd145bfb2.html|Andersen Gagge|Erik /Andersen Gagge/|1450|Stostorp, Skåne|1500|Bidstrup, Viborg, Danmark|
+p2070bbe2.html|Andersen Myrmoen|Henrik /Andersen Myrmoen/|1785|Aursunden, Norge|||
+p1bccdab0.html|Andersen Prytz|Jacob /Andersen Prytz/|1640||1722|Röros, Norge|
+p011cb94a.html|Andersen Sollie|Ingebrigt /Andersen Sollie/|1683|Sollie Östra, Röros, Norge|1754|Ingebrigtsgården, Brekken, Norge|
+pc9faa392.html|Andersen Ulfeldt|Strange /Andersen Ulfeldt/|1140|Danmark|1186|Danmark|
+pc7d8d24e.html|Anderssen Bielke af Gyllarp|Joseph /Anderssen Bielke af Gyllarp/|1400|Gullarp, Trollenäs (M)|1477||
+p0005ec09.html|Anderssen Skott|Lars /Anderssen Skott/|||||
+p268faacb.html|Andersson Esping|Lasse /Andersson Esping/|1470||1540|Kassor, Pargas, Finland|
+p778509f9.html|Andersson Garp|Jöns /Andersson Garp/|1350|Isokartano, Laitila, Finland|1407|Tursanperä, Mynämäki, Finland|
+p890f72b9.html|Andersson Kruse|Erik /Andersson Kruse/||Mosjö (T)|1703||
+p1483cc21.html|Andersson|Anders /Andersson/|||||
+pd2d8263e.html|Andersson|Anders /Andersson/|||1759|Skållerud (P)|
+pb7105049.html|Andersson|Anders /Andersson/|MAY 1651|Skulevik, Foss (O)|29SEP 1736|Kasen, Ödsby, Foss (O)|
+p5685ef58.html|Andersson|Anders /Andersson/|1694|Håby (O)|1756|Håby (O)|
+pb7f3467d.html|Andersson|Anders /Andersson/|1774|Steneby (P)|1838|Laxarby (P)|
+p3cb562a8.html|Andersson|Anders Johan /Andersson/|13OCT 1882|Brattorp, Hjärtum (O)|14AUG 1944|Torresröd, Hjärtum (O)|
+p7466e42f.html|Andersson|Andreas /Andersson/|1755|Hede (O)|1829|Gunnarsröd, Hede (O)|
+pa443faa9.html|Andersson|Bryngel /Andersson/|1600||1671|Ör (P)|
+p8a756187.html|Andersson|Elias /Andersson/|1MAY 1789|Haljeröd, Forshälla (O)|1JUN 1851|Lilla Edet, Fuxerna (P)|
+paecb62b7.html|Andersson|Emanuel /Andersson/|8OCT 1842|Ingelstorp, Hjärtum (O)|6APR 1921|Nedra Steröd, Hjärtum (O)|
+pe7230d21.html|Andersson|Erik /Andersson/|1680|Nössemark (P)|1760|Torrskog (P)|
+pe097a40f.html|Andersson|Eva Susanne /Andersson/|22DEC 1964|Uddevalla (O)|||
+pbd9caca3.html|Andersson|Gammal /Andersson/|1610||1689|Sanne (O)|
+p40e9fd10.html|Andersson|Gunnar /Andersson/|||1710|Laxarby (P)|
+p99bece2c.html|Andersson|Halvard /Andersson/|||||
+p6bb853e9.html|Andersson|Hindrik /Andersson/|||||
+p00252983.html|Andersson|Ingemar /Andersson/|||||
+p0e8eedf0.html|Andersson|Ingevald /Andersson/|1659|Ör (P)|1740|Skållerud (P)|
+pbe8e41a6.html|Andersson|Ingrid /Andersson/|||||
+pa093428e.html|Andersson|Johannes /Andersson/|20MAR 1843|Översidan, Laxarby (P)|11FEB 1937|Solvik, Laxarby (P)|
+p67ca0593.html|Andersson|Jon /Andersson/|||1672|Blomskog (S)|
+pd8667bf8.html|Andersson|Jörgen /Andersson/|1535|Bro (O)||Bro (O)|
+p7cf6b445.html|Andersson|Kristen /Andersson/|1642|Foss (O)|1708|Öbbön, Foss (O)|
+p095d94f4.html|Andersson|Lars /Andersson/|1660|Foss (O)|||
+p6a225f6c.html|Andersson|Lars /Andersson/|1735||||
+p8cfc8bf1.html|Andersson|Lars Rustan /Andersson/|10AUG 1929|Hjärtum (O)|21MAR 1986|Uddevalla (O)|
+p4452b8ff.html|Andersson|Magnus /Andersson/|1783|Ärtemark (P)|1869|Hökhult, Ärtemark (P)|
+pe4675e2b.html|Andersson|Mats Rustan /Andersson/|22FEB 1956|Mo (O)|||
+p8dabc46e.html|Andersson|Mårten /Andersson/|||||
+pfa3c0889.html|Andersson|Mårten /Andersson/|1711|Steneby (P)|1772|Steneby (P)|
+p1bf691d4.html|Andersson|Nils /Andersson/|||||
+p320039bd.html|Andersson|Nils /Andersson/|1640|Nössemark (P)|1696|Torrskog (P)|
+p8fc4e14a.html|Andersson|Nils /Andersson/|1735|Svarteborg (O)|1801|Svarteborg (O)|
+p6daa4829.html|Andersson|Olof /Andersson/|||||
+p9a7edae2.html|Andersson|Olof /Andersson/|||||
+pcd29e950.html|Andersson|Olof /Andersson/|||1717|Foss (O)|
+p4c2f88cf.html|Andersson|Olof /Andersson/|1755|Håby (O)|||
+p38fc6ecf.html|Andersson|Per /Andersson/|1717|Dalen, Tisselskog (P)|1801|Dalen, Tisselskog (P)|
+pcf8ddab4.html|Andersson|Reer /Andersson/|1550|Lyse (O)|||
+p7302ad7e.html|Andersson|Rose Marie Viola /Andersson/|24FEB 1959|Uddevalla (O)|||
+p8be8fa9c.html|Andersson|Ruth Annika /Andersson/|8JUL 1967|Uddevalla (O)|||
+p25c96e7f.html|Andersson|Sven /Andersson/|||||
+p7c1b8ae3.html|Andersson|Sven /Andersson/|||1765|Skållerud (P)|
+p89a290f2.html|Andersson|Sören /Andersson/|1641|Lyse (O)|1711|Lyse (O)|
+p7de5e31e.html|Andersson|Thomas /Andersson/|||||
+pc29a8064.html|Andersson|Torsten /Andersson/|1620|Brastad (O)|1672|Brastad (O)|
+p0b8c9ed4.html|Andersson|Åsa Vivianne /Andersson/|5FEB 1961|Uddevalla (O)|||
+pe60fdd9b.html|Andreasdotter|Anna Greta /Andreasdotter/|1784|Gunnarsröd, Hede (O)|1833|Ödsmål, Håby (O)|
+p6c538ba6.html|Andreasdotter|Helena /Andreasdotter/|1813|Foss (O)|1880|Krokstad (O)|
+p18a54136.html|Andreasson|Anders /Andreasson/|30OCT 1800|Bomans, Fuxerna (P)|26SEP 1865|Kullås, Fuxerna (P)|
+p6edd72be.html|Andreasson|Johannes /Andreasson/|24MAY 1836|Solliden, Ärtemark (P)|5MAR 1922|Huvudgingen, Ärtemark (P)|
+pfb573afd.html|av Anjou|Fulk II /av Anjou/|905||960|Tours, Frankrike|
+p3f29e7dc.html|Antoniusdatter|Synnöve /Antoniusdatter/|1659||21SEP 1727|Röros, Norge|
+p8bda1e85.html|ap Cynan of Gwynedd|Gruffudd /ap Cynan of Gwynedd/|1055|Dublin, Ireland|1137|Wales|
+pcd4c808a.html|ap Iorworth of north Wales|Llywelyn /ap Iorworth of north Wales/|1173|Gwynedd, Wales|APR 1240|Cistercian abbey, Wales|
+p91e02350.html|ap Llywelyn|Gruffudd /ap Llywelyn/|1190|Wales|1MAR 1244|Wales|
+p4f2c2152.html|ap Maredudd of Powys|Madog /ap Maredudd of Powys/||Powys, Wales|1160|Winchester,Hampshire, England|
+p85a528ed.html|ap Owain of North Wales|Iorworth /ap Owain of North Wales/|1145|Wales|1174|Wales|
+pc08d0b24.html|ap Thomas  of Anglesey|Caradoc /ap Thomas  of Anglesey/|1176||1231||
+p2b0d6eba.html|Apellegaard|Claus /Apellegaard/|||1396||
+pbe038eee.html|Arnesdotter|Kerstin /Arnesdotter/|1705|Bränna, Skållerud (P)|1780|Sundserud, Skållerud (P)|
+p9ec7a31d.html|Arnesen av Giske|Torberg /Arnesen av Giske/|||||
+p7ea82ec7.html|Arnesen Smørbalte|Jon /Arnesen Smørbalte/|1070|Huk, Norge|1150|Blindheim, Sunnmøre, Norge|
+p8863a581.html|Arnesson av Giske|Torberg /Arnesson av Giske/|990|Giske, Norge|1050|Giske, Norge|
+p9477238f.html|Arnesson|Anders /Arnesson/|||||
+pf0e63b46.html|Arnetsen Fasti|Christiern /Arnetsen Fasti/|1348||||
+p27679a55.html|Arnmodsen av Ringnes|Kalv /Arnmodsen av Ringnes/|960||||
+p1b246837.html|Arnmodson av Giske|Arne /Arnmodson av Giske/|||||
+p780f70b1.html|Arnmodson av Giske|Arne /Arnmodson av Giske/|965|Giske, Norge|1024|Giske, Norge|
+p9f375a34.html|Arnvidsson vid Giske|Arnmod /Arnvidsson vid Giske/|945|Giske, Norge|986|Hjorungavåg, Hareid, Norge|
+pa8c27998.html|Arnvidsson|Arnmod /Arnvidsson/|945|Giske, Norge|986|Hjörungavåg, Hareid, Norge|
+pafc9f923.html|Arpad of Hungary|Agathe /Arpad of Hungary/|||||
+pa30e61b7.html|Arstsen till Ørs|Peder /Arstsen till Ørs/|||||
+p85a34629.html|Arvidsdotter Pik|Estrid /Arvidsdotter Pik/|||||
+p518458f4.html|Arvidsdotter Rothovia|Katarina /Arvidsdotter Rothovia/|1654|Finland|1732|Steneby (P)|
+p8701f2d3.html|Arvidsdotter|Ingeborg /Arvidsdotter/|1529|Frälsegården Edeby, Övre Ullerud (S)|1566|Ekshärad (S)|
+p2e5eaaa6.html|Arvidsdotter|Karin /Arvidsdotter/|1668||1719|Håby (O)|
+pd5f1fc90.html|Arvidsson|Bengt /Arvidsson/|1545||1587|Kexholm, Finland|
+p516c9f9d.html|Asbjörnsdatter|Signe /Asbjörnsdatter/|1050|Danmark|1096|Fjenneslev, Sörö, Danmark|
+pf6491edb.html|Aslagsdotter|Helga /Aslagsdotter/|1614|Svarteborg (O)|||
+p29934ead.html|Aslaksson|Horda-Kåre /Aslaksson/|870|Moster, Bømlo, Norge|920|Sola, Rogaland, Norge|
+p5a541253.html|Asmundsson|Hans /Asmundsson/|1656|Brastad (O)|1741|Brastad (O)|
+p77ae132f.html|Asserson, Hvide, Snare|Esbern /Asserson, Hvide, Snare/|1127|Fjenneslev, Sörö, Danmark|1204|Säby gård, Holbeck, Danmark|
+p593bd7d5.html|Asulvsdatter|Ragnhild /Asulvsdatter/|||1235|Island|
+p363365b1.html|Atheling of Wessex|Edward /Atheling of Wessex/|1016||1057|London, England|
+p7d0f9b7f.html|Athyn Mckay|Mariota "Margaret" /Athyn Mckay/|1350|Strathnaver, Sutherland, Scotland|1402|Scotland|
+pebdc0b3c.html|d'Aubigny of Belvoir|William II /d'Aubigny of Belvoir/|1130|Belvoir Castle, Leicestershire, England|1186|Lincolnshire, England|
+pf21af3f3.html|d'Aubigny|Matilda /d'Aubigny/|1153|Belvoir Castle, Leicestershire, England|1210|Pearth, Pearthshire, Scotland|
+pf7777d8b.html|Audbjörnsson av Fjordane|Roland /Audbjörnsson av Fjordane/|||||
+pb0bac8fa.html|Audensen Døl|Jon /Audensen Døl/|1657|Röros, Norge|1740|Röros, Norge|
+p6fda486f.html|Audunarsdottir|Thora /Audunarsdottir/|890|Audunarstad, Vividal, Island|930|Norge|
+p44798450.html|Aunarsson|Bifra-Kåre /Aunarsson/|820|Norge|||
+pca093012.html|av Austrasia|Alpaida /av Austrasia/|650|Prum, Rheinland-Pfalz, Germany|705|Orp-le-Grand, Vallonien, Belgien|
+p33f56c32.html|av Autun|Adalhem /av Autun/|748|Autun, Bourgogne, Frankrike|808|Autun, Bourgogne, Frankrike|
+pdd4673bc.html|av Autun|Thierry I /av Autun/|710|Autun, Bourgogne, Frankrike|782|Toulouse, Occitanie, France|
+pd603b504.html|av Autun|Waldrada /av Autun/|770|Autun, Bourgogne, Frankrike|824|Orleáns, France|
+p6d1d23b9.html|Axelsdatter Erntsgrubba|Berit /Axelsdatter Erntsgrubba/|1802|Ernstgrubba, Hitterdalen, Röros, Norge|1894||
+p3d927583.html|Axelsdatter Saxstrup|Helvig /Axelsdatter Saxstrup/|1450||||
+p9696a731.html|Axelsson|Johan Ernfrid /Axelsson/|3OCT 1906|Huvudgingen, Ärtemark (P)|26MAR 1947|Lundby, Göteborg (O)|
+p056e0d7e.html|Bailloch Stewart of Menteith|Walter /Bailloch Stewart of Menteith/|1230||28APR 1296||
+p028ec3a4.html|Ballon au Maine (de Normandy)|Emmeline /Ballon au Maine (de Normandy)/|1038|Falaise, Calvados, Normandie, Frankrike|1094|Calais, Frankrike|
+p707b690a.html|Basse (Gamle)|Tale /Basse (Gamle)/||Kvaerkeby, Sorö, Danmark||Eskildstrup, Sorö, Danmark|
+pf1ca0c0e.html|Batail of Fawdon|Constance /Batail of Fawdon/|1210|Carrick, Argyll, Scotland|1274|Douglas casltle, Lanarkshire, Scotland|
+p97b9ba84.html|von Bayern|Adala /von Bayern/|||||
+pa902e759.html|av Bayern|Hedvig /av Bayern/|778|Alamannia|835|Bayern, Tyskland|
+p01c94b42.html|av Bayern|Judith /av Bayern/|800||843|Tours, Frankrike|
+p7c8444b8.html|Beauchamp| /Beauchamp/|1021|Normandy, France|||
+pa4b83b18.html|Beitil "Hästsvans"|Ivar /Beitil "Hästsvans"/|787||850||
+pf64bc941.html|Benedictsen I Hollunger til Bramme|Niels (Jens) /Benedictsen I Hollunger til Bramme/|1300||||
+pcfed4f39.html|Bengtsdotter|Elin /Bengtsdotter/|1580|Viborg, Finland|1655|Kexholm, Finland|
+p69d97191.html|Bengtsdotter|Ingeborg /Bengtsdotter/|1444||||
+p63cde6ca.html|Bengtsson|Brynte /Bengtsson/|1500||1540||
+pa7ed3e9e.html|Bengtsson|Eskil /Bengtsson/|1570|Västra Hungvik, Stavnäs (S)|1643|Magnebyn, Gillberga (S)|
+pcab13e0c.html|Bentsdatter Langen|Lisbet /Bentsdatter Langen/|1777|Röros, Norge|1858|Röros, Norge|
+pe3408183.html|Bentsdatter Wessel|Anne Margrete /Bentsdatter Wessel/|1848|Borgos, Röros, Norge|1908|Brekken, Röros, Norge|
+pf1d40d62.html|Berg|Lars /Berg/|1785||||
+pf0e8bffc.html|Bertelsen Romsdal|Oluf /Bertelsen Romsdal/|1630|Röros, Norge|1694|Röros, Norge|
+p5b25e2c4.html|Bifronsdatter|Ragnhild /Bifronsdatter/|1075||1163|Sorö, Danmark|
+pa8417027.html|Bifronsdotter av Danmark|Ragnhild /Bifronsdotter av Danmark/|1100|Sorø, Själland , Danmark|1163|Sorø, Själland , Danmark|
+pde225fc8.html|Billung of Saxony|Hermann /Billung of Saxony/|905|Saxony, Tyskland|27MAR 973|Quedinburg, Sachsen, Tyskland|
+pc6a456c2.html|Bing till Gunderslevholm|Niels /Bing till Gunderslevholm/|1371||1429||
+p93fe96e9.html|Birgersson Rooth|Hans /Birgersson Rooth/|1580|Hedenstorp, Angelstad (G)|1628|Jama, Ingermanland, Ryssland|
+p69a15b8b.html|Bitling, "the Duarf" Gudrödsson|Olof I /Bitling, "the Duarf" Gudrödsson/|1080|Isle of Man, England|1153|Isle of Man, England|
+pebb19e82.html|Bjarnason Skokul|Audun /Bjarnason Skokul/|870|Vestfold, Norge|920|Audunarstad, Vividal, Island|
+p88444780.html|Bjørnsdatter Byrdasvein|Eldrid /Bjørnsdatter Byrdasvein/|1160|Sør Trøndelag, Norge|1210||
+p484c5c37.html|Björnsdotter (Krumme)|Kristina /Björnsdotter (Krumme)/|1490||1515|Fyllinge, Snöstorp (N)|
+p542dc097.html|Björnsson på Aurland|Brynjulf /Björnsson på Aurland/|850|Aurland, Sogn og Fjordane, Norge|922|Aurland, Sogn og Fjordane, Norge|
+pe112655d.html|Björnsson|Gnupa-Bard /Björnsson/|985||||
+p5396d1ff.html|Björnsson|Olof /Björnsson/|1680|Forshälla (O)|27FEB 1755|Röd, Forshälla (O)|
+p17f4fbf1.html|Björnsson|Olof /Björnsson/|19JUL 1742||19JAN 1798|Röd, Forshälla (O)|
+pcd73dc46.html|Blanche de Anjou|Adelaide /Blanche de Anjou/|940||1028||
+pc67e386c.html|Blå|Erik /Blå/|||||
+p3964a148.html|Bonde|Ingrid /Bonde/|||||
+pd2b3abd9.html|Bondesdotter|Karin /Bondesdotter/|1660|Ribbenäs, Sunne (S)|1714|Sunne (S)|
+pcd3e29fc.html|Boosdotter|Margareta /Boosdotter/|||1542|Hamrånger (X)|
+pc5d6e9ac.html|Bosdatter Dyre| /Bosdatter Dyre/|1281|Tubetorp, Smörum, Danmark|1300|Saerslev, Själland, Danmark|
+p98e5edf6.html|Boso I of Provence| /Boso I of Provence/|850||887||
+p60c01303.html|Breid Einarsson|Olav /Breid Einarsson/|898|Norge|||
+pf3bcfadb.html|av Bretagne|Conan I /av Bretagne/|950|Bretagne, Frankrike|992|Bretagne, Frankrike|
+p4a610386.html|av Bretagne|Judith /av Bretagne/|982|Bretagne, Frankrike|1017|Bretagne, Frankrike|
+pc8e322ca.html|av Bretagne|Rickard I /av Bretagne/|933|Fecamp, France|996|Fecamp, France|
+pe4c72108.html|Broberg|Börje /Broberg/|||||
+p754d0ff5.html|Brodersson|Abraham /Brodersson/|1350|Halland (N)|27AUG 1410|Sønderborg, Danmark|
+pbe56cd21.html|Bruce|Marjorie /Bruce/|1296|Dundonald Castle, Ayrshire, Scotland|2MAR 1316|Paisley, Scotland|
+p9a98a326.html|Bruhn|Olof /Bruhn/|1430|Vä (L)||Vä (L)|
+p27087f6d.html|Bruse|Mathilda (Maud) /Bruse/|1282|Carrick, Argyll, Scotland|1323|Fearn, Ross & Cromarty, Scotland|
+p1b87e122.html|Bryngelsdotter|Anna /Bryngelsdotter/|||||
+p265dacc0.html|Bryngelsdotter|Anna /Bryngelsdotter/|||1704|Laxarby (P)|
+p1dcba658.html|Bryngelsdotter|Karin /Bryngelsdotter/|1598|Ingevalds Berga, Ör (P)|1660|Hult, Ör (P)|
+p6578e393.html|Bryngelsdotter|Katarina /Bryngelsdotter/|28SEP 1774|Groröd, Bäve (O)|31DEC 1822|Björbäck, Bäve (O)|
+p7b2c645a.html|Bryngelsdotter|Kerstin /Bryngelsdotter/|||||
+pd70dd5ae.html|Bryngelsdotter|Kerstin /Bryngelsdotter/|28JAN 1682|Toneby, Sunne (S)|3AUG 1743|Ed, Sunne (S)|
+p9872dea6.html|Bryngelsson Hedman|Anders /Bryngelsson Hedman/|1749|Heden, Dalskog (P)|22MAY 1801|Heden, Dalskog (P)|
+p9e6ca077.html|Bryngelsson|Anders /Bryngelsson/|1592|Ingevalds Berga, Ör (P)|1665|Rud, Järn (P)|
+p4b9a90a4.html|Bryngelsson|Enar /Bryngelsson/|||1701|Laxarby (P)|
+pef864691.html|Bryngelsson|Ingewald /Bryngelsson/|||||
+p5496299b.html|Bryngelsson|Mårten /Bryngelsson/|1635|Hult, Ör (P)|1703|Hult, Ör (P)|
+p66b4123a.html|Bryngelsson|Per /Bryngelsson/|1731|Skållerud (P)|1808|Holm (P)|
+p44a3f6b9.html|Bryngelsson|Sven /Bryngelsson/|1600|Ingevalds Berga, Ör (P)|1637|Ingevalds Berga, Ör (P)|
+paa1e094b.html|Brynjulfsdatter| /Brynjulfsdatter/|1067|Aurland, Sogn og Fjordane, Norge|||
+p22b878cf.html|Brynjulfson Eid|Eindride /Brynjulfson Eid/|1165|Möre og Romsdal, Norge||Stryn, Norge|
+pe9ff8c6c.html|Brynjulfsson på Aurland|Tord /Brynjulfsson på Aurland/|895|Aurland, Sogn og Fjordane, Norge|952||
+pd62f9927.html|Brynnilds|Olof d.ä. /Brynnilds/||Brynnildsvoll, Brekken Aursund, Röros, Norge|1690|Brynnildsvoll, Brekken Aursund, Röros, Norge|
+pdca8be75.html|Brynolphi Forsaeus|Andreas /Brynolphi Forsaeus/|1635|Ör (P)|1717|Steneby (P)|
+p909b7084.html|Bryntesson|Bengt /Bryntesson/|1525|Västra Hungvik, Stavnäs (S)|1604|Västra Hungvik, Stavnäs (S)|
+pb5f97c70.html|Bryske|Hartvig /Bryske/|1361|Kragerup, Danmark|1408|Terlöse, Danmark|
+pe574ac96.html|Budlasdatter|Brynhild /Budlasdatter/|||||
+pd2f67e1d.html|Buna Grimsson på Aurland|Björn /Buna Grimsson på Aurland/|810||850||
+pd3d5edba.html|Burman|Johan Petter /Burman/|1731|Brastad (O)|1763|Foss (O)|
+pc1615aa4.html|Burman|Simon /Burman/|1701|Kungälv (O)|1758|Foss (O)|
+p636c6140.html|Byrdasvein|Björn /Byrdasvein/|1130||||
+pe632ea59.html|Bårdsdotter Rein|Ingeborg /Bårdsdotter Rein/|||||
+p4118cae5.html|Bårdson Eid|Brynjulf /Bårdson Eid/|1140|Möre og Romsdal, Norge|||
+pec0b4cf6.html|Bårdsson|Nefsteinn /Bårdsson/|||||
+p0447f350.html|Bäk d.ä|Sven /Bäk d.ä/|||||
+pcd26529f.html|av Böhmen|Borivoj I /av Böhmen/|851|Velehrad, Tjeckien|889|Tetin, Böhmen, Tjeckien|
+p22980db6.html|av Böhmen|Dubrawka /av Böhmen/|925|Prag, Tjekien|977||
+p856b4421.html|av Böhmen|S:t Ludmila /av Böhmen/|857|Melnik, Böhmen, Tjeckien|921|Tetin, Böhmen, Tjeckien|
+p64b8f731.html|av Böhmen|Vratislav I /av Böhmen/|877|Prag, Tjekien|921|Prag, Tjekien|
+pc3ff4789.html|Börgesson eller Andersson|Amund /Börgesson eller Andersson/|1540|Lycke, Rännelanda (P)|1615|Lycke, Rännelanda (P)|
+p859e657b.html|Börjesdotter|Anna /Börjesdotter/|1621|Håby (O)|1672|Håby (O)|
+p47e22b43.html|Börjesdotter|Ingial /Börjesdotter/|1724|Torrskog (P)|1773|Hästnäset, Torrskog (P)|
+p239a6a20.html|Börjesson Broberg|Jon /Börjesson Broberg/|||||
+p206568c4.html|Börjesson Gadd|Anders /Börjesson Gadd/|1600|Färila (X)|1667|Borg, Norrala (X)|
+p9257bf73.html|Börjesson|Bryngel /Börjesson/|||||
+p5795bd22.html|Börjesson|Erik /Börjesson/|1696|Steneby (P)|1782|Steneby (P)|
+p9d16e52c.html|Börjesson|Lars /Börjesson/|1640|Foss (O)|1712|Foss (O)|
+p95d4dd33.html|Börjesson|Nils /Börjesson/|||1696|Laxarby (P)|
+pf20be0bc.html|Börjesson|Per /Börjesson/|1638|Bro (O)|1710|Bro (O)|
+p3894a93b.html|Cameron|Margret /Cameron/|1320|Baledgarno Castle, Inchture, Scotland|1380|Dirleton, East Lothian, Scotland|
+pb694e0c5.html|Campbell of Lochawe|Duncan /Campbell of Lochawe/|||||
+p541d76de.html|Campbell of Lochawe|Gillespic Archibald /Campbell of Lochawe/|||1222||
+p280bda90.html|Campbell of Lochow|Colin /Campbell of Lochow/|1230|Lochow, Argyllshire, Scotland|1294|Ath-dearg of Lorn, Argyllshire, Scotland|
+p8b14e884.html|Campbell of Menstrie|Archibald /Campbell of Menstrie/|1041|Normandy, France|1091|Scotland|
+p0ad4d291.html|Campbell of Menstrie|Gillespic Archibald /Campbell of Menstrie/||Menstrie, Clackmannashire, Scotland|1280|Lochow, Argyllshire, Scotland|
+p14fda714.html|Campbell|Cailen /Campbell/|1090||1120||
+p0eb41a50.html|Canmore of Scotland|Betoc /Canmore of Scotland/|||||
+p877d3ba6.html|Canmore of Scotland|Malcolm III /Canmore of Scotland/|1031|Skcotland|13NOV 1093|Alnwick Castle, Northumberland, Scotland|
+p62812ce4.html|Capet av Frankrike|Adele /Capet av Frankrike/|1009|Burgund, France|1079|Lille, France|
+p3c932379.html|Capet de Vermandois|Hugh /Capet de Vermandois/|1053|France|18OCT 1102|Tarsus, Icel, Turkiet|
+p9f43120e.html|Capet|Hugo /Capet/|940|Paris, France|996|Les Juifs, France|
+p1426e673.html|Carlsdotter|Maria /Carlsdotter/|1807|Frändefors (P)|||
+pd8a8fbce.html|Carrick|Duncan /Carrick/|1174|Galloway, Scotland|13JUN 1250|Argyll, Scotland|
+p82dcc1cb.html|Caspersen Nordbrekken|Casper /Caspersen Nordbrekken/|||||
+pfead6771.html|Caspersen Nordbrekken|Peder /Caspersen Nordbrekken/|1808|Brekken, Röros, Norge|1899|Vasa, Goodhue, Minnesota, US|
+p7f1f99a4.html|von Chiemgau|Engelbert III /von Chiemgau/|||||
+p62e16171.html|Christendatter|Maritte /Christendatter/|1671||28JUL 1743||
+pd776811a.html|Christensdatter Gylland|Lucie /Christensdatter Gylland/|1717||1785|Röros, Norge|
+pdc8a32bc.html|Christensdatter Kuraas|Peternille /Christensdatter Kuraas/|1775|Röros, Norge|1869|Röros, Norge|
+pd278104a.html|Christensdatter Smelter|Sofia /Christensdatter Smelter/|1628|Röros, Norge|1722|Svendsgärden, Röros, Norge|
+pb024a9c5.html|Christensdatter|Beritte /Christensdatter/|1663||1737|Röros, Norge|
+pc14c1c11.html|Christensdatter|Marethe /Christensdatter/|1640||||
+p101ce6ce.html|Christensdotter|Guri /Christensdotter/|||||
+pe73eed47.html|Christensen Haugen|Ole /Christensen Haugen/|1698|Svendsgärden, Röros, Norge|1746|Röros, Norge|
+p2d4973ea.html|Christensen Haugen|Svend /Christensen Haugen/|1701|Röros, Norge|1752|Röros, Norge|
+p9ad507a5.html|Christensson|Tora /Christensson/|1681|Öbyn, Foss (O)|1763|Foss (O)|
+p5af13a19.html|Christiansen Fasti till Ørregaard|Peder /Christiansen Fasti till Ørregaard/|||||
+pa0c24c82.html|Christiernsdatter Fasti|Karen /Christiernsdatter Fasti/|||||
+p541724b6.html|Christiernsdatter Rud|Margrethe /Christiernsdatter Rud/|1435|Randers, Danmark||Bidstrups Gods, Langå, Danmark|
+p923be4c6.html|Christiernson Frille|Håkan /Christiernson Frille/|1380|Vester Vedstad, Danmark|1439|Åbo, Finland|
+p3c6ca099.html|Christoffersdotter Bruhn|Elsa /Christoffersdotter Bruhn/|1590|Bro (O)|1673|Bro (O)|
+p61b20a83.html|Christoffersdotter|Katarina /Christoffersdotter/|1622|Helgum, Säbro (Y)|1655|Helgum, Säbro (Y)|
+pbd8d63a5.html|Christoffersen Hitterdal (Jensvold)|Anders /Christoffersen Hitterdal (Jensvold)/|1704||1759|Röros, Norge|
+p980d2fc5.html|Christoffersson|Olle /Christoffersson/|1600|Hals, Brastad (O)|1668|Hals, Brastad (O)|
+p8d3c253f.html|Claesson Kräfting|Nils /Claesson Kräfting/|1665||1709||
+p3fbb5bd7.html|Clausdatter (Myre)|Bodil /Clausdatter (Myre)/|||||
+pc9062753.html|Clausdatter Grubendahl|Ailed /Clausdatter Grubendahl/|1334|Själland, Danmark|1404|Sorö, Danmark|
+pbf42101d.html|Clausdotter (Apellegard)|Botild /Clausdotter (Apellegard)/|1390||1458||
+pb9aeb936.html|Clausdotter Gagge till Folkestrup|Bodil /Clausdotter Gagge till Folkestrup/|1525|Rydsgård, Villie (M)|1606|Folkestorp, Vä (L)|
+pf563c620.html|Clausen Bruhn|Christoffer /Clausen Bruhn/|1570|Marstrand (O)|1620||
+p27edbac0.html|Claussen Garmager|Axel /Claussen Garmager/|1770|Röros, Norge|1832||
+p3f4f2416.html|Claussen Kolberger|Ole /Claussen Kolberger/|1686|Klasvollen Nedre, Djupsjølia, Røros, Norway|1750|Klasvollen Nedre, Djupsjølia, Røros, Norway|
+pec9d85c8.html|Collin Campbell|Helen nic /Collin Campbell/|1252|Lochawe, Argyll and Bute, Scotland|1296|Iona, Argyll, Scotland|
+p396fd27d.html|Comyn of Badenoch|Walter /Comyn of Badenoch/|1190|Rowallan, Scotland|1258||
+p52e389b4.html|Comyn of Badenoch|William /Comyn of Badenoch/|1163|Altyre, Morayshire, Scotland|1233|Buchan, Aberdeenshire, Scotland|
+pc496ccbe.html|Comyn of Buchan|Jean /Comyn of Buchan/|1198|Altyre, Moray, Scotland|1274|Cromarty, Scotland|
+pf1b80c1c.html|Comyn of Tynedale|Rickard /Comyn of Tynedale/|1115|Northalteron, Morashire, Scotland|1179|Altyre, Moray, Scotland|
+p747379e3.html|Comyn|Isabel /Comyn/|||||
+p26e0e34a.html|Corneliusdotter|Maren /Corneliusdotter/|1681|Foss (O)|1732|Foss (O)|
+p68ef1234.html|Crawford| /Crawford/|||||
+p8c4bb1c8.html|Crovan Haraldsson|Gudröd I /Crovan Haraldsson/|1030|Hebriderna, Scotland|1095|Hebriderna, Scotland|
+p9681581f.html|Cruachan MacFiachir|Devrail Dorothy /Cruachan MacFiachir/|1072||1140||
+p117c95f1.html|d.ä. Stenkilsson|Inge /d.ä. Stenkilsson/|1055||1110|Ingatorps kungsgård (R)|
+p8c437254.html|von Dachau|Burkhard /von Dachau/|1020||1090||
+p74ff707b.html|Dagfinnsson|Guttorm /Dagfinnsson/|1310|Ångsta, Lockne (Z)|1347|Ångsta, Lockne (Z)|
+pb437950a.html|Dahl|Jonas /Dahl/|1768||30JAN 1813|Groröd, Bäve, Uddevalla (O)|
+p70f59275.html|Dalen|Peder /Dalen/|||||
+p91d753cd.html|Danielsdotter|Kajsa /Danielsdotter/|23APR 1796|Ärtemark (P)|13FEB 1868|Ärtemark (P)|
+p2b1a3bd9.html|Danielsdotter|Maria /Danielsdotter/|1719|Blomskog (S)|1803|Håboda, Torrskog (P)|
+p18932c43.html|av Danmark|Sofie /av Danmark/|1161|Roskilde, Danmark|1208|Orlamunde, Thyringen, Tyskland|
+p0848c337.html|Dansdotter|Karin /Dansdotter/|1375||||
+pee03b202.html|Danzielstour|Hugh /Danzielstour/|1270|Kilmarnock, Scotland|1300|Ayrshire, Scotland|
+p46f8e30e.html|Danzielstour|Joanna /Danzielstour/|1296|Kilmarnock, Scotland|1330|Renifrewshire, Scotland|
+p075a3289.html|Davidson Sinclair till Dalshult, Halland|Michael /Davidson Sinclair till Dalshult, Halland/|1585||1611|Kalmar (K)|
+pce1f773c.html|Davidsson|Hans /Davidsson/|1595|Bro (O)|1673|Bro (O)|
+pa28a2f97.html|de Amay|Chrodoara /de Amay/|560|Schwaben, Frankiska riket (i nuvarande Tyskland)|634|Amay, Liège, Belgien|
+p4f520283.html|de Anjou|Fulk II /de Anjou/|920|Tours, Frankrike|960|Tours, Frankrike|
+p8ae10a44.html|de Aquitaine|Gisela /de Aquitaine/|680||||
+p6077e5c3.html|de Arches, Countess of Annandale|Juetta (Ivetta) /de Arches, Countess of Annandale/|1130|Thorpe Arce, Yorkshire, England|1206|Skelton castle, North Yorkshire, England|
+p67aec141.html|de Arches|William /de Arches/|1095|Newton Kyme, Tadcaster, North Yorkshire, England|1154|Shagglethorp, Malton, North Yorkshire, England|
+pb2625593.html|de Arles|Guilleaume I (Wilhelm I) /de Arles/|950||993||
+p3b922e9a.html|de Balliol (Helicourt)|Eustace /de Balliol (Helicourt)/|1150|Bywell, Northumberland, England|1209|England|
+p60e9c30e.html|de Balliol|Ada /de Balliol/|1245|Barnard Castle, Gainford, Durham, England|1301|Lamberton, Mordington,Berwicksshire, Scotland|
+p9bfcf647.html|de Balliol|Hugh /de Balliol/|1189|Barnard Castle, Gainford, Durham, England|2MAY 1229|Barnard Castle, Gainford, Durham, England|
+p1c00c640.html|de Balliol|John /de Balliol/|1216|Barnard Castle, Gainford, Durham, England|27AUG 1268|Barnard Castle, Gainford, Durham, England|
+pe6e1536a.html|de Ballon|Drogo /de Ballon/|1025|Ballon, Angoumois, France|1080||
+p420b58fe.html|de Ballon|Drogo II /de Ballon/|1037|Ballon, Angoumois, France||Gloucester, Gloucestershire, England|
+p480da75d.html|de Ballon|Emmeline Berthe /de Ballon/|1069|Frampton-on-Severn, Wheatenhurst, Gloucestershire, England|1091|Devon, England|
+p1ecdf46f.html|de Ballon|Eunice /de Ballon/|1047|Gloucester, Gloucestershire, England|||
+paa6446a1.html|de Ballon|Osmund /de Ballon/|1006|Clifford Castle, Clifford, Herefordshire, England|1036|Gloucester, Gloucestershire, England|
+pa4af1ea6.html|de Bar-sur-Aube|Adele /de Bar-sur-Aube/|1012|Vexin, Normandie, Frankrike|1053|Valois, France|
+pea891aaf.html|de Bar-sur-Aube|Nocher III /de Bar-sur-Aube/|992|Champagne, Picardie, Frankrike|1040|Bar-sur-Aube, France|
+p04e4ff2b.html|de Batail|William /de Batail/|1188|Fawdon, Northumberland, England|||
+pe335bf4e.html|de Bayeux|Poppa /de Bayeux/|||||
+p5697d7c4.html|de Breteuil|Alix /de Breteuil/|||||
+p2f08832c.html|de Bruce, Lord of Annandale & Earl of Carrick|Robert /de Bruce, Lord of Annandale & Earl of Carrick/|1243|Writtle, Essee, England|APR 1304|England|
+pd1319af2.html|de Bruce, Lord of Annandale|Robert /de Bruce, Lord of Annandale/|1215|Annandale, Dumfriesshire, Scotland|31MAR 1295|Lochmaben Castle, Dumfriesshire, Scotland|
+p37b493d9.html|de Bruce|Robert /de Bruce/|1195|Annandale, Dumfriesshire, Scotland|1245|Gisborough, Yorkshire, England|
+pa99d521e.html|de Bruce|William /de Bruce/|||||
+pd5934cda.html|de Burgund (Bourgogne)|Ansgarde /de Burgund (Bourgogne)/||France|879|France|
+pccade308.html|de Burgundy (Bourgogne)|Hardouin /de Burgundy (Bourgogne)/|818|Maine, Normandie, France|862||
+p6cdf21f3.html|de Chaworth|Hugh /de Chaworth/|1025|Maine, Charente, Frankrike|1097|Nottinghamshire, England|
+p9ffb477d.html|de Chaworth|Sibyl /de Chaworth/|1100|Kempsford, Gloucestershire, England|1140|Bradenstoke, Wiltshire, England|
+p35c80b49.html|de Clare of Gloucester & Hertford|Gilbert /de Clare of Gloucester & Hertford/|1180|Hertford, Hertfordshire,|25OCT 1230|Bretagne, Frankrike|
+pe78fed5e.html|de Clare of Pembroke & Striguil|Rickard /de Clare of Pembroke & Striguil/|1130|Tunbridge, Kent, England|20APR 1176|Dublin, Ireland|
+p7e32042f.html|de Clare of Pembroke|Isabel /de Clare of Pembroke/|1172|Leinster, Irland|11FEB 1220|Chepstow, Wales|
+p5185fd27.html|de Crepon|Wevia /de Crepon/|974|Pont-Audemer, Beaumont, Normandy, Frankrike|1031|Pont-Audemer, Beaumont, Normandy, Frankrike|
+pcee22ca9.html|de Fézensac|Engeltrude /de Fézensac/|799|Paris, France|853|Orléans, Frankrike|
+p4a99e7d6.html|de Flamville|Constance /de Flamville/|1192|Fawdon, Northumberland, England|1261|Fawdon, Northumberland, England|
+pbb826b73.html|de Flamville|Hugh /de Flamville/|1077|Aston Flamville, Leicestershire, England|1169|Thorpe Arce, Yorkshire, England|
+p80697285.html|de Flamville|Matilda (Maud) /de Flamville/|1145|Thorpe Arce, Yorkshire, England|1219|Bilston, Suffolk, England|
+p4f74d236.html|de Flamville|Roger /de Flamville/|1120|Dalby, Yorkshire, England|1169|Thorpe Arce, Yorkshire, England|
+pf48cce07.html|de Folketon|Beatrice /de Folketon/|1110|Grimesthorpe, Lincolnshire, England|1162|Grimesthorpe, Lincolnshire, England|
+pfea992ad.html|de Fontaines|Cecily /de Fontaines/|1198|Richmond Castle, Aberdeenshire, Scotland|2FEB 1228|Barnard Castle, Gainford, Durham, England|
+pc37ae1c2.html|de France|Ermentrude /de France/|875|Paris, France|935|Aachen, Cologne, Tyskland|
+p523d5182.html|de Gatinais|Aubry /de Gatinais/|860||933||
+p4238ef6e.html|de Gatinais|Geoffroy II /de Gatinais/|890||942||
+pda9ec706.html|de Gatinais|Gerberge /de Gatinais/|913|Gatinais, Orlenais-Centre, France|952|Tours, Frankrike|
+pf65bd442.html|de Greystoke|Alice /de Greystoke/|1130|Grimesthorpe, Lincolnshire, England|1177|Dunbar, East Lothian, Scotland|
+p8bc51c0b.html|de Greystoke|Ives /de Greystoke/|1080|Greystoke, Cumberland, England|1156|Greystoke, Cumberland, England|
+pe8dd609c.html|de Herstal|Pepin II /de Herstal/|645|Heristal, Liege, Belgien|714|Jupille-sur-Meuse, Belgien|
+pf272e51c.html|de Hesbaye|Robert II /de Hesbaye/|770|Worms, Tyskland|807|Worms, Tyskland|
+pf506a1c5.html|de Hesdin|Avelina /de Hesdin/|1081|Hesdin, Pas-de-Calaise, Frankrike|1126|Shropshire, England|
+pb96b155b.html|de Hesdin|Ernulf /de Hesdin/|1038|Hesdin, Duchy of Lorraine, Frankrike|1098|Antiokia, Hatay Province, Turkiet|
+p176255f2.html|de Hesdin|Matilda (Maud) /de Hesdin/|1065|Frankrike|1133|Bedfordshire, England|
+p9864b425.html|de Kent|Helen /de Kent/|1170|Innerwick, Renfrewshire, Scotland|||
+p4419e1e4.html|de Kiev|Anna Yaroslavna /de Kiev/|1036|Kiev, Russia|5SEP 1075|West Frankia|
+p2b53971a.html|de la Haye, 1st Lord Hay|William /de la Haye, 1st Lord Hay/|1374|Pearth, Pearthshire, Scotland|1436|Turriff, Aberdeenshire, Scotland|
+pd73f2f92.html|de la Haye|Alice /de la Haye/|1380|Erroll, Pearthshire, Scotland|1450|Yester, East Lotian, Scotland|
+p771565e7.html|de Laon|Betrada (Berta Storfot) /de Laon/|725|France|783|Choisy-au-Bac, France|
+p6688dfa6.html|de Laon|Charibert /de Laon/|677|Laon, France|747|Laon, France|
+pc067ae82.html|de Laon|Cunegonde /de Laon/|797|Aisne, Picardie, France|835|Milano, Lombardiet, Italien|
+pa409c8d1.html|de Laon|Heribert /de Laon/|780|Toulouse, Occitanie, France|843|Laon, Frankrike|
+p6f2c43dd.html|de Lazy|Hawise /de Lazy/|||||
+p5535107a.html|de Lens|Judith /de Lens/|1054|Lens, Artois, France|1086|Lens, Artois, France|
+pbc799f64.html|de Lindsay of Crawford|Alexander /de Lindsay of Crawford/|1268|Crawford, Lankarshire, Scotland|1309|Crawford, Lankarshire, Scotland|
+p29a556f3.html|de Lindsay of Lamberton|Margret /de Lindsay of Lamberton/|1249|Beerwick-Upon- Tweed, Northumberland, England|||
+pe5fc36fe.html|de Lindsay|David /de Lindsay/|1240|Lanarkshire, Scotland|1268|Egypt|
+p822aaa31.html|de Lindsey of Crawford|Beatrice /de Lindsey of Crawford/|1305|Crawford, Lankarshire, Scotland|1352|Stirling Castle, Stirlingshire, Scotland|
+p14a78704.html|de Londres (de Motta)|Eschina /de Londres (de Motta)/|1107||1186|Paisley, Scotland|
+pab6c2808.html|de Lorraine|Gisela /de Lorraine/|842|Lorraine, Frankrike|907||
+p4800bc63.html|de Lovaine Ferrers of Groby|Alianore (Eleanor) /de Lovaine Ferrers of Groby/|1268||3MAY 1326|Dunmow, Essex, England|
+pb2cb4977.html|de Lovaine of Little Easton, Essex & Bildestone, Suffolk|Mattew /de Lovaine of Little Easton, Essex & Bildestone, Suffolk/|||1302||
+p0a1d7d42.html|de Lovaine|Godfrey /de Lovaine/|||1226||
+p40c9ad8a.html|de Lovaine|Mattew /de Lovaine/|||1262||
+p3ef45ba3.html|de Moravia of Sutherland|Kenneth /de Moravia of Sutherland/|||19JUL 1333|Halidon-Hill, Berwick-Upon-Tweed, Scotland|
+p5aef6831.html|de Moravia of Sutherland|William /de Moravia of Sutherland/|1311|Dunrobin castle, Golspie, Sutherland, Scotland|1370|Dunrobin castle, Golspie, Sutherland, Scotland|
+p7a05f47d.html|de Moravia|Walter /de Moravia/|||1244||
+p43a2966f.html|de Moravia|William /de Moravia/|||1226||
+p343cb8b6.html|de Moray of Bothwell|William /de Moray of Bothwell/|1200|Bothwell Castle, Lanarkshire, Scotland|1253|Scotland|
+pff1e90b8.html|de Morvois|Bertha /de Morvois/|845|Paris, France|916|Aisne, Picardie, France|
+p39db6a8a.html|de Morvois|Geva /de Morvois/|799|Danmark|||
+pf8ca4574.html|de Morvois|Gorm /de Morvois/|770|Danmark|||
+pfb6b8a42.html|de Mödling|Kuno I /de Mödling/|||1097||
+p0867392e.html|de Normandie|Rikard I "the Fearless" /de Normandie/|932|Fecamp, France|996|Fecamp, France|
+pff770246.html|de Orleans|Walrada /de Orleans/|798|Orleans, Loiret, Frankrike|834|Worms, Rheinland-Pfalz, Tyskland|
+p38f46478.html|de Pitres|Roger /de Pitres/|1035|Val-de-Pitres, France|1086|England|
+p442daf7e.html|de Pont Audemer|Emma Torta /de Pont Audemer/|1018|Bellencombre, Normandie, France|1059|Lewes, Sussex, England|
+pc7717ee3.html|de Prüm|Betrada /de Prüm/|||||
+p3b550975.html|de Quarouble|Evrard /de Quarouble/|1013|Quarouble, Nord-Pas-de Calais|APR 1047||
+pe4f0d884.html|de Quarouble|Hawise Berthe /de Quarouble/|1037||||
+p8f6264cc.html|de Roncq|Ida /de Roncq/|1018||||
+p9eb9fcfe.html|de Ross|Joanna /de Ross/|1345|Scotland|1400|Scotland|
+p9f0f5c1b.html|de Roussillion|Gerard /de Roussillion/|790|Roussillion, Isere, France|877|Roussillion, Isere, France|
+pf26e050b.html|de Roussillon|Eve (Ava) /de Roussillon/|820|Roussillion, Isere, France|862|Vermandois, France|
+p02343758.html|de Senlis|Adele (Alix) /de Senlis/|953|Senlis, Picardie, Frankrike|||
+p92e166cb.html|de Senlis|Bernard /de Senlis/|919|Somme, Picardie, Frankrike|965|Senlis, Picardie, Frankrike|
+p4404237c.html|de Soissons|Adelais /de Soissons/|9MAY 1000|Soissons, Aisne, Picardie, France|1042|France|
+paf93a87d.html|de Soissons|Gilbert /de Soissons/|||||
+p03cc1b5d.html|de St. Martin|Henrico /de St. Martin/|1118|Paisley, Lanarkshire,  Scotland|1177|Paisley, Lanarkshire,  Scotland|
+p23dd2934.html|de Stair|Casillis /de Stair/|1189|Stair, Ayrshire, Scotland|1255|Innerwick, Renfrewshire, Scotland|
+p5baf5d38.html|de Strivelyn|Marjorie /de Strivelyn/|1268|Ochiltree Castle, Ayrshire, Scotland|1323||
+p1078f239.html|de Tours|Adelaide /de Tours/|811|Tours, Indre de Loire, Centre, France|866|Brissarthe, Anjou, France|
+p800a4356.html|de Tours|Bertha /de Tours/|790|Tours, Indre de Loire, Centre, France|871|Roussillion, Isere, France|
+p3c8ab7c3.html|de Tours|Ermengarde /de Tours/|804|Tours, Indre de Loire, Centre, France|20MAR 851|Erstein, Bas Rhin, Alsace, France|
+pf380142d.html|de Treves|Rotrude (Chrodtrudis) /de Treves/|690|Treves, Languedok-Roussillion, France|724|Triere, Rheinland-Pfalz, Tyskland|
+p5facc359.html|de Valois|Ralph III /de Valois/|1010|Vexin, Normandie, Frankrike|1038|Peronne, France|
+p0119459d.html|de Valois|Ralph IV /de Valois/|1024||23FEB 1074|Peronne, France|
+p65694555.html|de Valois|Walter II /de Valois/|955||1017||
+pfaa05fd8.html|de Vermandois (de Meaux)|Adele /de Vermandois (de Meaux)/|945|Vermandois, France|975|Angers, France|
+p31ccbced.html|de Vermandois Carolingians|Adelaide /de Vermandois Carolingians/|1050|Lot.et-Garonne, Aquitaine, France|23SEP 1120|Meulan, Yvelines, Frankrike|
+p3d9bcb44.html|de Vermandois Carolingians|Herbert /de Vermandois Carolingians/|1028|Aisne, Picardie, France|1080|Vermandois, France|
+p4e2d5349.html|de Vermandois|Beatrice /de Vermandois/|880||931|Soissoins, France|
+p5c5ff873.html|de Vermandois|Herbert I /de Vermandois/|848|Paris, France|907||
+p9e13d1a6.html|de Vermandois|Isabel (Elizabet) /de Vermandois/|1085|Valois, France|13FEB 1131|England|
+p9f7ed395.html|de Vermandois|Pepin /de Vermandois/|876|Vermandois, France|922|Senlis, Picardie, Frankrike|
+p73e252f9.html|de Vermandois|Pepin II /de Vermandois/|817||850||
+pae0724e6.html|de Vermandois|Pepin III /de Vermandois/|846|Vermandois, Normandie, Frankrike|893|Senlis, Picardie, Frankrike|
+p20e072e3.html|de Vexin of Valois|Adela /de Vexin of Valois/|1036|Valois, France|1080|Vermandois, France|
+pc94e947e.html|de Vexin|Adele /de Vexin/|970|Meulan, Yvelines, Frankrike|1064|Frankrike|
+p4bf3910d.html|de Vexin|Walther I /de Vexin/|934|Vexin, Normandie, Frankrike|987|Castle Crespy, Valois, Normandy, France|
+p5906eaa6.html|de Warenne|Ada /de Warenne/|1120|Surrey, England|1178|Huntingdon, Scotland|
+pf760ec92.html|de Warenne|Rudolf /de Warenne/|1020|Varenne, Normandie, France|1074|Varenne, Normandie, France|
+p9bb9c69a.html|de Warenne|William /de Warenne/|||1088||
+p773c6054.html|de Warenne|William /de Warenne/|1081|Lewes, Sussex, England|11MAY 1138|Lewes, Sussex, England|
+pc17c3cfa.html|de Wormsgau|Robert III /de Wormsgau/|785|Worms, Rheinland-Pfalz, Tyskland|832|Worms, Rheinland-Pfalz, Tyskland|
+pd3dc0998.html|de York|Juetta /de York/|1094|Yorkshire, England|1150|Yorkshire, England|
+pd11301d9.html|Didriksdotter Tank|Anna /Didriksdotter Tank/|1639|Tyskland|1714|Långserud (S)|
+p104daac0.html|von Diessen| /von Diessen/|1037||1137||
+pf466abf4.html|von Diessen|Adelaide /von Diessen/|1020|Diessen, Tyskland||Aibling, Tyskland|
+p3886ba73.html|von Diessen|Berthold II /von Diessen/|1000|Diessen, Tyskland|1060|Oberbayern, Tyskland|
+p43d0103f.html|Djäkn|Abraham /Djäkn/|1320|Reval, Tallinn, Estland||Reval, Tallinn, Estland|
+p48e01c37.html|Douglas 1st Earl of Douglas|William /Douglas 1st Earl of Douglas/|1327|Douglasdale, Lanarkshire, Scotland|MAY 1384|Douglasdale, Lanarkshire, Scotland|
+pa8e519d4.html|Douglas 2nd Earl of Douglas|James /Douglas 2nd Earl of Douglas/|1358|Douglasdale, Lanarkshire, Scotland|14AUG 1388|Slaget vid Otterburn|
+p167208a2.html|Douglas of Douglas|Archibald /Douglas of Douglas/|1330|Scotland|24DEC 1400|Treave Castle, Scotland|
+p2b9f7d9d.html|Douglas of Douglas|Eleanor /Douglas of Douglas/|1375|Douglasdale, Lanarkshire, Scotland|1425|Scotland|
+pe2763128.html|Douglas of Douglas|Jamea /Douglas of Douglas/|1286||25AUG 1330||
+pe0d03447.html|Douglas of Douglas|William "The Hardy" /Douglas of Douglas/|1243|Douglasdale, Lanarkshire, Scotland|1298|London Tower, London, England|
+p1d5b4c67.html|Douglas of Scotland|Archibald /Douglas of Scotland/|1297|Douglasdale, Lanarkshire, Scotland|19JUL 1333|Beerwick-Upon- Tweed, Northumberland, England|
+pc55ca8d8.html|Douglas, Lord of Nithsdale|William /Douglas, Lord of Nithsdale/|1364|Nithsdale, Dumfries-shire Scotland|1392|Dumfries-shire, Scotland|
+p022e0a73.html|Douglas|Egidia Jill /Douglas/|1380|Nithsdale, Dumfries-shire Scotland|1438|Orkney Islands, Scotland|
+pda319388.html|Douglas|Joan /Douglas/|1258|Midlothian, Scotland|1307|Keithmore, Scotland|
+pf8e29f24.html|Drefeld|Ellen /Drefeld/|1475|Skåne, Sverige||Skåne, Sverige|
+pc6d39efd.html|Drefeld|Mogens /Drefeld/|1260|Danmark||Danmark|
+p3196161e.html|Dunbar|Margraret /Dunbar/|1102|Dunbar Castle, East Lothian, Scotland|1125|Scotland|
+pc877e47c.html|Dyre d.y|Offe /Dyre d.y/|1230|Tirsbae, Veijle, Danmark|1286||
+pc5352a60.html|Dyre d.ä|Offe /Dyre d.ä/|1170||1208||
+p334dd42f.html|Dyre|Bo /Dyre/|1250||1308||
+p2b18d393.html|Dötting| /Dötting/|||||
+p81eb58b8.html|Ebbesen Glug|Oluf /Ebbesen Glug/|||||
+p446e51d5.html|Ebbesen Hvide|Sune /Ebbesen Hvide/||Knardrup, Själland, Danmark|1186|Knardrup, Själland, Danmark|
+pdf6882f7.html|Ebbesen Hvide|Sune /Ebbesen Hvide/|1120|Knardrup, Själland, Danmark|1186|Knardrup, Själland, Danmark|
+p33c405d9.html|Ebbesen Juel|Ud /Ebbesen Juel/|1095|Aarhus, Danmark|1115|Aarhus, Danmark|
+p9eed7568.html|Egeside till Vittskövle|Harald /Egeside till Vittskövle/|1210|Skåne, Sverige||Skåne, Sverige|
+p477b9742.html|Eggertsdatter Frille|Birgitte /Eggertsdatter Frille/|1435||1492||
+p0781900a.html|Egolsson|Per /Egolsson/|1704|Laxarby (P)|1773|Laxarby (P)|
+p60d89e90.html|Einarsdotter|Ålov /Einarsdotter/|1000||1031||
+pa304c0d1.html|Einridesdatter Eid|Borghild /Einridesdatter Eid/|1200|Eid, Stryn, Norge|1263|Eid, Stryn, Norge|
+p22a6b0aa.html|Eiriksdatter|Astri /Eiriksdatter/|||||
+pa56ca7b5.html|Eiriksdatter|Elin /Eiriksdatter/|1148|Orkney Islands, Scotland|||
+p5c1a320b.html|Eiriksson av Norge|Ragnfred /Eiriksson av Norge/|923|Norge|982|York, England|
+pba77edce.html|Ejegod|Erik I /Ejegod/|1055|Slangerup, Danmark|1103|Pafos, Cypern|
+pbb15e60a.html|Eliasdotter Esping|Karin /Eliasdotter Esping/|1550||1619|Åbo, Finland|
+pbcd9eafc.html|Eliasson Stufve|Johan /Eliasson Stufve/|15DEC 1833|Edet, Fuxerna (P)|30MAR 1902|Kullås, Fuxerna (P)|
+pd57e28f2.html|Ellefsen Hölonda|Peder /Ellefsen Hölonda/|1658|Norge|||
+p64d75e9c.html|Ellufsen Svenske|Lars /Ellufsen Svenske/|1655|Röros, Norge|1736|Röros, Norge|
+p8e0174bf.html|Elufsdatter Bild til Dyrnäs og Laven|Mette /Elufsdatter Bild til Dyrnäs og Laven/|1370|Laven, Skanderborg, Danmark|1412|Ormstrup, Dronningborg, Danmark|
+pd17e37d5.html|Enarsdotter|Kerstin /Enarsdotter/|1687|Laxarby (P)|1748|Laxarby (P)|
+p2ab19049.html|Enarsson|Bryngel /Enarsson/|||1701|Laxarby (P)|
+pda1e0b79.html|Engelbertsdotter Jonzonia|Margareta /Engelbertsdotter Jonzonia/|1510||||
+p500ffe00.html|Engelbrektsdotter|Brita /Engelbrektsdotter/|1754|Foss (O)|1798|Foss (O)|
+pfa5e6e68.html|Engelbrektsdotter|Kerstin /Engelbrektsdotter/|1653|Sunne (S)|1719|Västra Ämtervik (S)|
+p151037c1.html|Engelbrektsdotter|Ragnilla /Engelbrektsdotter/|1662|Foss (O)|29MAY 1692|Foss (O)|
+p29a91ea1.html|Engelbrektsson|Börje /Engelbrektsson/|1690|Torrskog (P)|1741|Torrskog (P)|
+p3907df90.html|Engelbrektsson|Erik /Engelbrektsson/|||||
+p9cf0b198.html|Engelbrektsson|Håkan /Engelbrektsson/|||1673|Gräsmark (S)|
+p59232041.html|Engelbrektsson|Jon /Engelbrektsson/|||1695|Foss (O)|
+p9c684d7d.html|Erichsen Blaa|Anders /Erichsen Blaa/|||||
+p2d843588.html|Erichsen Gagge|Claus /Erichsen Gagge/|1490|Bidstrup, Jylland, Danmark|1555|Rydsgård, Vilie (M)|
+p74659684.html|Ericksson|Bryngel /Ericksson/|1732||2APR 1804|Groröds gater,Uddevalla (O)|
+p0bda3d90.html|Eriksdatter Skave|Berete /Eriksdatter Skave/|1425||||
+p7d843071.html|Eriksdatter Stuedal|Ragnhild /Eriksdatter Stuedal/|1745|Tydal, Norge|||
+pf4cb6d21.html|Eriksdatter|Merete /Eriksdatter/|1350||||
+p9d0344c6.html|Eriksdotter Elfdalia|Marit /Eriksdotter Elfdalia/|1550|Ekshärad (S)|1621|Västra Hungvik, Stavnäs (S)|
+p060b0ab6.html|Eriksdotter|Anna /Eriksdotter/|||1755|Foss (O)|
+p81d14a39.html|Eriksdotter|Anna /Eriksdotter/|1550|Angelstad (G)|||
+p2510ca35.html|Eriksdotter|Edela /Eriksdotter/|1702|Foss (O)|1769|Foss (O)|
+p78c1e928.html|Eriksdotter|Inger /Eriksdotter/|1100|Falster, Själland, Danmark|1157|Fjenneslev, Sörö, Danmark|
+p487e485e.html|Eriksdotter|Kerstin /Eriksdotter/|||||
+p98f80973.html|Eriksdotter|Magdalena (Malin) /Eriksdotter/|1535|Umeå (AC)|1580|Sverige|
+p3530d9e5.html|Eriksdotter|Marit /Eriksdotter/|1580|Gillberga (S)|1650||
+pb780771a.html|Eriksdotter|Marta /Eriksdotter/|1694|Brastad (O)|1743|Brastad (O)|
+p35c2eb66.html|Eriksen Spell|Joen /Eriksen Spell/|||1691||
+p6683b0d2.html|Eriksson Skancke|Elisabet /Eriksson Skancke/|||||
+pcc095525.html|Eriksson Sursill|Östen /Eriksson Sursill/|1533|Umeå (AC)|1580|Umeå (AC)|
+p2a17b634.html|Eriksson|Anders /Eriksson/|||||
+pe80fbe68.html|Eriksson|Anders /Eriksson/|||1763|Håby (O)|
+pc3211f8e.html|Eriksson|Arne /Eriksson/|1647|Eriksbyn, Järn (P)|1747|Bränna, Skållerud (P)|
+p26cfd636.html|Eriksson|Bryngel /Eriksson/|1590|Hult, Ör (P)|1660|Hult, Ör (P)|
+pd5ae6ea3.html|Eriksson|Dagfinn /Eriksson/|1270|Frösön (Z)|1310|Ångsta, Lockne (Z)|
+p4c3bd4cf.html|Eriksson|Engelbrekt /Eriksson/|1600|Stors Foss, Foss (O)|1689||
+p0e0b6618.html|Eriksson|Erik "Stor-Erik" /Eriksson/||Ed, Sunne (S)||Ed, Sunne (S)|
+pd6f1e1a4.html|Eriksson|Erik /Eriksson/|1660|Ed, Sunne (S)|1709|Ed, Sunne (S)|
+p71efa6d9.html|Eriksson|Johan /Eriksson/|4JUN 1767|Svecklingeby Gatan,Ör (P)|19FEB 1844|Svecklingeby Gatan,Ör (P)|
+pedc8ed04.html|Eriksson|Johannes Emanuel /Eriksson/|9APR 1839|Pinnekasen, Köperöd, Forshälla (O)|8MAY 1899|Lilla Edet (P)|
+p417722e6.html|Eriksson|Lars /Eriksson/|||||
+pb4296dc8.html|Eriksson|Melker /Eriksson/|1633|Brastad (O)|1709|Brastad (O)|
+p8ce47907.html|Eriksson|Nils /Eriksson/|1675|Svecklingeby, Ör (P)|12OCT 1735|Svecklingeby, Ör (P)|
+p4888766f.html|Eriksson|Nils /Eriksson/|1709|Torrskog (P)|1791|Håboda, Torrskog (P)|
+peb497041.html|Eriksson|Olof /Eriksson/|||1698|Långserud (S)|
+p51521b69.html|Eriksson|Olof /Eriksson/|11FEB 1683|Ed, Sunne (S)|16MAY 1739|Ed, Sunne (S)|
+p5f5e7ae2.html|Eriksson|Olof /Eriksson/|1736|Steneby (P)|||
+p804eea54.html|Eriksson|Olof /Eriksson/|DEC 1744|Källbo, Bollnäs (X)|1773|Källbo, Bollnäs (X)|
+p4fe39819.html|Eriksson|Selma Elisabet /Eriksson/|31JUL 1861|Kampenhof, Uddevalla (O)|30JUL 1945|Fuxerna (P)|
+pfc40cb5e.html|Erlandsdatter (Hvide)|Margrete /Erlandsdatter (Hvide)/|1199|Ellinge (M)|1260|Ellinge (M)|
+p3e496676.html|Erlandson Galen till Lund|Nils /Erlandson Galen till Lund/|1220|Ellinge (M), Danmark|1295|Lund (M)|
+pf9922e17.html|Erlendsdottir|Gunnhild /Erlendsdottir/|1077|Orkney Islands, Scotland|||
+p2b0b4682.html|Erlingsdatter på Sola|Astrid (Ragnhild) /Erlingsdatter på Sola/|992|Sola, Rogaland, Norge|1060|Giske, Norge|
+pb8178a3c.html|Erlingsdatter| /Erlingsdatter/|||||
+p3c1b83cd.html|Erlingsson (d.ä) til Tornberg|Aiv /Erlingsson (d.ä) til Tornberg/|1190|Tanberg, Buskerud, Norge|1240|Tornberg, Ringerike, Norge|
+pfb608eab.html|Erlingsson of Norway|Magnus V /Erlingsson of Norway/|1156|Etne, Hordadal, Norge|1184|Filmreite, Sognefjord, Norge|
+p961d46f7.html|Erlingsøn|Alv /Erlingsøn/|1245|Tönsberg, Norge|1290|Slaget vid Helsingborg|
+p806e4704.html|Erövraren|Wilhelm I /Erövraren/|1028|Falaise, Calvados, Normandie, Frankrike|1087|Gervase, Rouen, France|
+p7b96d7f3.html|Esbernsdatter Galen|Marianne /Esbernsdatter Galen/|1240||1284||
+pb588ad45.html|Esbernsdatter Hvide av Terløse|Cecilie /Esbernsdatter Hvide av Terløse/|1181||1259||
+pabaf6088.html|Esbernsdatter Hvide|Ingeborg /Esbernsdatter Hvide/|||1267|Hedeby, Schleswig-Holstein, Tyskland|
+pe21880cd.html|Esbjörnsson|Rasmus /Esbjörnsson/|||||
+p2e2c6977.html|Eskildsdatter av Duege|Mette /Eskildsdatter av Duege/|1435|Möllerup (M)|||
+p3b76fae3.html|Eskilsdotter|Marit /Eskilsdotter/|1612|Hungvik, Stavnäs (S)|1691||
+pdd102b4b.html|Estridsson|Björn /Estridsson/|1019|Danmark|1049|Dartmouth, England|
+p8ff786d9.html|Estridsson|Sven II /Estridsson/|1019|Danmark|1074|Söderup, Åbenrå, Danmark|
+pe16f7c73.html|von Everstein|Adelbert II /von Everstein/|||||
+p7c970979.html|von Everstein|Albert III /von Everstein/|1165||1218||
+p263ce710.html|von Everstein|Albrecht I /von Everstein/|1105|Everstein, Holzminden, Tyskland|1158|Everstein, Holzminden, Tyskland|
+p413623e9.html|von Everstein|Albrecht VI /von Everstein/|1230|Volkmarsen, Hessen, Tyskland|1289|Lubeck, Tyskland|
+pcbc71f81.html|von Everstein|Ludwig I den äldre /von Everstein/|1206|Everstein, Holzminden, Tyskland|1284|Everstein, Holzminden, Tyskland|
+pf466c711.html|D'Evreux of Salisbury|Edward /D'Evreux of Salisbury/|1060|Salisbury, Wiltshire, England|1130||
+p468dd83d.html|d'Evreux of Salisbury|Robert /d'Evreux of Salisbury/|1008||||
+p09b82a79.html|d'Evreux of Salisbury|Walter "the Fortunate" /d'Evreux of Salisbury/|1033|Rosmar, Normandie, France|1070|Salisbury, Wiltshire, England|
+p3167fcef.html|Eyvindsson (Østby Snekkestad)|Rane /Eyvindsson (Østby Snekkestad)/|1310|Tönsberg, Norge|1396|Gråbrödreklostret, Tönsberg, Norge|
+p08188a32.html|av Falaise|Herleva /av Falaise/|1003|Falaise, Calvados, Normandie, Frankrike|1050|Normandy, France|
+pc7b96a6c.html|Falck|Christina /Falck/|1500|Skåne, Sverige|1569|Vä (L)|
+p3c374576.html|Falck|Poul /Falck/|1470|||Skåne, Sverige|
+p9780dbda.html|Falk|Anders /Falk/|28MAY 1795|Smedsbol, Holm (P)|15JUL 1869|Svecklingeby Gatan,Ör (P)|
+pa3d6a0f0.html|Falk|Johannes /Falk/|1767||12APR 1820|Skogsbol, Holm (P)|
+p3409bdc5.html|Falk|Maja Lisa /Falk/|11JUN 1823|Svecklingeby, Ör (P)|31MAY 1906|Forsebol, Ör (P)|
+pe507dfef.html|Fastesdatter Skancke|Kirsten /Fastesdatter Skancke/|1659|Röros, Norge|1724|Röros, Norge|
+pd70a14e2.html|Fastesdatter|Elisabeth Sophia /Fastesdatter/|1671|Röros, Norge|1739||
+p2afc5358.html|Fasti till Ørs|Asrtradus /Fasti till Ørs/|||||
+p2b90c322.html|Fasti|Astradus /Fasti/|||||
+p62c0c20d.html|Ferch Madog|Marared /Ferch Madog/|1151|Powys, Wales||Wales|
+pda5ffe91.html|Filuppsdatter|Kristin /Filuppsdatter/|1210||1320||
+p46ba6451.html|Fincke|Katarina /Fincke/|1335|Alasjoki, Finland|||
+p4f406eef.html|Fincke|Katarina /Fincke/|1335|Alajoki, Virmo, Finland|||
+p366b5fb4.html|Finne|Henrik /Finne/|||||
+p3c9962ea.html|Finnson av Tjøtta|Håkan /Finnson av Tjøtta/|1073|Tjøtta, Alstahaug, Norge|1162|Somme, Picardie, Frankrike|
+p388e97c7.html|Finnvidsson av Møre|Thoraren /Finnvidsson av Møre/|881|Onundfjord, Møre og Romsdal, Norge|912|Norge|
+paf17dd4f.html|Fischer|Niels /Fischer/|1628|Röros, Norge|1692||
+pcb52bd67.html|FitzAlan|Walter /FitzAlan/|1105|Oswestry Castle, England|1177|Paisley Abbey, Scotland|
+pcf8c897e.html|FitzEdward D'Evreux|Walter /FitzEdward D'Evreux/|1100|Salisbury, Wiltshire, England|1147|Chitterne, Wiltshire, England|
+pd040a299.html|FitzFlaald of Oswestry|Alan /FitzFlaald of Oswestry/|1078|Dol, St Malo, Bretagne, France|1121|Oswestry Castle, England|
+pf6466bbd.html|FitzGilbert de Clare of Pembroke|Gilbert /FitzGilbert de Clare of Pembroke/|21SEP 1100|Tunbridge, Kent, England|6JAN 1148|Tintern, Monmouth, Wales|
+pdd96073f.html|FitzGilbert, Marshal of England|John /FitzGilbert, Marshal of England/|26NOV 1105|England|29SEP 1165|Rockley, Marlborough, England|
+pd21aae35.html|FitzHugh|Robert /FitzHugh/|1134|Wiltshire, England|1209|Scotland|
+p3f7dc8ff.html|FitzHugh|Sarah /FitzHugh/|1160|Altyre, Moray, Scotland|1210|Badenoch, Inverness, Scotland|
+p968c3b04.html|FitzIvo de Greystoke|Walter /FitzIvo de Greystoke/|1106|Greystoke, Cumberland, England|1162|Grimesthorpe, Lincolnshire, England|
+p694fc60e.html|FitzPiers|Peronille /FitzPiers/|||||
+p7cdfab96.html|FitzRobert av Normandie|Vilhelm I "Långsvärd" /FitzRobert av Normandie/|891|Rouen, France|942|Normandy, France|
+pcd645eb2.html|Fitzrobert de Clare de Senlis|Matilda (Maud) /Fitzrobert de Clare de Senlis/|1122|Northhamtonshire, England|1168|England|
+pcc0b9811.html|Fitzroger de Pitres|Walter /Fitzroger de Pitres/|1065|Gloucester, Gloucestershire, England|1129|Llanthony Abbey, Gloucester, England|
+p085af451.html|Fitzroy (Henrysdotter)|Elisabeth /Fitzroy (Henrysdotter)/|1083|Talby, Yorkshire, England|1166|Edinburg, Scotland|
+p56f3ac40.html|FitzWalter|Agnes /FitzWalter/|1084|Greystoke, Cumberland, England|1135|Somme, Picardie, Frankrike|
+pf2b06e64.html|FitzWalter|Alan /FitzWalter/|1140|Paisley, Scotland|24AUG 1204|Dundonald, Ayrshire, Scotland|
+pf9a78cb4.html|Fitzwalter|Avelina /Fitzwalter/|1179|Paisley, Scotland|1202|England|
+pf920a745.html|FitzWalter|Margaret /FitzWalter/|1127|Paisley, Renfrewshire,  Scotland|1215|Scotland|
+pc93313dd.html|Fitzwilliam de Hasting|Robert /Fitzwilliam de Hasting/|1132|Ashington, Somerset, England|1186|Ashington Manor, Somersetshire, England|
+p4d2ddc42.html|av Flandern|Adele /av Flandern/|1064|Comte' de Flandre, Frankrike|APR 1115|Duchi di Puglia et Calabria, Italien|
+p76f5d8d3.html|av Flandern|Balduin V /av Flandern/|1012|Arras, France|1067|Lille, France|
+p25b2c0b3.html|av Flandern|Matilda /av Flandern/|1031|Brygge, Belgien|1083|Caen, France|
+p1265b3cd.html|Fleming|Mary /Fleming/|1277|Cumbernauld, Lanarkshire, Scotland|1318|Kilmarnock, Scotland|
+pb6d0692e.html|Foleson Einarsson|Tord /Foleson Einarsson/|||||
+p1e17ee9c.html|Forbes 1st of Pitsligo & Kynnaldy|William /Forbes 1st of Pitsligo & Kynnaldy/|1392|Druminnor, Aberdeenshire, Scotland|24JAN 1445|Arbroath, Angus, Scotland|
+pea9de36d.html|Forbes 2nd of Pitsligo & Kynnaldy|Alexander /Forbes 2nd of Pitsligo & Kynnaldy/|1425|Pitsligo, Aberdeenshire.Scotland|MAR 1477|Pitsligo, Aberdeenshire.Scotland|
+paa6c2cf0.html|Forbes|Agnes /Forbes/|1460|Pitsligo, Aberdeenshire.Scotland|1526||
+p8cc9e2b5.html|von Formbach|Benedicta /von Formbach/|1070|Formbach, Tyskland|1130||
+pff28abcb.html|von Formbach|Heinrich II /von Formbach/|1040|Quinzigau, Tyskland|1090|Formbach, Tyskland|
+pcc331725.html|von Formbach|Thiemo II /von Formbach/|||||
+p0bfcf8f3.html|Forsaea|Maria /Forsaea/|1694|Steneby (P)|1782|Steneby (P)|
+p9e1df721.html|av Franken|Aldana /av Franken/|715|Metz, Lorainne, France|804|Toulouse, Occitanie, France|
+pa9db17ef.html|av Frankerna|Robert II (den fromme) /av Frankerna/|972|Orleáns, France|20JUL 1031|Melun, France|
+pd7fe2778.html|Fraser 1st of Philorth|Alexander /Fraser 1st of Philorth/|1339|Cowie, Kincardineshire, Scotland|1411|Scotland|
+pc0c7303a.html|Fraser 2nd of Philorth|William /Fraser 2nd of Philorth/|1376|Philorth, Aberdeenshire, Scotland|1441|Philorth, Aberdeenshire, Scotland|
+pcbf24ca4.html|Fraser of Cowie & Durris|William /Fraser of Cowie & Durris/|1318|Scotland|17OCT 1346|Durham, England|
+pd3cc78ad.html|Fraser of Philorth|Agnes /Fraser of Philorth/|1395|Philorth, Aberdeenshire, Scotland|||
+p1acfecec.html|Fraser of Tweedale|Finetta /Fraser of Tweedale/|1136|Peebles, Scotland|1230|Lochow, Argyllshire, Scotland|
+p48f944b5.html|Fraser of Tweedale|John /Fraser of Tweedale/|||||
+pfa6024d4.html|Fredriksdotter|Barbro /Fredriksdotter/|1666|Håby (O)|1749|Foss (O)|
+p19e9e697.html|Frellavsen Frille|Eggert /Frellavsen Frille/|1420|Danmark|1501||
+pf80db615.html|Frellavson Frille|Christiern (Krister) /Frellavson Frille/|1350|Danmark|1418|Ribe, Danmark|
+p4c94f736.html|Galen|Gunne /Galen/|1140||||
+p1dddf906.html|Galen|Herluf /Galen/|1140|Knardrup, Själland, Danmark|1176|Danmark|
+p49b7e5ef.html|Galge Herse|Torstein /Galge Herse/|952|Onundfjord, Møre og Romsdal, Norge|1016|Giske, Norge|
+p1981954d.html|Galge|Torstein /Galge/|955||||
+pd5fc424e.html|Gammalsdotter|Anna /Gammalsdotter/|||1600|Lycke, Rännelanda (P)|
+p157d0bb4.html|Gammalsson|Amund /Gammalsson/|1635|Ryr, Sanne (O)|1694|Ryr, Sanne (O)|
+pb5ac1fb8.html|Gavelholm|Brita Catrina Magdalena Christina /Gavelholm/|1710|Brastad (O)|1743|Brastad (O)|
+pc88f7ffc.html|Gavelholm|Hans /Gavelholm/|1645||1715|Gävle (X)|
+p09081f5d.html|Gavelholm|Johan /Gavelholm/|1670|Gävle (X)|1740|Foss (O)|
+p2e804469.html|Gepa (Gerberga) von Werl-Arnsberg|Mechtild /Gepa (Gerberga) von Werl-Arnsberg/|1070|Detmold, North Rhine-Westphalia, Tyskland|1135||
+p07f0dfc4.html|Gerberga av Anjou|Ermengarde /Gerberga av Anjou/|966|Anjou, France|1024|France|
+p7bf75e96.html|von Gern|Gertrud /von Gern/|1112|Tyskland|1175||
+p7a58315c.html|von Gilching| /von Gilching/|||||
+p4ae2da98.html|Gjordsen Drefeld till Gärsnäs|Jens /Gjordsen Drefeld till Gärsnäs/|1350|Danmark||Skåne, Sverige|
+pa70ea673.html|Gjordsen Drefeld|Vesti /Gjordsen Drefeld/|1415|Skåne, Sverige|||
+pa0a428bf.html|Glebovich of Polotsk|Volodar /Glebovich of Polotsk/|1110|Novgorod, Ryssland|1167|Novgorod, Ryssland|
+p853d324c.html|von Gleichen-Tonna|Lambert II /von Gleichen-Tonna/|1190|Thyringen, Vorarlberg, Österrike|1227|Gleichen, Lower Saxony, Tyskland|
+pae4d5511.html|von Gleichen|Adela /von Gleichen/|1215|Gleichen, Lower Saxony, Tyskland|1266|Tyskland|
+pd3f4b78a.html|von Gleichen|Erwin /von Gleichen/|1130|Tyskland|1193|Tyskland|
+p11efa052.html|Godfrey|Marion /Godfrey/|1030|Scotland|||
+p02fae5d7.html|Gormsdatter|Gunhild /Gormsdatter/|910|Jylland, Danmark|987|Orkney Islands, Scotland|
+p448d833f.html|Gray of Broxmouth|Margret /Gray of Broxmouth/|1380|Broxmouth, Roxburghshire, Scotland|1432|Erroll, Pearthshire, Scotland|
+p240be70b.html|Gregersen Egeside Hak till Vittskövle|Peder /Gregersen Egeside Hak till Vittskövle/|1280|Egeside, Vittskövle (M)|JUL 1332|Vittskövle (M)|
+pb405f3d1.html|Gregersson Semkler|Michel /Gregersson Semkler/|1650||27JUN 1708|Kongsberg, Norge|
+pfd4e1601.html|av Grenland|Hroi "den hvite" /av Grenland/|900|Grenlan, Vestfold, Norge|950|Norge|
+pd8c0d19c.html|Grisegonello av Anjou|Geoffrey I "Gråkappan" /Grisegonello av Anjou/|940|Anjou, France|987|Chateau-de-Loire, France|
+pb3b404be.html|Grosen Ulfeldt|Anders /Grosen Ulfeldt/|1170|Kalundborg, Holbäck, Danmark|1250|Terlöse, Ribe, Danmark|
+pafbe4b4c.html|Grubbe (Pitbe) af Saerslev|Jacob /Grubbe (Pitbe) af Saerslev/||||Saerslev, Själland, Danmark|
+p7f3fb08c.html|Grubbe|Gunde /Grubbe/|1209|Danmark|||
+pea45ec20.html|Grymberg|Andreas /Grymberg/|1789|Foss (O)|1867|Foss (O)|
+p3c145409.html|Gudbrandsdatter| /Gudbrandsdatter/|||||
+pf6ad2f2d.html|Gudbrandsdatter|Åsta /Gudbrandsdatter/|970|Vestfold, Norge|1020|Buskerud, Norge|
+pc54dbb5e.html|Gudbrandsdottir|Åsta "Astrid" /Gudbrandsdottir/|970|Vestfold, Norge|1020|Buskerud, Norge|
+p74a3854d.html|Gudbrandsson|Hallkjell /Gudbrandsson/|||||
+pc93596cb.html|Gudfastsson|Östman /Gudfastsson/|1100|Västerhus, Frösö (Z)|1140|Västerhus, Frösö (Z)|
+p85942911.html|Gudfredsdatter| /Gudfredsdatter/|||||
+pb754dfe9.html|Gudfredsdatter| /Gudfredsdatter/|||||
+pa87027a3.html|Gudmundson|Rodgeir /Gudmundson/|||||
+p4dc0b045.html|Gudrödsson|Harald II /Gudrödsson/|1207||1287||
+p36a471eb.html|Gudrödsson|Olaf II "The Black" /Gudrödsson/|1174|Isle of Man, England|1237|Isle of Man, England|
+p210058f4.html|Gudrödsson|Ragnvald /Gudrödsson/|1165||1229||
+pea8c7e51.html|Gullesson|Måns /Gullesson/|1460|Mällby, Överlännäs (Y)|1547|Mällby, Överlännäs (Y)|
+p75004278.html|Gumundi Sigfridsson|Stigo /Gumundi Sigfridsson/|1485|Närby, Norrala (X)|1576|Gamsäter, Bergsjö (X)|
+pf15047cf.html|Gundesen Grubbe|Johannes /Gundesen Grubbe/|1229|Lögumkloster, Danmark|1289|Danmark|
+p4d19bfff.html|Gunhildsson av Ringnes|Guttorm /Gunhildsson av Ringnes/||Ringnes, Stange, Hedmark, Norge|1052|Ringnes, Stange, Hedmark, Norge|
+p4ae243a2.html|Gunnarsdatter|Ingeborg /Gunnarsdatter/|||||
+pb7e20de4.html|Gunnarsdotter|Anna /Gunnarsdotter/|1699|Håby (O)|1760|Foss (O)|
+pfafcc7e9.html|Gunnarsdotter|Anna /Gunnarsdotter/|1718|Brastad (O)|1783|Brastad (O)|
+p6222ee8b.html|Gunnarsdotter|Anna /Gunnarsdotter/|1751|Laxarby (P)|1834|Laxarby (P)|
+p3231a564.html|Gunnarsdotter|Anna Catharina /Gunnarsdotter/|21APR 1782|Foss (O)|29APR 1838|Kaserna, Hede (O)|
+pfcadf117.html|Gunnarsdotter|Barbro /Gunnarsdotter/|1633||1705|Foss (O)|
+p78af8a5f.html|Gunnarsdotter|Börta /Gunnarsdotter/|1665|Laxarby (P)|1718|Laxarby (P)|
+p2c67009a.html|Gunnarsdottir|Jofridur /Gunnarsdottir/|940||||
+p42941a89.html|Gunnarsen Hvite, til Gulsvik|Thorald /Gunnarsen Hvite, til Gulsvik/|1220|Gulsvik, Buskerud, Norge|1258|Gulsvik, Buskerud, Norge|
+p779f6201.html|Gunnarsson|Anders /Gunnarsson/|||1670|Fröskog (P)|
+pb485fdc9.html|Gunnarsson|Anders /Gunnarsson/|||1703|Foss (O)|
+p65dfdcb8.html|Gunnarsson|Hans /Gunnarsson/|||1723|Håby (O)|
+pca409841.html|Gunnarsson|Lars /Gunnarsson/|||1690|Håby (O)|
+pa85cdc2b.html|Gunnarsson|Marna /Gunnarsson/|||||
+p6ccb2e3c.html|Gunnarsson|Nils /Gunnarsson/|||||
+pc13f0a12.html|Gunnarsson|Thorbjörn /Gunnarsson/|1480|Bohuslän, Sverige||Bohuslän, Sverige|
+p00562a94.html|Gunnesdottir|Aasleiv /Gunnesdottir/|||||
+p88cb0042.html|Gunnesen Galen|Vogn /Gunnesen Galen/|||||
+pf6191914.html|Gustafsson|Alida Hermina /Gustafsson/|1APR 1890|Fuxerna (P)|12DEC 1986|Nödinge (P)|
+pf6de187d.html|Gustavsson|Dan /Gustavsson/|||||
+p8fc01765.html|Guttormsdatter på Rein|Ingrid /Guttormsdatter på Rein/|1136|Rein. Rissa, Norge|1180|Trondheim, Norge eller Svealand, Sverige|
+p3f7729cf.html|Guttormsdatter Rein|Ragnrid /Guttormsdatter Rein/|1144|Rein, Rissa, Norge|||
+pf7bdf1b4.html|Guttormsdatter|Helen /Guttormsdatter/|1165|Sverige|1230|Vreta kloster (E)|
+pc647381a.html|Guttormsdatter|Ragnhild /Guttormsdatter/|||||
+p2fb75fc6.html|Guttormsen Såstad|Halvard /Guttormsen Såstad/|1130|Såstad, Stange, Hedmark, Norge|1199||
+p1ab04a6a.html|Guttormsen|Kalv /Guttormsen/|1050|Ringnes, Stange, Hedmark, Norge|||
+p39bf4af5.html|Guttormsen|Torbjörn /Guttormsen/|1340|Ångsta, Lockne (Z)|1412|Ångsta, Lockne (Z)|
+p8ffe17e0.html|Gyrdsdatter| /Gyrdsdatter/|908|Sola, Rogaland, Norge||Norge|
+pd3834ee6.html|Gyrdsson|Harald /Gyrdsson/|830|Sverige|||
+p5ef0fdd1.html|Gök Andersson|Hans /Gök Andersson/|1629|Knarrevik, Håby (O)|1719|Foss (O)|
+pee7e3419.html|Haakonsdatter Bolt|Sigrid /Haakonsdatter Bolt/|1281|Ringerike, Norge|1363|Egge, Steinkjer, Norge|
+p24dc703f.html|Haakonsdatter|Borghild /Haakonsdatter/|1240|Viken, Ringerike, Norge|1300|Norge|
+pa8d5bf9a.html|Haftorsdatter Ross|Sigrid /Haftorsdatter Ross/|1190|Eyri, Snæfellsnes, Island|1275|Akershus, Norge|
+p5d08e666.html|Hak|Niels /Hak/|1225||||
+p0718af53.html|Haldorsson Stallare|Nevstein /Haldorsson Stallare/|1012||1050|Hvitsten, Akershus, Norge|
+p125af181.html|Halfdansdottir|Gunhilde /Halfdansdottir/|935|Sola, Rogaland, Norge||Norge|
+pc38f7934.html|Halfvardsdotter|Anna /Halfvardsdotter/|1665|Tisselskog (P)|1746|Tisselskog (P)|
+p674db7c3.html|Halfwårdsen|Joen /Halfwårdsen/|1595|Brastad (O)|||
+p736fd778.html|Haliburton|John /Haliburton/|APR 1346|Haliburton, Berwicksshire, Scotland|1402||
+pe525f8f3.html|Hallkjelsdatter| /Hallkjelsdatter/|1005||1050||
+pad6e9844.html|Haludonsdatter|Gunhild /Haludonsdatter/|950|Norge|1000|Giske, Norge|
+pd02c555e.html|Halvardsdotter|Britta /Halvardsdotter/|||1787|Skållerud (P)|
+p37d23c25.html|Halvardsdotter|Kerstin /Halvardsdotter/|1783|Rölanda (P)|1848||
+p00057bf4.html|Halvardsdotter|Maren /Halvardsdotter/|||1719|Foss (O)|
+pae2de386.html|Halvardsen|Agmund /Halvardsen/|1160|Sverige|1180|Norge|
+p54e01b9f.html|Halvardsson|Anders /Halvardsson/|1667|Bärfendal (O)|1748|Svarteborg (O)|
+p6c8072f6.html|Halvardsson|Anders /Halvardsson/|1703|Laxarby (P)|1783|Laxarby (P)|
+pf0a76aba.html|Halvardsson|Jon /Halvardsson/|1575|Torrskog (P)|||
+p1572dfd2.html|Halvardsson|Jon /Halvardsson/|1575|Torrskog (P)|||
+pbed1b895.html|Halvdansson|Sigurd "Syr" /Halvdansson/|965|Rise, Ringerike, Buskerud, Norge|1018|Stein i Hole, Ringarike, Buskerud, Norge|
+p5ca207e4.html|Halyburton|Jean /Halyburton/|1350|Dirleton, East Lothian, Scotland|1400|Midlothian, Scotland|
+p0a316527.html|Hansdatter Aasen|Mariette /Hansdatter Aasen/|1635|Röros, Norge|16DEC 1736|Röros, Norge|
+p5aea0311.html|Hansdatter Koch|Lisbeth /Hansdatter Koch/|1679|Kokkvollen, Aursunden, Röros, Norge|1758|Kvipsdalen, Röros, Norge|
+p2f8a7562.html|Hansdatter Sund|Ingeborg /Hansdatter Sund/|1719|Röros, Norge|1786|Röros, Norge|
+p0e739c39.html|Hansdotter Aasen|Marit /Hansdotter Aasen/|1616||||
+p32f07349.html|Hansdotter|Anna /Hansdotter/|1788|Kville (O)|1835|Foss (O)|
+p1fc1d784.html|Hansdotter|Anna Britta /Hansdotter/|1811|Svarteborg (O)|1889|Svarteborg (O)|
+pb184f031.html|Hansdotter|Börta /Hansdotter/|||||
+pb3001e7c.html|Hansdotter|Börta /Hansdotter/|1605|Laxarby (P)|||
+p965bc2dc.html|Hansdotter|Börta /Hansdotter/|1742|Foss (O)|1785|Svarteborg (O)|
+p685c4720.html|Hansdotter|Catharina /Hansdotter/|1805|Håby (O)|1859|Herrestad (O)|
+pd8ed674b.html|Hansdotter|Cecilia /Hansdotter/|||||
+p6bc63de2.html|Hansdotter|Gunilla /Hansdotter/|||||
+p386a474a.html|Hansdotter|Kerstin /Hansdotter/|1681|Håby (O)|1747|Håby (O)|
+p31482f7c.html|Hansdotter|Kirsti /Hansdotter/|1412|Jämtland (Z)|1495|Jämtland (Z)|
+p936bee16.html|Hansdotter|Margareta /Hansdotter/|||||
+p56ceede7.html|Hansdotter|Margareta /Hansdotter/|1615|Bro (O)|1645|Näverkärr, Bro (O)|
+pe4d37db8.html|Hansdotter|Marit /Hansdotter/|1575||||
+p967b8290.html|Hansdotter|Märta /Hansdotter/|1661|Ör (P)|||
+p2f479850.html|Hansen Aasen|Peder /Hansen Aasen/|1623|Sör-Tröndelag, Norge|1687|Aasen, Röros, Norge|
+p3b36f247.html|Hansen Bruhn|Peder /Hansen Bruhn/|1495|Vä (L)|1543|Vä (L)|
+pe0002330.html|Hansen Elven|Anne /Hansen Elven/|1781||1831|Saksgården, Röros, Norge|
+pb6655211.html|Hansen Elven|Henning /Hansen Elven/|21APR 1776|Elven, Röros, Norge|1839|Saksgården, Röros, Norge|
+paf489ab9.html|Hansen Ingebrigtsvoll|Johannes /Hansen Ingebrigtsvoll/|1791|Röros, Norge|1880|Ingebrigtsvollen, Brekken, Norge|
+peb457753.html|Hansen Knob|Hans /Hansen Knob/|26SEP 1700|Röros, Norge|31MAR 1763|Tyskgården, Röros, Norge|
+p3f838026.html|Hansen Knoph|Jockum /Hansen Knoph/|10SEP 1736|Röros, Norge|1785|Tyskgården, Röros, Norge|
+p9c26248a.html|Hansen Koch d.y|Hans /Hansen Koch d.y/|1648|Kongsberg, Norge|1733|Röros, Norge|
+p96214a94.html|Hansen Koch d.ä|Hans /Hansen Koch d.ä/|1620|Härjedalen (Z)|1671|Röros, Norge|
+p7d2b550b.html|Hansen Koch|Jochum /Hansen Koch/|1680|Röros, Norge|JUN 1733|Röros, Norge|
+p15385f28.html|Hansen Langen|Bent /Hansen Langen/|1737|Bentgården, Röros, Norge|1817||
+pb4b81988.html|Hansen Sund (Røragen)|Johannes /Hansen Sund (Røragen)/|1716|Röros, Norge|26JUN 1791|Röros, Norge|
+p5ff78c31.html|Hansen Sund|Hans /Hansen Sund/|||1694|Röros, Norge|
+p90419fc9.html|Hansen Sund|Hans /Hansen Sund/|1682|Röros, Norge|1761|Röros, Norge|
+p8b0decc9.html|Hansen Wessel|Bent /Hansen Wessel/|||||
+pdd9b1526.html|Hansson Rothovius (Rooth)|Arvid /Hansson Rothovius (Rooth)/|1615|Kexholm, Finland|1670|Pälkene, Finland|
+p51868b38.html|Hansson Smed|Jon /Hansson Smed/|1625||||
+p18bd1bc5.html|Hansson|Anders /Hansson/|1728|Hede (O)|1783|Hede (O)|
+p8b2ed62e.html|Hansson|Anders /Hansson/|19FEB 1781|Torbjörneröd, Hede (O)|15MAY 1837|Kaserna, Hede (O)|
+p42146b73.html|Hansson|Christen /Hansson/|||||
+p0e405883.html|Hansson|Christoffer /Hansson/|1589|Prästgården, Själevad (Y)|1655|Helgum, Säbrå (Y)|
+pd65e3e0f.html|Hansson|Engelbrekt /Hansson/|1726|Foss (O)|1796|Foss (O)|
+p39afe5c1.html|Hansson|Hans /Hansson/|||||
+pa4be2856.html|Hansson|Hans /Hansson/|||||
+p84d9128c.html|Hansson|Hindrik /Hansson/|1678|Brastad (O)|1748|Håby (O)|
+p1f953d64.html|Hansson|Jacob /Hansson/|1675|Sjöritz, Foss (O)|11APR 1775|Holmen, Foss (O)|
+p7a5c672f.html|Hansson|Jörgen /Hansson/|1615|Bro (O)|1670|Bro (O)|
+p81123da0.html|Hansson|Lars /Hansson/|15APR 1720|Amunderöd, Foss (O)|3APR 1783|Amunderöd, Foss (O)|
+p6bfa8188.html|Hansson|Lars /Hansson/|1771|Krokstad (O)|1834||
+p2b7bf354.html|Hansson|Nils /Hansson/|1575||1630|Grelsbyn|
+pec09556e.html|Hansson|Olof /Hansson/|20MAY 1694|Kamstorp, Foss (O)|30APR 1748|Öxna, Foss (O)|
+p6ac2d306.html|Hansson|Per /Hansson/|1678|Håby (O)|1733|Håby (O)|
+p52e76561.html|Hansson|Tolle /Hansson/|1600|Brastad (O)|1669|Brastad (O)|
+p9030b6f3.html|Hansson|Torbjörn /Hansson/|||1719|Foss (O)|
+p380d0679.html|Haraldsdatter av Agder|Åsa /Haraldsdatter av Agder/|794|Agder, Vestfold, Norge|834|Oseberg, Vestfold, Norge|
+p55c7935b.html|Haraldsdatter Bratt|NN /Haraldsdatter Bratt/|||||
+p87b76611.html|Haraldsdatter Gullikstad|Maren /Haraldsdatter Gullikstad/|1695|Norge|1767|Röros, Norge|
+p8bbf74ff.html|Haraldsdatter|Tyrne /Haraldsdatter/|820|Jylland, Danmark|850|Ringerike, Buskerud, Norge|
+p5eda03fe.html|Haraldsdotter av Norge|Ragnhild Maria /Haraldsdotter av Norge/|1047||1080||
+pd1e93c7a.html|Haraldsen Dille|Ole /Haraldsen Dille/|||||
+p15019483.html|Haraldsen till Egeside|Peder /Haraldsen till Egeside/|1230|Vittskövle (M)||Vittskövle (M)|
+pb9152dea.html|Haraldsen|Oluf II /Haraldsen/|1110||1143||
+p8c789e40.html|Haraldsson Bolt|Ogmund /Haraldsson Bolt/|1227|Ringerike, Buskerud, Norge|1270|Norge|
+pdeb32fa4.html|Haraldsson Klakk of Friesland|Gottfried /Haraldsson Klakk of Friesland/|840|Hedeby, Sleswig-Hollstein, Tyskland|885|Rustringen, Friesland. Nederländerna|
+pe3cbdf61.html|Haraldsson|Gyrd /Haraldsson/|850||908||
+p20631e31.html|Haraldsson|Torleif /Haraldsson/|1228|Isle of Man, England|1290|Isle of Man, England|
+p5533cc68.html|Hardråde Sigurdsson|Harald /Hardråde Sigurdsson/|1015||1066||
+pc4ff0be1.html|Hay of Ardendraught & Delgaty|William /Hay of Ardendraught & Delgaty/|1435||30MAR 1502||
+p3cc28800.html|Hay of Delgaty|Gilbert (Alexander) /Hay of Delgaty/|1478|Delgaty, Scotland|9SEP 1513|Flodden, Kirknewton, Northumberland, England|
+p36706121.html|Hay of Erroll, Constabel of Scotland|Thomas /Hay of Erroll, Constabel of Scotland/|1342|Erroll, Pearthshire, Scotland|JUL 1406|Slains castle, Buchan, Aberdeenshire, Scotland|
+pe79e554e.html|Hay of Erroll|Gilbert /Hay of Erroll/|1395|Erroll, Pearthshire, Scotland|7SEP 1436|Ardmair, Rosshire, Scotland|
+p3ae97893.html|Hay of Erroll|Maria "Jane" /Hay of Erroll/|1427|Erroll, Pearthshire, Scotland|1470|Pitsligo, Aberdeenshire.Scotland|
+p9fea8c7d.html|Hay of Lochorwart and Yester|William /Hay of Lochorwart and Yester/|1375|Yester, East Lotian, Scotland|1421|Yester, East Lotian, Scotland|
+p0367ce98.html|Hay of Yester|Alicia /Hay of Yester/|1406|Yester, East Lotian, Scotland|||
+pfcd399b9.html|Hay|Joanna /Hay/|1490||||
+p413d3471.html|Helgeson på Aurland|Brynjulf /Helgeson på Aurland/|||||
+pb84faedb.html|Hendriksen Myrmoen|Anders /Hendriksen Myrmoen/|1754|Myrmoen, Aursunden, Norge|1829|Myrmoen, Aursunden, Norge|
+pbdd2f3d3.html|Henningsdotter Saksgård|Kari /Henningsdotter Saksgård/|1809|Saksgården, Röros, Norge|1872|Brekken, Norge|
+pb5508c9d.html|Henningsen Brekken|Hans /Henningsen Brekken/|1742|Elven, Röros, Norge|||
+p5ca17efe.html|Henningsen Henningsgård|Henning /Henningsen Henningsgård/|1711|Henningsgård, Brekken, Röros, Norge|1783|Henningsgård, Brekken, Röros, Norge|
+pa2488b4e.html|Henningsen Södal|Lars /Henningsen Södal/|1741|Röros, Norge|1803||
+pb5a92772.html|Henricdotter Tawast|Karin /Henricdotter Tawast/|1474|Finland|1557||
+p3ddbbac1.html|Henriksdatter Aasen|Mariette /Henriksdatter Aasen/|1690|Röros, Norge|1747|Röros, Norge|
+p907a276c.html|Henriksdatter Eberstein|Cecilie /Henriksdatter Eberstein/|1300||1345||
+pe976032b.html|Henriksdatter Myrmoen|Gjertrud /Henriksdatter Myrmoen/|12AUG 1838|Myrmoen, Aursunden, Norge|25SEP 1916|Sjövold, Brekken, Norge|
+pe60714d7.html|Henriksdatter Torsvold|Olea /Henriksdatter Torsvold/|2JUN 1908||8NOV 1986||
+pefa7fd15.html|Henriksdotter|Anna /Henriksdotter/|1515|Jacobstad, Finland|||
+pb9575234.html|Henriksdotter|Ingeborg /Henriksdotter/|||||
+p024bdaaa.html|Henriksen Ryen|Joen /Henriksen Ryen/|1626|Ryen, Röros, Norge|1710|Ryen, Röros, Norge|
+pe0f6d706.html|Henriksen Ryen|Joen /Henriksen Ryen/|1634|Ryen, Röros, Norge|1712|Ryen, Röros, Norge|
+p404194ec.html|Henriksson Bröms|Carl /Henriksson Bröms/|1515|Fiskvik, Bergsjö (X)|1600|Tuna (Y)|
+p508e7386.html|Henriksson Esping Leijonmarck|Simon /Henriksson Esping Leijonmarck/|1500||1571||
+pa3a5ecfc.html|Henriksson Finne (Renhuvud)|Sten /Henriksson Finne (Renhuvud)/|1430||1490||
+p38371cdd.html|Henriksson Limingius Corvinus|Johannes /Henriksson Limingius Corvinus/|1563|Uleåborg, Norra Österbotten, Finland|1634|Finland|
+pff833eb2.html|Herlufsdatter Galen|Cecilie /Herlufsdatter Galen/|1162|Fjenneslev, Knardrup, Danmark|1220|Ellinge (M)|
+p686d31ec.html|Herlufsdatter Grubbe af Saerslev| /Herlufsdatter Grubbe af Saerslev/||Saerslev, Själland, Danmark|||
+p052a35b6.html|Herlufsdatter Grubbe af Saerslev| /Herlufsdatter Grubbe af Saerslev/||Saerslev, Själland, Danmark|||
+pad9b29f3.html|Herlufsdatter|Cecilie /Herlufsdatter/|1162|Fjenneslev, Knardrup, Själland,  Danmark|1220|Ellinge (M)|
+p422fc6eb.html|Hermansdotter Svärd| /Hermansdotter Svärd/|||||
+p376442ba.html|Hermansdotter|Karin /Hermansdotter/|1634|Brastad (O)|1668|Hals, Brastad (O)|
+p9c9e4196.html|Hesdin|Ernecul /Hesdin/|990|Frankrike|||
+p6a692776.html|Hesdin|Gerhardt /Hesdin/|1015|Hesdin, Pas-de-Calaise, Frankrike|||
+pb33891dd.html|Hewelli Stodoranskij|Boleslaw /Hewelli Stodoranskij/|850||||
+pe9c71a1d.html|Hillbom|Kjell Ove /Hillbom/|3MAY 1965|Östersund (Z)|||
+pe0841883.html|Hillbom|Sara Evelina /Hillbom/|||||
+p84372167.html|Hindricks|Margareta /Hindricks/|1550|Tyskland|1591|Tyskland|
+pe431fde3.html|Hindriksdotter|Anna /Hindriksdotter/|1715|Håby (O)|1796|Håby (O)|
+p55bacda1.html|Hindriksdotter|Britta /Hindriksdotter/|1675|Torrskog (P)|||
+p7e8a2fb7.html|Hjarandsen Hvite|Gunnar /Hjarandsen Hvite/|1185|Gulsvik, Buskerud, Norge|1252|Lier, Buskerud, Norge|
+pcc367839.html|Hjort Helgesson|Sigurd /Hjort Helgesson/|791|Ringerike, Buskerud, Norge|850|Buskerud, Norge|
+p750aebb8.html|von Hohenwart|Hidda /von Hohenwart/|1005|Landsberg, Bayern, Tyskland|1056|Andecs, Tyskland|
+p1b4450e8.html|Holck af Ejrsböl|Johannes /Holck af Ejrsböl/|1329|Ejrsböl, Danmark|1385|Udbyneder, Randers, Danmark|
+pe261acef.html|van Holland|Swanhilde /van Holland/|||||
+p4b4ef12b.html|Horda-Kåresson til Sola|Ogmund /Horda-Kåresson til Sola/|890|Moster, Bømlo, Norge|930|Sola, Rogaland, Norge|
+p059dac5b.html|Hroison Mjonev|Rane "Smalnæse" /Hroison Mjonev/|932|Norge||Norge|
+p571c5003.html|Hrolfsdottir|Herthrud /Hrolfsdottir/|||||
+p687f45f3.html|Hrolfsson|Solvi /Hrolfsson/|620|Hedmark, Norge|||
+pd5246ab1.html|van Hufn Harvigsdatter Bryske til Kragerup|Kristine /van Hufn Harvigsdatter Bryske til Kragerup/|1381||1481||
+p194ee76e.html|Hvas af Ormstrup|Laurids (den yngre) /Hvas af Ormstrup/|1360|Ormstrup, Dronningborg, Danmark|1431|Sahl, Viborg, Danmark|
+p8027be3e.html|Hvas|Laurids /Hvas/|1315|Ormstrup, Danmark|1371|Sahl, Viborg, Danmark|
+pc74ff685.html|Hyrna Thorisson|Ørn /Hyrna Thorisson/|770|Norge|||
+p0b61c3f6.html|Håkansdotter|Anders /Håkansdotter/|||||
+p2713f2e4.html|Håkansson Frille|Frellav /Håkansson Frille/|1312|Tönder, Danmark|1363||
+p4174b392.html|Håkansson|Anders /Håkansson/|1669|Hede (O)|1735|Hede (O)|
+p71e02bca.html|Håkansson|Engelbrekt /Håkansson/|1635|Gräsmark (S)|1676|Sunne (S)|
+pde7ac868.html|Håkansson|Frellav /Håkansson/|1400|Danmark|1457|Danmark|
+p30485ccd.html|Håkansson|Olav /Håkansson/|||||
+p8c03f684.html|Håkonsson|Ulv /Håkonsson/|1085||||
+p74772d85.html|Hårfagre Halvdansson av Norge|Harald I /Hårfagre Halvdansson av Norge/|858|Vestfold, Norge|940||
+pd15b752b.html|Håvardsdatter|Borghild /Håvardsdatter/|1180|Skjeberg, Östfold, Norge|1265|Skien og Börud, Norge|
+pdf6c1479.html|II (Stuart) of Scotland|Robert /II (Stuart) of Scotland/|2MAR 1316||1390|Dundonald, Ayrshire, Scotland|
+pf3ed85b4.html|im Nordgau|Berenger I /im Nordgau/|1005|Bavaria, Tyskland|1043|Aibling, Tyskland|
+p6b2280c2.html|im sudlichen Kelsgau|Eberhard /im sudlichen Kelsgau/|||||
+p63893eaf.html|Ingebrigtsdatter Sollie|Lisbeth /Ingebrigtsdatter Sollie/|1716|Ingebrigtsvollen, Brekken, Norge|1792|Överhaugen, Brekken, Röros, Norge|
+p650f73d0.html|Ingebrigtsen Sollie|Anders /Ingebrigtsen Sollie/|1654|Lilletröa, Rörosgård, Röros, Norge|1721|Sollie Östra, Röros, Norge|
+p40126ff7.html|Ingedotter|Kristina /Ingedotter/||Uppsala (C)|1122|Kiev, Russia|
+p36cd9863.html|Ingegerdsdatter Juel (Hvide)|Margrethe /Ingegerdsdatter Juel (Hvide)/|1145||||
+pd438a5cc.html|Ingemarsdotter|Maret /Ingemarsdotter/|1580|Rud, Järn (P)|1650|Rud, Järn (P)|
+p2712d9c4.html|Ingesdotter|Kristina /Ingesdotter/|||1122|Kiev, Ukraina|
+peedb401b.html|Ingesson|Ragnvald /Ingesson/|||||
+p2b886b92.html|Ingevaldsdotter Stark|Johanna /Ingevaldsdotter Stark/|||1667|Lilla Malgräva, Asker (T)|
+p14c13142.html|Ingevaldsdotter|Karin /Ingevaldsdotter/|1694|Skållerud (P)|1746|Bränna, Skållerud (P)|
+p6c8c91c7.html|Ingevaldsson Stark|Jakob /Ingevaldsson Stark/|1588||1631||
+pd2bb7cf8.html|Ingevaldsson|Bryngel /Ingevaldsson/|||||
+p41297e15.html|Ingevaldsson|Bryngel /Ingevaldsson/|1565|Ingevalds Berga, Ör (P)||Ingevalds Berga, Ör (P)|
+p1ba51c41.html|Ingewaldsdotter|Rangela /Ingewaldsdotter/|1600|Ör (P)|||
+pa76d5966.html|von Itter|Gumbert /von Itter/|1065|Itter, Dusseldorf, Tyskland|1127|Itter, Dusseldorf, Tyskland|
+pb7443bea.html|von Itter|Lutrud /von Itter/|1085||1149|Schwalenberg, Tyskland|
+pc5e027c7.html|von Itter|Rembert /von Itter/|1030|Medebach, Arnsberg, Tyskland|1068||
+p4686b889.html|Ivarson Burlufot|Ufeig /Ivarson Burlufot/|845|Norge|880|Oppland, Norge|
+p0bd4b79b.html|Ivarsson|Orm /Ivarsson/|1137|Norge|15JUN 1184|Sogn o Fjordane, Norge|
+p3cd5a19d.html|Ivarsson|Per /Ivarsson/|||||
+pe0d53d66.html|Ivarsson|Sigtrygg Gale (Sitric Cáech) /Ivarsson/|||927||
+pfa67ccc6.html|Iversdatter|Siri /Iversdatter/|||1716||
+p750f6a92.html|Iversen Kuraas|Ole /Iversen Kuraas/|1814|Röros, Norge|1886|Röros, Norge|
+pcdf6e7c6.html|Jacobsdatter Bing|Kjelluf /Jacobsdatter Bing/|1365||||
+p65515fee.html|Jacobsdatter Glob|Margrethe /Jacobsdatter Glob/|1333||1380||
+p4c67295a.html|Jacobsdatter Lunge|Juliane /Jacobsdatter Lunge/|1316||||
+pb5295d4d.html|Jacobsdatter Prytz|Margarethe /Jacobsdatter Prytz/|1679|Röros, Norge|1758||
+p464e6b60.html|Jacobsdatter Salve|Serri /Jacobsdatter Salve/|1762|Röros, Norge|1847|Myrmoen, Aursunden, Norge|
+pb5a91db0.html|Jacobsdotter Kurki|Anna /Jacobsdotter Kurki/|1425||1489||
+p9a50beda.html|Jacobsdotter Kurki|Birgitta /Jacobsdotter Kurki/|1440|Näs (F)|1490|Satakunta, Finland|
+p29f8397c.html|Jacobsdotter|Anna /Jacobsdotter/|1697|Brastad (O)|1779|Brastad (O)|
+pcd74ffad.html|Jacobsdotter|Barbro /Jacobsdotter/|1636||1707|Foss (O)|
+p4709d0ad.html|Jacobsdotter|Börta /Jacobsdotter/|24APR 1708|Trätholmen, Foss /O)|20DEC 1784|Öxna, Foss (O)|
+pe9261a80.html|Jacobsdotter|Kirsti /Jacobsdotter/|||1694|Håby (O)|
+pf56ab539.html|Jacobsen (Myre) till Värestorp|Claus /Jacobsen (Myre) till Värestorp/|||||
+p68424e4d.html|Jacobsen Grubbe af Saerslev|Herluf /Jacobsen Grubbe af Saerslev/|1270|Saerslev, Själland, Danmark|1316||
+pbdeba3aa.html|Jacobsen Hak Galen af Gyllarp|Niels /Jacobsen Hak Galen af Gyllarp/|1290|Ellinge (M)|1349|(M)|
+p9c945a9d.html|Jacobsen Myre (Kyrning) till Hunnestad|Jacob /Jacobsen Myre (Kyrning) till Hunnestad/|1495|Skåne, Sverige|1541|Hunnestad (M)|
+pa78f0dc8.html|Jacobsen Skave|Erik /Jacobsen Skave/|1370|Eskildstrup, Sorö, Danmark|1475|Kvaerkeby, Sorö, Danmark|
+pced4fd24.html|Jacobsson Stark|Ingevald /Jacobsson Stark/|||1643|Biskopsvrak, Stora Mellösa (T)|
+p49b07fb4.html|Jacobsson|Anders /Jacobsson/|1629||1691|Foss (O)|
+p161d5105.html|Jacobsson|Hans /Jacobsson/|1640|Stora Sjöritz, Foss (O)|21MAR 1697|Foss (O)|
+pda7e13c8.html|Jaktkonung|Gudröd /Jaktkonung/|780|Holtum, Vestfjord, Norge|821|Vestfold, Norge|
+paf64d810.html|Jansdotter|Brita /Jansdotter/|||||
+p244678a4.html|Jansdotter|Maja /Jansdotter/|3MAR 1800|Svecklingeby, Ör (P)|13DEC 1839|Svecklingeby, Ör (P)|
+p0a190aeb.html|Jansdotter|Margareta /Jansdotter/|14DEC 1709|Mödängsbo, Bollnäs (X)|1788|Källbo, Bollnäs (X)|
+pc9e0e17a.html|Jansdotter|Maria Sofia /Jansdotter/|28MAY 1837|Vänersborg (P)|12MAR 1924|Huvudgingen, Ärtemark (P)|
+pfaeb1dae.html|Jansson Lingbom|Lars /Jansson Lingbom/|1691||1759||
+p1c40fb22.html|Jansson|Anders /Jansson/|2SEP 1828|Arnolfsby Stommen, Skållerud (P)|26MAR 1902|Forsebol, Ör (P)|
+pb1843634.html|Jensdatter Egeside|Margarete /Jensdatter Egeside/|1400|Skåne, Sverige||Skåne, Sverige|
+p9093b4e5.html|Jensdatter Grubbe til Gunderslevholm|Cecilie /Jensdatter Grubbe til Gunderslevholm/|1340|Gunderslevholm, Danmark|1412|Danmark|
+p926bea9f.html|Jensdatter Juel|Barbara /Jensdatter Juel/|||||
+pa3c83fbb.html|Jensdatter Ribbing|Ellen /Jensdatter Ribbing/|||||
+p67938662.html|Jensdatter Riise|Ingeborg /Jensdatter Riise/|1660||1733||
+p7a743926.html|Jensen Blaa|Erich /Jensen Blaa/|1284|Lövestad (M)|||
+pb8620b9c.html|Jensen Drefeld|Gjord /Jensen Drefeld/|1382|Gärsnäs (M)|1404|Skåne, Sverige|
+p928de4eb.html|Jensen Jude till Arlöse (Månesköld af Norge)|Knud /Jensen Jude till Arlöse (Månesköld af Norge)/|1500||1567|Arlösa, Enslöv (N)|
+p02979e2a.html|Jensen Rosensparre|Jep /Jensen Rosensparre/|1370|Skarhult, Eslöv (M)|1428|Skarhult, Eslöv (M)|
+p642fcdda.html|Jensen Rud till Hessel|Christiern /Jensen Rud till Hessel/|1415|Hessel herrgård, Aalsö, Randers, Danmark|1479|Hessel herrgård, Aalsö, Randers, Danmark|
+p18ca5d33.html|Jensen Rud|Jens /Jensen Rud/|1352|Sankt Povls, Korsör, Danmark|1414||
+pd060b4a3.html|Jensen til Ugestorp|Niels /Jensen til Ugestorp/|||||
+pb6364cf0.html|Jensson Skancke|Peder /Jensson Skancke/|1575|Hov, Hackås (Z)|1647|Hov, Hackås (Z)|
+p80afdb4c.html|Jepsdatter Rosensparre|Karen /Jepsdatter Rosensparre/|1410|Skarhult, Eslöv (M)||Skåne, Sverige|
+pe411452d.html|Jerling|Olof /Jerling/|||||
+pd623ce2f.html|Jochumsdatter Knoph|Beritte /Jochumsdatter Knoph/|1764|Röros, Norge|1842|Röros, Norge|
+p1d05151c.html|Jochumsdatter|Ane /Jochumsdatter/|1655|Röros, Norge|MAY 1733|Brynnildsvoll, Brekken Aursund, Röros, Norge|
+p7cea4ef4.html|Jochumsdatter|Berit /Jochumsdatter/|1703|Kongsberg, Norge|20OCT 1782|Röros, Norge|
+pd16a3e78.html|Joensdatter|Berit /Joensdatter/|1664||26DEC 1740||
+pb72be962.html|Joensdatter|Karen /Joensdatter/|1648||1730||
+p3169fd61.html|Joensen Henningsgård|Henning /Joensen Henningsgård/|1677|Henningsgård, Brekken, Röros, Norge|1738|Henningsgård, Brekken, Röros, Norge|
+p54e653a0.html|Joensen Kuraas|Ole /Joensen Kuraas/|1705|Kuraasen, Glåmos, Röros, Norge|1783|Kuraasen, Glåmos, Röros, Norge|
+p6b1f4861.html|Joensen Riise|Jens /Joensen Riise/|1625|Oppdal, Norge|1694|Jensjogården, Tolga, Hedmark, Norge|
+p3d73ef30.html|Joensen Ryen|Henrik /Joensen Ryen/|1666|Röros, Norge|1724|Aasen, Röros, Norge|
+p0c37369f.html|Joensen Ryen|Peder /Joensen Ryen/|1664|Ryen, Röros, Norge|1713|Röros gruva, Röros, Norge|
+p26e95a06.html|Joensen Smelter|Svend /Joensen Smelter/|1624|Norge|1701|Svendsgärden, Röros, Norge|
+p8226270d.html|Joensen|Henrik /Joensen/|||||
+p829731a8.html|Joensen|Mogens /Joensen/|||||
+p884722b9.html|Joensson|Olof /Joensson/|1624|Brastad (O)|1675|Brastad (O)|
+p106ad75e.html|Joergensen Haugen|Joen /Joergensen Haugen/|1718|Haugen, Brekken, Norge|1795|Överhaugen, Brekken, Röros, Norge|
+p4f639810.html|Johannesdatter Dalen|Lisbet /Johannesdatter Dalen/|1759||1826|Tamnes, Norge|
+p4880ab1b.html|Johannesdatter Ingebrigtvoll|Berit /Johannesdatter Ingebrigtvoll/|1833|Ingebrigtsvollen, Brekken, Norge|1924|Nordbrekken|
+p7f155b85.html|Johannesdotter|Britta Kajsa /Johannesdotter/|20JAN 1840|Bocklarud, Fröskog (P)|3SEP 1930|Solvik, Laxarby (P)|
+pde416b06.html|Johannesdotter|Kristina /Johannesdotter/|19JUL 1876|Strand, Ärtemark (P)|25MAR 1937|Grean Norra, Ärtemark (P)|
+p77636d85.html|Johannesdotter|Maja Lena /Johannesdotter/|4MAR 1850|Krokstad (O)|7JAN 1946|Fjella, Mo (O)|
+p5133f5f1.html|Johannesen Grubbe|Mogens /Johannesen Grubbe/|1250|Tönder, Danmark|1320|På hemväg från Jerusalem|
+p50e1f083.html|Johannesen Holck|Lyder /Johannesen Holck/|1355|Udbyneder, Randers, Danmark|1437||
+p60d8648a.html|Johannesen Skave|Jacob /Johannesen Skave/|||25JAN 1383|Ringsted, Danmark|
+p1e049b5c.html|Johannessen Sund|Hans /Johannessen Sund/|17JAN 1762|Stormoen, Röros, Norge|1801|Röragen, Brekken, Röros, Norge|
+p6e5b526a.html|Johannesson Grubbe|Jens /Johannesson Grubbe/|1316|Sorö, Danmark|1405||
+pa0ce5bb5.html|Johannesson|Axel Fritiof /Johannesson/|27APR 1873|Heden, Laxarby (P)|30JUN 1967|Bengtsfors (P)|
+p3f3bbabb.html|Johannesson|Karl Otto /Johannesson/|8JAN 1876|Kinkhem, Hede (O)|19SEP 1940|Fjella, Lunden, Mo (O)|
+p0b4dad3f.html|Johannis Pargasensis|Petrus /Johannis Pargasensis/|1550|Attu, Pargas, Finland|1617|Pargas, Finland|
+p37c294e2.html|Johansdatter Gylland|Maren /Johansdatter Gylland/|1689||1776|Röros, Norge|
+p197a4d7f.html|Johansdotter Limingia|Anna /Johansdotter Limingia/|1602|Finland|1674|Loimaa, Finland|
+pe392171c.html|Johansdotter Walstenia|Katarina /Johansdotter Walstenia/|1630|Pargas, Finland|1675|Pälkene, Finland|
+p6e0856b0.html|Johansdotter|Inger /Johansdotter/|||||
+p9edb3acf.html|Johansdotter|Malin /Johansdotter/|||1674|Stora Mellösa (T)|
+pc06a5f07.html|Johansson Stufve|Gustaf /Johansson Stufve/|12JUN 1860|Kullås, Fuxerna (P)|2SEP 1942|Fuxerna (P)|
+p5da9e2c1.html|Johansson|Anders Fredrik /Johansson/|1815|Ödsmål, Håby (O)|1870|Ödsmål, Håby (O)|
+p6879bfc2.html|Johansson|Jon /Johansson/|||||
+p716c8c9f.html|Johansson|Jonas /Johansson/|1732|Laxarby (P)|1812|Laxarby (P)|
+p9f157a91.html|Johansson|Nils /Johansson/|1768|Kopparbol, Dalskog (P)|23JUL 1839|Kopparbol, Dalskog (P)|
+p2a7461e2.html|Johansson|Olof /Johansson/|||||
+p33a3196c.html|Johnsdatter|Anne /Johnsdatter/|||||
+p7a06080d.html|Jonae Elfdalius|Ericus (Erik Jonasson) /Jonae Elfdalius/|1483|Ekshärad (S)|1588|Ekshärad (S)|
+p5fe37660.html|Jonasdootter|Anna Katrina /Jonasdootter/|12JUL 1812|Skottened, Väne-Ryr (P)|2MAR 1874|Aspekärr, Forshälla (O)|
+p49aebfd2.html|Jonasdotter|Elin /Jonasdotter/|1771|Laxarby (P)|1848|Laxarby (P)|
+pccf65343.html|Jonsdatter Austraat|Baugreid /Jonsdatter Austraat/|1180|Austrått, Norge|1220||
+p81bbd434.html|Jonsdatter Døl|Ingeborg /Jonsdatter Døl/|1693|Röros, Norge|1753|Röros, Norge|
+p475b3a53.html|Jonsdatter Smør av Blindheim|Eldrid /Jonsdatter Smør av Blindheim/|1114|Blindheim, Vigra, Norge|1144|Uppsala (C)|
+pe243fd75.html|Jonsdatter Smør|Eldrid /Jonsdatter Smør/|1114|Blindheim, Sunnmøre, Norge|1144|Uppsala (C)|
+p5ad2d53c.html|Jonsdatter Øverhaug|Kari /Jonsdatter Øverhaug/|1749|Øverhaug, Brekken, Norge|||
+pee8dae59.html|Jonsdatter|Abel /Jonsdatter/|1663||6DEC 1739|Röros, Norge|
+pc14932b2.html|Jonsdatter|Anne /Jonsdatter/|1657|Norge|1720|Röros, Norge|
+paf985644.html|Jonsdatter|Marit /Jonsdatter/|1673||1766|Haugen, Brekken, Norge|
+p3453d37c.html|Jonsdotter|Brita /Jonsdotter/|1773|Backa, Laxarby (P)|||
+p0953f6f8.html|Jonsdotter|Elin /Jonsdotter/|||1772|Holm (P)|
+p3fa2f2b0.html|Jonsdotter|Ingegärd /Jonsdotter/|||||
+p193546a7.html|Jonsdotter|Ingrid /Jonsdotter/|1700|Laxarby (P)|1768|Laxarby (P)|
+p52930fc1.html|Jonsdotter|Kerstin /Jonsdotter/|||||
+pe4ba4489.html|Jonsdotter|Kerstin /Jonsdotter/||Hallersbyn, Dalskog (P)|11APR 1751|Bränna, Skållerud (P)|
+p91f3a1ba.html|Jonsdotter|Margareta /Jonsdotter/|1738||14JUL 1801|Ramsered, Uddevalla (O)|
+pa8bda697.html|Jonsdotter|Marta /Jonsdotter/|1612|Bro (O)|1650|Lyse (O)|
+p90a4401a.html|Jonsen Graftås|Jon /Jonsen Graftås/|||||
+p56920415.html|Jonsen Kuraas|Ole /Jonsen Kuraas/|1642|Kuraasen, Glåmos, Röros, Norge|1725|Kuraasen, Glåmos, Röros, Norge|
+p7ea22254.html|Jonsen Nordbrekken|Henning /Jonsen Nordbrekken/|1834|Sakströen|22NOV 1917|Nordbrekken|
+p89ad0d4c.html|Jonsen Nordbrekken|Saxe /Jonsen Nordbrekken/|1615|Saxegård, Graftås, Ålen, Norge||Saxegården, Nordbrekken, Brekken, Norge|
+p54c2ae34.html|Jonsen Rani, til Gørslev|Rane /Jonsen Rani, til Gørslev/|1254|Gjörslev, Danmark|1294|Roskilde, Danmark|
+pc31b26e3.html|Jonsen Smed|Torstein /Jonsen Smed/|1660|Norge|1724|Smedgården, Tolga, Hedmark, Norge|
+p69f0df7f.html|Jonsen Tamnes|Steffen /Jonsen Tamnes/|1758|Håneset, Röros, Norge|1844|Röros, Norge|
+p0c2abdd3.html|Jonsson Dahl|Anders /Jonsson Dahl/|20APR 1805|Ramsered, Uddevalla (O)|12FEB 1886|Björkebacka, Forshälla (O)|
+p02e4de93.html|Jonsson Ekerot|Segol /Jonsson Ekerot/|1640|Blomskog (S)|1700|Blomskog (S)|
+pea5f6030.html|Jonsson|Anders /Jonsson/|1610|Nössemark (P)|||
+p89f137dd.html|Jonsson|Anders /Jonsson/|1610|Nössemark (P)|1697|Nössemark (P)|
+p7676b2cc.html|Jonsson|Arvid /Jonsson/|||||
+p4979680f.html|Jonsson|Erik /Jonsson/|||1680||
+p196908fb.html|Jonsson|Hans /Jonsson/|1663||28JAN 1733|Öxna, Foss (O)|
+ped5f3065.html|Jonsson|Johan /Jonsson/|1686|Laxarby (P)|1757|Laxarby (P)|
+p2179aea5.html|Jonsson|Jöns /Jonsson/|1772|Sörgården, Laxarby (P)|||
+p704fa591.html|Jonsson|Kåre /Jonsson/|1600|Håbol (P)|1666|Torrskog (P)|
+pa365de77.html|Jonsson|Olof /Jonsson/|1590|Håbol (P)|1664|Håbol (P)|
+peec9409e.html|Jonsson|Olof /Jonsson/|1674||27NOV 1748|Heden, Dalskog (P)|
+pac8d21bd.html|Josephsdatter Bielke|Bente /Josephsdatter Bielke/|||1541||
+p72876805.html|Josephsen Thott till Jordbjerg|Morten /Josephsen Thott till Jordbjerg/|1470|Jordberga, Trelleborg (M)|1561|Jordberga, Trelleborg (M)|
+p5f6ea6c3.html|Juel af Gammel Rostved|Dorthe /Juel af Gammel Rostved/|||||
+pf9df1813.html|von Julbach|Benedikta /von Julbach/|1110|Ollersbach, Österrike|||
+padb1a04c.html|von Julbach|Werinhard /von Julbach/|||||
+p0d5af15a.html|von Julbach|Werinhard II /von Julbach/|1095||1165|Julbach, Österrike|
+pd9e128c0.html|Julsdotter|Börta /Julsdotter/|||||
+p5a5029ea.html|Jurgensdatter Månesköld till Dalshult|Anne /Jurgensdatter Månesköld till Dalshult/|||||
+p886f479f.html|Järnsida|Edmund /Järnsida/|989||1016||
+p65a0d959.html|Järnskägg|Ove (Åge) /Järnskägg/|||||
+pfa2bfc80.html|Jönsdotter Garp|Kristina /Jönsdotter Garp/|1380|Mynämäki, Finland|1434|Nousiainen, Finland|
+p1ccdcff3.html|Jönsdotter Möller|Alletta /Jönsdotter Möller/|1674|Hammar, Väse (S)|1713|Brastad (O)|
+pb111855a.html|Jönsdotter|Ingeborg /Jönsdotter/|1APR 1778|Skottened, Väne-Ryr (P)|1851|Hjärtum (O)|
+pd03c09d5.html|Jönsdotter|Kerstin /Jönsdotter/|1693|Laxarby (P)|1789|Laxarby (P)|
+p03bf273d.html|Jönsdotter|Margit /Jönsdotter/|1404|Skale, Söderhamn (X)|1477|Hov, Hackås (Z)|
+pa40e1095.html|Jönsson (Bagge af Berga)|Abjörn /Jönsson (Bagge af Berga)/|1370|Hjälmaryd (G)|1432||
+pf64c66c7.html|Jönsson Tavast|Olof /Jönsson Tavast/|1332|Mellola, Finland|1402|Mynämäki, Finland|
+p848933a1.html|Jönsson|Anders /Jönsson/|||||
+p30d0580b.html|Jönsson|Cornelius /Jönsson/|1625|Foss (O)|1721|Foss (O)|
+p35ec6182.html|Jönsson|Johannes /Jönsson/|30MAY 1804|Södergården, Laxarby (P)|1868|Laxarby (P)|
+pc1e235d6.html|Jönsson|Tore /Jönsson/|1630|Sunne (S)|2JUN 1689|Sunne (S)|
+p404b7191.html|Jönsson|Truls /Jönsson/|1575|Backa, Långserud (S)|1649|Långserud (S)|
+p95dd9442.html|Jörgensdatter Kuraas|Kirsti /Jörgensdatter Kuraas/|1878|Ålen, Röros, Norge|||
+p1c29735f.html|Jörgensdotter|Börta /Jörgensdotter/|||||
+p0573c4b9.html|Jörgensdotter|Kerstin /Jörgensdotter/|1640|Bro (O)|1700|Brastad (O)|
+p00416723.html|Jörgensen|Kirsten /Jörgensen/|1812|Röros, Norge|1892|Röros, Norge|
+p758de2b9.html|Jörgenset Valset|Henning /Jörgenset Valset/|1698|Brekken, Norge|1784|Brekken, Norge|
+p2a4586bf.html|Jörgensson|David /Jörgensson/|1565|Bro (O)|1635|Bro (O)|
+pd91e1db9.html|Kalisson af Agder|Kol /Kalisson af Agder/|1050|Orkney Islands, Scotland||Orkney Islands, Scotland|
+pdd8af3ed.html|Kalvsson av Ringnes|Kjetil /Kalvsson av Ringnes/|995|Ringnes, Stange, Hedmark, Norge|1021|Ringnes, Stange, Hedmark, Norge|
+p0c3799ee.html|Kalvsson Såstad|Guttorm /Kalvsson Såstad/|1090||1150||
+p94b4780b.html|Kappe|Knut /Kappe/|||1556|Åbo, Finland|
+pb1f4cae8.html|Karlsdotter Bröms|Elisabet /Karlsdotter Bröms/|1535|Hälsingtuna (X)|1600|Torp (Y)|
+pfa955821.html|Karlsdotter|Anna Emilia /Karlsdotter/|12DEC 1891|Fjella, Lunden, Mo (O)|6JUL 1941|Fjella, Lunden, Mo (O)|
+p35e34ad3.html|Karlsson Skancke|Nikolas /Karlsson Skancke/|1300|Egge, Steinkjer, Norge|1355|Våle, Hackås (Z)|
+p36c17c40.html|Karlsson Skancke|Örjan /Karlsson Skancke/|1400|Hov, Hackås (Z)|1474|Hov, Hackås (Z)|
+p3dd583cd.html|Karlsson Skancke|Örjan /Karlsson Skancke/|1470|Hov, Hackås (Z)|1550|Hov, Hackås (Z)|
+p9874c674.html|Karlsson|Margit Viola /Karlsson/|9FEB 1932|Mo (O)|23JAN 1984|Uddevalla (O)|
+pf9296be9.html|Karlsson|Rut Signe /Karlsson/|16JUL 1911|Mo (O)|30SEP 1997|Stala, Varekil (O)|
+p4e2f773e.html|von Katlenburg|Mathilde /von Katlenburg/|970|Tyskland|1002|Northeim, Tyskland|
+p11423144.html|Kaunsson|Svina-Bodvar /Kaunsson/|685|Norge|||
+p533a07ee.html|Kesja|Harald /Kesja/|1083|Jelling, Danmark|1135|Skibet, Vejle, Danmark|
+pcb83acb6.html|Kieldsen Kielsberg|Peder /Kieldsen Kielsberg/|1654|Röros, Norge|1733|Röros, Norge|
+p20c85e14.html|av Kiev (Novgorod)|Ingeborg /av Kiev (Novgorod)/|1099|Kiev, Ukraina|1137||
+pd8751783.html|av Kiev|Elisabet /av Kiev/|1032||1070||
+p90055c21.html|Kjettilsdotter|Rådgjerd /Kjettilsdotter/|1373|Haglid, Sunne (Z)|1438|Hov, Hackås (Z)|
+p11c77ab2.html|Kjettilsson|Anders /Kjettilsson/|||||
+pa1b6e2c4.html|Klak Halfdansson|Harald III /Klak Halfdansson/|780||846|Walcheran, Zeeland, Domburg, Nederländerna|
+pa138aa5c.html|Klak|Harald /Klak/|||852||
+p81afc588.html|Klasdotter Djäkn|Katarina /Klasdotter Djäkn/|1407|Kaskö, Finland|1453|Nyynäinen, Finland|
+pa12df6d0.html|Klemetsdotter Esping|Agneta /Klemetsdotter Esping/|1530|Pargas, Finland|1619|Åbo, Finland|
+pb726d00c.html|Klemetsson|Per /Klemetsson/|1562|Överlännäs (Y)|1604|Torsåker (Y)|
+p3d180b41.html|Knob|Hans /Knob/|1654|Tyskland|1717|Röros, Norge|
+p7ad0bbd5.html|Knudsdatter af Danmark|Irmingard /Knudsdatter af Danmark/|1130||1217||
+pb95ba730.html|Knudsdatter Feragen|Karin /Knudsdatter Feragen/|1712|Röros, Norge|1772|Röros, Norge|
+p32364e4f.html|Knudsen (den store)|Valdemar I /Knudsen (den store)/|1131|Schleswig, Danmark|1182|Vordingborg, Danmark|
+p61d1d6f9.html|Knudsen Månesköld till Dalshult, Halland|Jörgen /Knudsen Månesköld till Dalshult, Halland/|||20OCT 1565|Axtorna (N)     20 km söder om Falkenberg|
+p236690a2.html|Knutsdatter af Danmark|Prinsessan Cecilie /Knutsdatter af Danmark/|1086|Danmark|1131|Haraldsted, Ringsted, Själland, Danmark|
+p0a52c462.html|Knutsdatter|Gro /Knutsdatter/|1142|Danmark|1184||
+p528c5a89.html|Knutsdotter Kappe Agricola till Bogård|Malin /Knutsdotter Kappe Agricola till Bogård/|1510|Åbo, Finland|||
+pc68bfac0.html|Knutsdotter| /Knutsdotter/|||||
+p9389a320.html|Knutsson "Hallandsfar" Porse|Nils /Knutsson "Hallandsfar" Porse/|1250||1305||
+p3395e2bc.html|Knutsson|Erik /Knutsson/|||||
+pce4b9da0.html|Kollsson af Orkneyöarna|Ragnvald /Kollsson af Orkneyöarna/|1100|Orkney Islands, Scotland|1158|Stronsay, Orkneyöarna, Scotland|
+p84ab5c43.html|Kongsfostre|Skule /Kongsfostre/|1052|Wessex, England|1090|Rein. Rissa, Norge|
+p4f2e1be5.html|Kristensen Kuraas|Iver /Kristensen Kuraas/|1788|Röros, Norge|1860||
+pe019514b.html|Kristensson|Anders /Kristensson/|1744|Håby (O)|1799|Håby (O)|
+pb975c252.html|Kristensson|Kristen /Kristensson/|1712|Håby (O)|1777|Håby (O)|
+pa9be3dea.html|Kristiansdatter Vendelbo til Stövringgaard|Else (Elslif) /Kristiansdatter Vendelbo til Stövringgaard/|1359|Stövring, Sörup, Danmark|1442|Danmark|
+pd63f1351.html|Kristiansson|Karl /Kristiansson/|7OCT 1844|Svarteborg (O)|12MAY 1939|Fjella, Mo (O)|
+p02f96e3b.html|Kristoffersdotter|Anna /Kristoffersdotter/|||||
+p52a37251.html|Krumme|Nils /Krumme/|1362||1414||
+p5edf124a.html|Kråka|Anna Margareta /Kråka/|1664|Långserud (S)|1745|Långserud (S)|
+p9493de19.html|Kräfting|Claes /Kräfting/|||1652|Talinn, Lettland|
+p42415263.html|Kräfting|Claes /Kräfting/|1624|Bremen, Tyskland|1680|Kristianstad (L)|
+pe8b82148.html|Kräfting|Diterich /Kräfting/|1585||||
+p2d0b436d.html|von Kuhbach|Adalbaron /von Kuhbach/|||1011||
+pa5014a93.html|von Kuhbach|Hildegarde /von Kuhbach/|||||
+pe69956cf.html|Kula Olavsson Breid|Gudbrand /Kula Olavsson Breid/|923|Vik, Kvam, Norge|970|Gudbrandsdalen, Sel, Oppland, Norge|
+pd69f7b60.html|Kurki|Jacob (Jeppe) /Kurki/|1400||1456||
+p6fc2825b.html|Kyrning|Jacob /Kyrning/|1465||1495||
+pf97345f4.html|Kåresdotter|Britta /Kåresdotter/|1650|Torrskog (P)|1720|Torrskog (P)|
+p23ce14e5.html|Kåresson|Aslak /Kåresson/|850||||
+p5943d3f0.html|l'Ancien de Chaworth|Patrick /l'Ancien de Chaworth/|1052|Maine, Pays de la Loire, Frankrike|1133|Gloucestershire, England|
+pa7da3f07.html|av Landen|Pepin /av Landen/|580|Landen, Brabant, Flandern, Belgien|640|Metz, Moselle, Lorraine, Frankrike.|
+pbeddf6fe.html|Landsflyktingen|Edward /Landsflyktingen/|1016||1057||
+p29fda964.html|Lang| /Lang/|||||
+pf70f6023.html|Larsdatter Kirkhus|Maret /Larsdatter Kirkhus/|1848|Röros, Norge|1933|Brekken, Röros, Norge|
+p12e99ab2.html|Larsdatter Norgård|Gjertrud /Larsdatter Norgård/|1773||1851||
+pff6aa9a5.html|Larsdatter Stuedal|Ragnhild /Larsdatter Stuedal/|1721|Tydal, Norge|1793|Tydal, Norge|
+pb8884ccd.html|Larsdatter|Berit /Larsdatter/|1630|Röros, Norge|1712|Ryen, Röros, Norge|
+p5d099875.html|Larsdotter Lingbom|Kerstin /Larsdotter Lingbom/|12JUN 1724|Bocksjön, Bollnäs (X)|8AUG 1784|Sörbo, Bollnäs (X)|
+pf99df716.html|Larsdotter Skala|Ellika /Larsdotter Skala/|1696|Foss (O)|1772|Håby (O)|
+pd97731de.html|Larsdotter|Annika /Larsdotter/|1679|Foss (O)|1742|Foss (O)|
+pee9c3c85.html|Larsdotter|Elin /Larsdotter/|1620|Västra Ämtervik (S)|||
+p3c836a3f.html|Larsdotter|Greta /Larsdotter/|1775|Torparne, Holm (P)|||
+p0d8a2062.html|Larsdotter|Helena /Larsdotter/|||1500|Skön (Y)|
+p192604c8.html|Larsdotter|Inger /Larsdotter/|12APR 1817|Timmerås, Övre Bräcke, Bäve (O)|15JUL 1904|Uddevalla (O)|
+p8e986dcb.html|Larsdotter|Kerstin /Larsdotter/|||||
+p43f5ad67.html|Larsdotter|Kirsten /Larsdotter/|1670|Röros, Norge|JUL 1739|Röros, Norge|
+p2a5ea906.html|Larsdotter|Maria /Larsdotter/|4MAY 1775|Amunderöd, Foss (O)|28NOV 1817|Amunderöd, Foss (O)|
+pb41a6b9f.html|Larsdotter|Marit /Larsdotter/|||||
+p27369701.html|Larsdotter|Marta /Larsdotter/|1670|Brastad (O)|1712|Brastad (O)|
+p88aebd67.html|Larsdotter|Sara /Larsdotter/|||1677|Bälinge (C)|
+p1375d04b.html|Larsen Kirkhus|Lars /Larsen Kirkhus/|1813||1871|Ålen, Norge|
+p17c9f7f3.html|Larsen Ryen (Skott)|Anders /Larsen Ryen (Skott)/|1689||1774||
+pc52d62d1.html|Larsen Svenske|Abraham /Larsen Svenske/|1706|Röros, Norge|1775|Abrahamsvollen, Röros, Norge|
+pcb5d2a53.html|Larsen Södal|Jörgen /Larsen Södal/|1774|Raen, Norge|1845|Brekken, Norge|
+pfb4051c9.html|Larsen Valset|Jörgen /Larsen Valset/|1654|Valset, Brekken, Röros, Norge|1730|Valset, Brekken, Röros, Norge|
+pe3771cef.html|Larsen|Aage /Larsen/|1380|Naffentorp (M)|1400|Skåne, Sverige|
+p5ee641ad.html|Larsson Esping|Klemet /Larsson Esping/|1500||AUG 1558|Pargas, Finland|
+p1810654c.html|Larsson Skala|Lars /Larsson Skala/|1655|Foss (O)|1721|Bråland, Foss (O)|
+p9c2b2c65.html|Larsson|Anders /Larsson/|||1730|Skållerud (P)|
+p939bb333.html|Larsson|Anders /Larsson/|||1743|Foss (O)|
+p628381e5.html|Larsson|Anders /Larsson/|1683|Foss (O)|1743|Foss (O)|
+paa568b30.html|Larsson|Anders /Larsson/|1725||1773|Hästnäset, Torrskog (P)|
+p6e41b1e6.html|Larsson|Andreas /Larsson/|12MAR 1809|Torpane, Holm (P)|1864|Strand, Ärtemark (P)|
+p4af7c67c.html|Larsson|Björn /Larsson/|1650|Forshälla (O)|1705|Forshälla (O)|
+pfb4f9db7.html|Larsson|Bryngel /Larsson/|1640|Toneby, Sunne (S)|1703|Sunne (S)|
+p1509678a.html|Larsson|Egil /Larsson/|1668|Laxarby (P)|1710|Laxarby (P)|
+pe0ef99f3.html|Larsson|Erik /Larsson/|||1626|Ed, Sunne (S)|
+p894efd4d.html|Larsson|Gunnar /Larsson/|1658|Håby (O)|1736|Foss (O)|
+pfdacae06.html|Larsson|Halvard /Larsson/|||1747|Skållerud (P)|
+p6b416c17.html|Larsson|Hans /Larsson/|7MAR 1689|Amunderöd, Foss (O)|8FEB 1757|Amunderöd, Foss (O)|
+pf8ff698c.html|Larsson|Ingevald /Larsson/|1APR 1756|Skållerud (P)|1843|Holm (P)|
+p1c8c168d.html|Larsson|Johannes /Larsson/|1816|Ökna, Rölanda (P)|1872|Vageln, Krokstad (O)|
+p446c49c7.html|Larsson|Jon /Larsson/|1580|Håbol (P)|1641|Håbol (P)|
+pbe65ed2c.html|Larsson|Nils /Larsson/|1664|Laxarby (P)|1695|Laxarby (P)|
+p717debb2.html|Larsson|Olof /Larsson/|||||
+pc7c8cd71.html|Laurentii Lithovius|Henrik /Laurentii Lithovius/|1537|Littois by, Finland|1615|Limingo, Norra Österbotten, Finland|
+p045a6686.html|Laurentii|Johannes /Laurentii/|1548|Säbrå (Y)|1603|Säbrå (Y)|
+p83b3c6e3.html|Laurentius (Larsson)|Ingevaldus /Laurentius (Larsson)/|||||
+pb9f527c2.html|Laurentzen (Larsson) Roth|Birger (Börje) /Laurentzen (Larsson) Roth/|1542|Hedenstorp, Angelstad (G)|1610|Hedenstorp, Angelstad (G)|
+pf309c46e.html|Lauridsdatter Hvas af Ormstrup|Else /Lauridsdatter Hvas af Ormstrup/|1395|Ormstrup, Dronningborg, Danmark|1414||
+pd094c6e6.html|Lauritzdatter|Elin /Lauritzdatter/|1260|Hamar, Hedmark, Norge|1292|Ringerike, Buskerud, Norge|
+p125c078a.html|Lavard af Danmark|Knud /Lavard af Danmark/|12MAR 1096||7JAN 1131|Haraldsted forest, Ringsted, Danmark|
+pa6411c59.html|von Lechsgemund|Richilde /von Lechsgemund/|1076|Lechsgemund, Tyskland|||
+p6d8bcda4.html|Lenzie Flemming|Robert /Lenzie Flemming/|1252|Biggar, Lankarshire, Scotland|FEB 1314|Biggar, Lankarshire, Scotland|
+p18bc5441.html|Leslie of Leslie|Walter /Leslie of Leslie/|1310|Leslie Castle, Aberdeenshire, Scotland|27FEB 1382|Pearth, Pearthshire, Scotland|
+p669c8523.html|Leslie of Ross|Mariota /Leslie of Ross/|1365|Dundonald Castle, Ayrshire, Scotland|1435|Scotland|
+p3e3dc9e8.html|Leslie|Margaret /Leslie/|||||
+p5d0fed4e.html|Lien|Anders /Lien/|||||
+p08506f90.html|Linberg|Stina /Linberg/|||||
+p7750edcc.html|Lindberg|Gustafva /Lindberg/|6OCT 1833|Amunderöd, Foss (O)|3FEB 1913|Lilla Edet (P)|
+p25bff7a9.html|Lindormsdotter (Sparre över blad)|Ragnhild /Lindormsdotter (Sparre över blad)/|1320|Hjälmaryd (G)|1344|Hjälmaryd (G)|
+p297e97f6.html|Lindsay of Lamberton|William /Lindsay of Lamberton/|24JUN 1250|Lamberton, Mordington,Berwicksshire, Scotland|6NOV 1283|Berwick-upon-Tweed, Northumberland, Scotland|
+peab98cf5.html|Lindsay|Margret /Lindsay/|1267|Craigie, Ayrshire, Scotland|||
+pefcda680.html|Lodbrok Sigurdsson|Ragnar /Lodbrok Sigurdsson/|||||
+p2d3a9141.html|von Lohra (von Linderbach)|Berengar /von Lohra (von Linderbach)/|||||
+pa095f45d.html|Lohra|Helinburg /Lohra/|1080||1133||
+pf6edb1ac.html|van Loon|Emmo /van Loon/|||||
+p08ec667d.html|van Loon|Sophia /van Loon/|1042|Borgloon, Limburg, Belgien|1075|Ungern|
+p7d9c311e.html|Lorentzdatter Kielsberg|Rebecca /Lorentzdatter Kielsberg/|1730|Röros, Norge|1775|Röros, Norge|
+p31f7ff53.html|Lorentzdatter|Guri /Lorentzdatter/|1668|Röros, Norge|29APR 1753|Röros, Norge|
+p5ec347b0.html|von Lothringen|Wigeric /von Lothringen/|890|Frankrike|939|Echternach, Rhenlandet, Preussen|
+p43d85c53.html|Ludvigsen von Everstein til Tybjerggaard|Peder /Ludvigsen von Everstein til Tybjerggaard/|1300|Thyborggaard, Danmark|1375|Thyborggaard, Danmark|
+p3cf68eba.html|von Luxenburg|Siegfrid I /von Luxenburg/|919|Verdun, Frankrike|998|Triere, Rheinland-Pfalz, Tyskland|
+pf0b1d919.html|Lydekesson Djäkn|Klaus /Lydekesson Djäkn/|1379||1437|Åbo, Finland|
+p4f348f64.html|Lydersdatter Holck af Asdal|Ide /Lydersdatter Holck af Asdal/|1375|Alsdal, Hjörring, Danmark|1426|Asdal, Hjörring, Danmark|
+p7a040d6b.html|Mac Alpine of Scotland|Kenneth I /Mac Alpine of Scotland/|||859|Isle of Iona, Argyll and Bute, Scotland|
+p1cae3791.html|Mac Fergus of Galloway|Gille Brigte (Gilbert) /Mac Fergus of Galloway/|1126|Galloway, Scotland|1JAN 1185||
+p1031035a.html|MacArailt Haraldsson|Gudröd (Godfred) /MacArailt Haraldsson/|940|Limerick, Irland|989|Hebriderna, Scotland|
+p66e048b7.html|MacDonachaidh of Caithness|Moddan /MacDonachaidh of Caithness/|1044|Atholl, Perthshire, Scotland|1120|Dair, Caithness, Scotland|
+p7aca550c.html|MacDonald of the Isles|Donald /MacDonald of the Isles/|1359|Islay, Scotland|1423|Islay, Scotland|
+p46ac2103.html|MacDonald of the Isles|John /MacDonald of the Isles/|1318|Finlaggan Castle,  Isle of Islay, Scotland|1387|Ardtornish Castle, Morvern, Argyll, Scotland|
+p73d7c503.html|MacDonald of the Isles|Mariotta /MacDonald of the Isles/|1415|Tulloch Castle, Dinwall, Scotland|20JUL 1448||
+p21a9ac2d.html|MacDonald|Mary /MacDonald/|||||
+p750d55e2.html|MacDuff| /MacDuff/|||||
+pa1721011.html|MacDuibhn|Aoife (Eva) /MacDuibhn/|1050|Scotland|||
+pde0d6301.html|MacDuibhn|Duina /MacDuibhn/|990|Dumbartonshire,Scotland|1020|Lochow, Argyllshire, Scotland|
+p429f54b7.html|MacDurine Campbell|Duncan /MacDurine Campbell/|1070|Lochow, Argyllshire, Scotland|1097|Lochow, Argyllshire, Scotland|
+p1aa65d14.html|MacDwine MacDuibhn|Malcolm /MacDwine MacDuibhn/|1020|Lochow, Argyllshire, Scotland|1066|Lochow, Argyllshire, Scotland|
+pdfa1a30d.html|MacGillvray|Margaret /MacGillvray/|1178|Ross-Shire, Scotland|||
+peeab1435.html|MacInsargent of Ross|Fergardh /MacInsargent of Ross/|1170|Scotland|1252|Castle of Delney, Scotland|
+p88343538.html|Mackay of Strathnaver|Iye /Mackay of Strathnaver/|||||
+p843ef830.html|MacLochlainn|Ardgar /MacLochlainn/|1010|Irland|1064|Irland|
+pe83f729c.html|MacLochlainn|Domnall /MacLochlainn/|1048|Irland|1121|Cenel, Irland|
+p36f188f0.html|MacLochlainn|Finola /MacLochlainn/|1150|Ulster, Irland|1180|Isle of Man, England|
+p732b2936.html|MacLochlainn|Murtough (Muirchertach) /MacLochlainn/|1115|Tir Conaill, Irland|1166|Ulster, Irland|
+pc1d81329.html|MacLochlainn|Niall /MacLochlainn/|1091|Ailech, Irland|1119|Tir Conaill, Irland|
+pf66511d1.html|MacLochlan of Galloway|Alan /MacLochlan of Galloway/|1175|Wigtownshire, Scotland|1234|Wigtownshire, Scotland|
+pf502bebd.html|MacMaele Ruanald MacLochlainn|Niall Sechnaill /MacMaele Ruanald MacLochlainn/|980|Irland|1023|Irland|
+p946d61f2.html|MacMurrough|Aoife /MacMurrough/|1145|Leinster, Irland|1188|Tintern, Monmouth, Wales|
+p1284716d.html|Macrory of Bute|Jean /Macrory of Bute/|1218|Bute Islands, Scotland|1276|Dundonald Castle, Ayrshire, Scotland|
+ped4b0e37.html|MacTaggart|Fearchar /MacTaggart/|1170|Applecross, Ross-Shire, Scotland|1251|Castle of Delney, Tain, Ross-Shire,  Scotland|
+p81cfd676.html|MacToirdelbach Mor O´Brien|Muichertach /MacToirdelbach Mor O´Brien/||Munster, Clare, Irland|10MAR 1119|Lismore, Waterford, Munster, Irland|
+p4094b4f3.html|Madsdatter|Kirsten /Madsdatter/|1685|Nordfjord, Norge|1753|Vintervollen, Röros, Norge|
+pa04376c0.html|Magnusdatter|Margarete av Norge /Magnusdatter/|1175||1210||
+pe4347d84.html|Magnusdotter af Norge|Ragnhild /Magnusdotter af Norge/|||||
+p633b1b4a.html|Magnusdotter|Kristina /Magnusdotter/|||||
+pbaa2e902.html|Magnusson|Jan Magnus /Magnusson/|4JUL 1812|Ärtemark (P)|||
+p46aaaae4.html|av Mar|Isabella /av Mar/|1277|Kildrummy castle, Scotland|12DEC 1296|Cardross, Scotland|
+p01a71b3b.html|Marshal of Hertford & Gloucester|Isabel /Marshal of Hertford & Gloucester/|9OCT 1200|Pembroke Castle, Wales|17JAN 1240|Berkhamsted Castle, England|
+p04b77947.html|Marshal of Pembroke|William /Marshal of Pembroke/|1146|Pembroke Castle, Wales (förmodligen)|14MAY 1219|Caversham, Oxfordshire, England|
+p0bbbd726.html|Martel of the Franks|Judith /Martel of the Franks/|OCT 844|England|870|Frankrike|
+pd10730b1.html|Martell|Charles /Martell/|686|Herstal, Belgien|741|Quierzy, France|
+p789e36b6.html|Martinus Laurentii|Mårten /Martinus Laurentii/|1525|Gästa, Njurunda (Y)|1610|Viken, Torp (Y)|
+pa2b5237d.html|Mattesson|Jon /Mattesson/|1638|Hallersbyn, Dalskog (P)|1707||
+pad6d82c0.html|Mattesson|Sven /Mattesson/|||1652|Laxarby (P)|
+pe0fe77d9.html|McIntyre| /McIntyre/|1160||||
+p8e9dcb4b.html|Meinstrup| /Meinstrup/|||||
+pe877b8f5.html|Melkersson|Erik /Melkersson/|1671|Brastad (O)|1709|Brastad (O)|
+pb55aa2c5.html|Melkersson|Jacob /Melkersson/|1661|Bräcke, Brastad (O)|1727|Bräcke, Brastad (O)|
+p4bcfa3cf.html|Menteith|Joan /Menteith/|1295|Menteith, Pearthshire, Scotland|1367|Stratheam, Perthshire, Scotland|
+p5c0f09cb.html|von Metz & Hombourg|Folmar V /von Metz & Hombourg/|||1145||
+p929c0103.html|Metz of Ardennes|Oda (or Vada) /Metz of Ardennes/|958|Saxony, Tyskland|7APR 963||
+p87a2230e.html|von Metz|Agnes /von Metz/|1114||1175||
+peaf7f080.html|av Metz|Ansegisel /av Metz/|615|Metz, Lorainne, France|662|Château de Chèvremont, Chaudfontaine, Liège, Vallonien, Belgien|
+padad2430.html|av Metz|Arnulf /av Metz/|582|Lay-St-Christophe, Moselle, Lorraine, Frankrike|640|Remiremont, Vosges, Lorraine, Frankrike|
+pb032c7b8.html|av Metz|Dode /av Metz/|584|Metz, Moselle, Lorraine, Frankrike|629|Trier, Rheinland-Pfalz, Tyskland.|
+p1d67dd87.html|von Metz|Rothard /von Metz/|745|Altdorf, Schweiz|771|Friuli, Frankiska riket (i nuvarande Italien)|
+p6a6a973d.html|Michelsdatter Semkler|Anne /Michelsdatter Semkler/|1687|Kongsberg, Norge|22FEB 1755|Röros, Norge|
+pb3e4f040.html|Michelsen Kolberger|Abraham /Michelsen Kolberger/|1765|Klasvollen, Röros, Norge|1834|Sjövoll, Brekken|
+pbc19850d.html|Mikaelsson|Anders /Mikaelsson/|||1710|Skållerud (P)|
+pd1c42c6f.html|Mikaelsson|Anders /Mikaelsson/|1707|Krökersrud, Skållerud (P)|1746|Glyckshult, Skållerud (P)|
+pa203acd7.html|Moddansdottir of Caithness|Frakok /Moddansdottir of Caithness/|1064|Caithmess, Scotland|1138|Orkney Islands, Scotland|
+p6015fa8d.html|Moensen Rugeldal|Peder /Moensen Rugeldal/|1674|Kroken, Röros, Norge|1755|Rugelsjöen, Röros, Norge|
+p3872f794.html|Mogensdatter|Gullov /Mogensdatter/|1560|Faxnälden, Näskott (Z)|1629|Åkeräng, Sunne (Z)|
+p2ddb47d6.html|Mogensen Drefeld|Gjord /Mogensen Drefeld/|1300|Danmark|1339||
+p240bba45.html|Mogensen Drefeld|Mogens /Mogensen Drefeld/|1280|Ågård, Thisted, Danmark|1346|Ågård, Thisted, Danmark|
+pd8bc27f8.html|Mogensen Grubbe|Johannes /Mogensen Grubbe/|1290||1345|Gunderslevholm, Danmark|
+p2091119a.html|Mongomery|Alan /Mongomery/|1144|Eaglesham, Renfrewshire, Scotland|1237|Scotland|
+p1e661901.html|Monsdatter Krogen|Marit /Monsdatter Krogen/|6APR 1743|Röros, Norge|12DEC 1802|Tyskgården, Röros, Norge|
+p6097e170.html|Montgomery of Eaglesham|Robert /Montgomery of Eaglesham/|1125|Thorntoun,  Innerwick, Renfrewshire, Scotland|1180|Eaglesham, Renfrewshire, Scotland|
+p120720cb.html|Montgomery of Menteith|Margret /Montgomery of Menteith/|1235|Eaglesham, Renfrewshire, Scotland|||
+p1ac080fa.html|Montgomery|Alan /Montgomery/|11JAN 1188||1234|Scotland|
+p2a01055c.html|Montgomery|Arnulph /Montgomery/|1074|St. Germaine, Calvados, France|1125|Pembrokeshire, Wales|
+p4db1309b.html|Montgomery|John /Montgomery/|1170|Eaglesham, Renfrewshire, Scotland|1239|Innerwick, Renfrewshire, Scotland|
+pd1406f7d.html|Montgomery|John /Montgomery/|1220|Eaglesham, Renfrewshire, Scotland|1285|Eaglesham, Renfrewshire, Scotland|
+p68175fa1.html|Montgomery|Philip /Montgomery/|1102|Pembroke, Wales|1177|Thornton, Fife, Scotland|
+p9c369a67.html|von Moosburg|Benedikte /von Moosburg/|1140|Tyskland||Bayern, Tyskland|
+p4857cb35.html|von Moosburg|Burkhard I /von Moosburg/|||||
+p698396b5.html|von Moosburg|Burkhard III /von Moosburg/|1073|Tyskland|1133|Tyskland|
+pd1eefdc8.html|von Moosburg|Burkhard IV /von Moosburg/|1101|Tyskland|1138||
+p895cebb6.html|von Moosburg|Burkhard V /von Moosburg/|1125|Moosburg, Tyskland|1162|Milano, Italien|
+pac0b8e6e.html|Mor MacDonald of the Isles|Angus /Mor MacDonald of the Isles/|1248|Finlaggen Castle, Islay, Scotland|1292|Scotland|
+pae27c1c7.html|Moray of Bothwell|Margaret /Moray of Bothwell/|1220|Lanarkshire, Scotland|1250|Eaglesham, Renfrewshire, Scotland|
+p5122b45f.html|Moray|Margaret /Moray/|1318|Scotland|1364|Scotland|
+p013147bf.html|Mormaer, 8:e Earl av Mar|Donald /Mormaer, 8:e Earl av Mar/|1243|Kildrummy castle, Scotland|1297|Kildrummy castle, Scotland|
+p67b67f2f.html|Mortensdatter|Anne /Mortensdatter/|1632||24DEC 1720||
+p8a296a74.html|Mortensdotter Thott|Arlöf /Mortensdotter Thott/|1496|Villie, Skurup (M)|1556|Rydsgård, Vilie (M)|
+p6c59c706.html|Moshals Audunarsson|Hallur /Moshals Audunarsson/|880|Vestfold, Norge|930|Vestfold, Norge|
+pdd9be82e.html|Most (Andersdotter) Kyrning af Vidtskövle|Kirsten /Most (Andersdotter) Kyrning af Vidtskövle/|1289|Löddeköpinge (M)||Sverige|
+pac1dca86.html|Mowat av Loscragie|Alexander /Mowat av Loscragie/|1420|Turriff, Aberdeenshire, Scotland|1494||
+p5dd08c68.html|Mowat av Loscragie|John /Mowat av Loscragie/|1400|Turriff, Aberdeenshire, Scotland|1474|Scotland|
+p8f6b86d7.html|Mowat of Loscraigie|John /Mowat of Loscraigie/|1375|Aberdeenshire, Scotland|1419|Tain, Ross-shire, Scotland|
+p09a2cd8e.html|Mowat of Loscraigie|William /Mowat of Loscraigie/|1355|Scotland|1415|Scotland|
+pcbf403b6.html|Mowat|Patrick /Mowat/|1511|Balquholly, Banffshire, Scotland|1564|Hordaland, Norge|
+p4ae6fd70.html|Mowatt av Balquholly och Loscragy|Magnus /Mowatt av Balquholly och Loscragy/|1489|Balquholly, Banffshire, Scotland|1526|Aberdeen, Scotland|
+p51a4c316.html|Mstislavnasdotter of Novgorod (Kiev)|Ingeborg /Mstislavnasdotter of Novgorod (Kiev)/|1099|Kiev, Russia|1137||
+p822b22a5.html|Mstislavsdotter av Kiev|Malmfrid /Mstislavsdotter av Kiev/|1105|Kiev, Ukraina|1137|Danmark|
+pfbe09b22.html|Mucel|Ætelred /Mucel/|||||
+p5ff0b352.html|Mure IV of Rowallan|Adam /Mure IV of Rowallan/|1290|Rowallan, Killmarnock, Scotland|1330|Kilmarnock, Scotland|
+p28a08fec.html|Mure of Rowallan|Archibald /Mure of Rowallan/|1231|Rowallan castle, Scotland|1289|Kilmarnock, Ayrshire, Scotland|
+p9d72f867.html|Mure of Rowallan|Gilcrist /Mure of Rowallan/|1200|Polkelly, Ayrshire, Scotland|1280|Kilmarnock, Ayrshire, Scotland|
+p3e73416c.html|Mure of Rowallan|William /Mure of Rowallan/|1260|Rowallan castle, Scotland|1346|Kilmarnock, Ayrshire, Scotland|
+p862b8f0a.html|Mure of Scotland|Elizabeth /Mure of Scotland/|1320|Rowallan castle, Scotland|1355|Paisley Abbey, Scotland|
+p1bab09b0.html|Murray 2nd of Tullibardine & Bothwell|Andrew /Murray 2nd of Tullibardine & Bothwell/|1284|Pearth, Pearthshire, Scotland|7OCT 1332|Pearthshire, Scotland|
+paf75e486.html|Muurla|Nils /Muurla/|||||
+pcdf0f3d8.html|Myre av Bornholm|Trued /Myre av Bornholm/|1415||1489|Klinteby, Bornholm, Danmark|
+p93603cd4.html|Månsdotter Tawast|Kristina /Månsdotter Tawast/|||||
+p07402229.html|Månsdotter|Annika /Månsdotter/|8MAR 1803||27SEP 1869|Kullås, Fuxerna (P)|
+paa3c710b.html|Månsdotter|Ingeborg /Månsdotter/|||1705|Foss (O)|
+pbb302206.html|Månsson|Klemens /Månsson/|1524|Mällby, Överlännäs (Y)|1576|Öd, Gudmundrå (Y)|
+p6b7907df.html|Mårtensdotter Djäkn| /Mårtensdotter Djäkn/||Lauko, Åbo, Finland|1442|Finland|
+paa54b495.html|Mårtensdotter Laurentii|Brita /Mårtensdotter Laurentii/|1584|Torp (Y)|1620|Hov, Hackås (Z)|
+pd51cf2a7.html|Mårtensdotter|Ingeborg /Mårtensdotter/|1677|Hult, Ör (P)|4MAY 1740|Svecklingeby, Ör (P)|
+p6b7a79a9.html|Mårtensson|Anders /Mårtensson/|1745|Laxarby (P)|1823|Steneby (P)|
+pebd809fb.html|Mårtensson|Ingrid /Mårtensson/|||||
+pe8576f3d.html|Mårtensson|Lars /Mårtensson/|1500|Gästa, Njurunda (Y)|1580|Njurunda (Y)|
+p653b432b.html|Mårtensson|Olof /Mårtensson/|1660|Steneby (P)|||
+p81f8e762.html|Mårtenssson Berling|Olof /Mårtenssson Berling/|1604|Enköping (C)|1679|Bälinge (C)|
+pcf8f7ec8.html|von Mödling|Hildegunde /von Mödling/|||1132|Julbach, Österrike|
+p24984c71.html|Na Ossory|Dubhchobhleig /Na Ossory/|1050||1098||
+pec2988db.html|von Nagolzgau|Ermenane Thiedrada /von Nagolzgau/|745|Aachen, Cologne, Tyskland|776|Aachen, Cologne, Tyskland|
+p6b25dc03.html|Nevsteinsdatter|Gudrun /Nevsteinsdatter/|1050|Hvitsten, Akershus, Norge|1090|Rein. Rissa, Norge|
+pbdb00056.html|Nic O´cuilein|Cailleach Chrion /Nic O´cuilein/|1090|Irland|||
+p10d45643.html|Niding Hallssøn|Ljot /Niding Hallssøn/|1062|Orkney Islands, Scotland|||
+pe20cf2d9.html|Nielsdatter Brechen|Kari /Nielsdatter Brechen/|1674||1747|Henningsgård, Brekken, Röros, Norge|
+peb06d472.html|Nielsdatter Fischer|Anne /Nielsdatter Fischer/|1660||1747|Röros, Norge|
+p2371cd2a.html|Nielsdatter Hak|N.N /Nielsdatter Hak/|1260||||
+p52b410f4.html|Nielsdatter Järnskägg|Cecilie /Nielsdatter Järnskägg/|1390|Dronnigholm, Fredriksværk, Danmark|JUL 1470||
+pfe4adf0d.html|Nielsdatter Qvie|NN /Nielsdatter Qvie/|1395||1415||
+pfd06f737.html|Nielsdatter Qvikne|Gunhild /Nielsdatter Qvikne/|1691|Röros, Norge|1766|Klasvollen Nedre, Djupsjølia, Røros, Norway|
+p62717f74.html|Nielsdatter|Christine /Nielsdatter/|||1417|Ringsted, Danmark|
+pe7d9b20f.html|Nielsen (Hollunger) Gagge|Anders /Nielsen (Hollunger) Gagge/|1335||||
+pf59239f9.html|Nielsen (Panter)|Anders /Nielsen (Panter)/|1355|Kaersgaard, Hjörring, Danmark|14MAY 1406|Asdal, Hjörring, Danmark|
+p7f9b5c92.html|Nielsen Bing|Joakim /Nielsen Bing/|||||
+p24a3eeb8.html|Nielsen Galen af Gyllarp|Anders /Nielsen Galen af Gyllarp/|1351||1400||
+pe636803f.html|Nielsen Galen|Jacob /Nielsen Galen/|1260|Ellinge (M), Danmark|1286|Ellinge (M), Danmark|
+p52a191bd.html|Nielsen Koch|Hans /Nielsen Koch/|1590|Sverige|1642|Kongsberg, Norge|
+p1b3d1ad2.html|Nielsen Quechne|Niels /Nielsen Quechne/|1649|Qvichne, Röros, Norge|1730|Valdalsvolden, Röeos, Norge|
+pc6114ac0.html|Nielsen Rosensparre|Johannes /Nielsen Rosensparre/|1330|Skarhult, Eslöv (M)|1370|Skarhult, Eslöv (M)|
+pee0ba3df.html|Nielsen Rud|Jens /Nielsen Rud/|1332|Sorö, Danmark|1403|Sorö, Danmark|
+pf4db7d93.html|Nielsen|Eskild /Nielsen/|1415|Skåne, Sverige|1480|Skåne, Sverige|
+p5688a65c.html|Nilsdotter Muurla|Margareta /Nilsdotter Muurla/|1490|Åbo, Finland|SEP 1558||
+p03fca4e8.html|Nilsdotter Ulfeldt (Hak)|Kristine /Nilsdotter Ulfeldt (Hak)/|1350|Riis, Ordrup, Själland, Danmark|1380|Terlöse, Danmark|
+p52b2c356.html|Nilsdotter|Anna /Nilsdotter/|||1729|Långserud (S)|
+pf0fbb21c.html|Nilsdotter|Anna /Nilsdotter/|1690|Laxarby (P)|1748|Laxarby (P)|
+pe1bc3144.html|Nilsdotter|Brita /Nilsdotter/|27FEB 1742|Ed, Sunne (S)|4NOV 1827|Örbacka, Väne-Ryr (P)|
+p2bd4cba2.html|Nilsdotter|Elli /Nilsdotter/|||||
+pb8e12740.html|Nilsdotter|Ingeborg /Nilsdotter/|||||
+pcce20992.html|Nilsdotter|Ingrid Kajsa /Nilsdotter/|1505|Kramfors, Gudmundrå (Y)|1568|Kramfors, Gudmundrå (Y)|
+p9c0231fb.html|Nilsdotter|Karin /Nilsdotter/|||1698|Håby (O)|
+p0ba1b200.html|Nilsdotter|Karin /Nilsdotter/|1590|Håbol (P)|1660|Håbol (P)|
+p0c9a26ca.html|Nilsdotter|Karin /Nilsdotter/|1597|Bodane, Ör (P)|1666|Bodane, Ör (P)|
+p8603b81e.html|Nilsdotter|Karin /Nilsdotter/|1645|Foss (O)|1715|Foss (O)|
+p1d1411f9.html|Nilsdotter|Karin /Nilsdotter/|1686|Torrskog (P)|1748|Torrskog (P)|
+p27c1de5b.html|Nilsdotter|Katarina /Nilsdotter/|1697|Angunnerud, Långserud (S)|1764|Blomskog (S)|
+pbce3679f.html|Nilsdotter|Kerstin /Nilsdotter/|1640|Eriksbyn, Ör (P)||Hult, Ör (P)|
+pf128bfff.html|Nilsdotter|Kirstin /Nilsdotter/|1777|Svarteborg (O)|1822|Svarteborg (O)|
+p42e60413.html|Nilsdotter|Kristin /Nilsdotter/|1510|Enånger (X)|1554|Hov, Hackås (Z)|
+p5237662a.html|Nilsdotter|Lucia /Nilsdotter/||Ed, Sunne (S)|||
+p4ef1415e.html|Nilsdotter|Magdalena /Nilsdotter/|1782|Skållerud (P)|1853|Holm (P)|
+p75d622f7.html|Nilsdotter|Maren /Nilsdotter/|1752|Brastad (O)|1807|Håby (O)|
+p938f6f50.html|Nilsdotter|Marin /Nilsdotter/|1679|Brastad (O)|1743|Brastad (O)|
+p8b4685d0.html|Nilsen Vintervold|Rasmus /Nilsen Vintervold/|1653|Nordfjord, Norge|1746|Vintervollen, Röros, Norge|
+p50b1ca18.html|Nilsson (Krumme)|Björn /Nilsson (Krumme)/|1445||1497||
+p404de827.html|Nilsson Bäk d.y|Sven /Nilsson Bäk d.y/|1375|Hjälmaryd (G)|1458|Hjälmaryd (G)|
+p547b7cf4.html|Nilsson Heeg|Johannes /Nilsson Heeg/|2JUL 1841|Svarteborg (O)|30APR 1899|Myren, Hede (O)|
+p141ad69a.html|Nilsson Kyrning (Porse)|Anders /Nilsson Kyrning (Porse)/|1270|Löddeköpinge (M)|1333||
+p09b89a3b.html|Nilsson Porse|Knut /Nilsson Porse/|1230|Halland, Sverige|1295|Halland, Sverige|
+pb83d21f0.html|Nilsson Skancke|Peder /Nilsson Skancke/|1325|Mjälle, Frösö (Z)|1360|Hov, Hackås (Z)|
+p67666b91.html|Nilsson Tawast|Henric /Nilsson Tawast/|1420||1474||
+p5b9402be.html|Nilsson|Anders /Nilsson/|1630|Ör (P)|1703|Skållerud (P)|
+pfbc4708f.html|Nilsson|Anders /Nilsson/|1702|Foss (O)|1773|Foss (O)|
+p397adfbd.html|Nilsson|Anders /Nilsson/|1737|Dalskog (P)|1823|Dalskog (P)|
+p1fd99686.html|Nilsson|Bengt /Nilsson/|||||
+p403dc21f.html|Nilsson|Daniel /Nilsson/|1756|Torrskog (P)|1841|Ärtemark (P)|
+pfab1eb06.html|Nilsson|Erik /Nilsson/|11OCT 1712|Eriksbyn, Ör (P)|19MAR 1786|Svecklingeby Gatan,Ör (P)|
+p9685843d.html|Nilsson|Gunnar /Nilsson/|1712|Laxarby (P)|1792|Laxarby (P)|
+p31ada679.html|Nilsson|Hans /Nilsson/|1755|Bro (O)|1843|Svarteborg (O)|
+p5b8d9dd8.html|Nilsson|Hans /Nilsson/|1764|Foss (O)|1836|Håby (O)|
+p5f1bf4ac.html|Nilsson|Jan /Nilsson/|7SEP 1805|Kopparbol, Dalskog (P)|4FEB 1855|Kopparbol, Dalskog (P)|
+p3ada35a9.html|Nilsson|Jöns /Nilsson/|1550|Backa, Långserud (S)|||
+p52538898.html|Nilsson|Jöns /Nilsson/|1654|Laxarby (P)|1719|Laxarby (P)|
+p99620025.html|Nilsson|Lars /Nilsson/|||||
+pe12cd1e2.html|Nilsson|Lars /Nilsson/|1630|Laxarby (P)|||
+pb0e35c60.html|Nilsson|Nils /Nilsson/|1685|Laxarby (P)|1748|Laxarby (P)|
+pe63865b5.html|Nilsson|Olof /Nilsson/|1502|Kramfors, Gudmundrå (Y)|1568|Kramfors, Gudmundrå (Y)|
+p11b17f6f.html|Nilsson|Olof /Nilsson/|1635||1708|Foss (O)|
+p8f99c0cb.html|Nilsson|Olof /Nilsson/|1700|Brastad (O)|1768|Brastad (O)|
+p3836fae8.html|Nilsson|Olof /Nilsson/|1777|Södra Lågum, Svarteborg (O)|1809|Södra Lågum, Svarteborg (O)|
+p15b89e95.html|Nilsson|Sven /Nilsson/|||||
+p51bd72e7.html|av Nivelles|Itta /av Nivelles/|592|Landen, Flemish Brabant, Flanders, Belgium|652|Nivelles, Brabant, Vallonien, Belgien|
+pe4629622.html|NN|Dordi /NN/|||1550|Umeå (AC)|
+pa56cd272.html|Nockesson|Abjörn /Nockesson/|||1370|Hjälmaryd (G)|
+p77c03b78.html|Nordbrekken (Henningsdatter)|Ane Lisbet /Nordbrekken (Henningsdatter)/|1877|Röros Prestegjeld, Norge||Torsvollen|
+p6c9e15f5.html|von Nordgau|Hedwig /von Nordgau/|937|Nordgau, Östfranken|992|St. Maximin-klostret, Trier, Lothringen, Tyskland|
+p5d59bd80.html|av Normandie|Rikard II /av Normandie/|963|Normandy, France|1026|Fecamp, France|
+pf5a883d8.html|von Northeim|Bernard (Benno) /von Northeim/|990||1045||
+p45b656ae.html|von Northeim|Mechtild (Matilde) /von Northeim/|1050|Northeim, Tyskland|||
+p03a7ccb5.html|von Northeim|Otto II /von Northeim/|1015||1083||
+p205be323.html|von Northeim|Siegfrid I /von Northeim/|965|Hanover, Niedersachsen, Tyskland|1004|Northeim, Tyskland|
+p7a5d1867.html|O'Cathan|Agnes /O'Cathan/|1270|Limavady, Scotland|||
+pbb2e881f.html|O'Cathan|Guy /O'Cathan/|||||
+p3e2126e9.html|O'Dwibhne MacDuibhn|Paul /O'Dwibhne MacDuibhn/|1015||1066||
+p1a81e512.html|O'Gilvie of Angus|GilleCrist /O'Gilvie of Angus/|1154|Forfar, Angusshire, Scotland|1206|Forfar, Angusshire, Scotland|
+p5288a67d.html|O'Neill|Grain /O'Neill/|||||
+p8025193f.html|O´Brien|Lafracoth /O´Brien/|1080|Pembrokeshire, Wales|1135|Pembrokeshire, Wales|
+p9455ba11.html|of Alemannia|Imma (Emma) /of Alemannia/|727|Alemannia, Aachen, Tysklamd|798|Aachen, Cologne, Tyskland|
+pa1747b45.html|of Altdorf|Isenbart /of Altdorf/|750|Alsace, Frankrike|806|Frankrike|
+p3a14c330.html|of Anglesey|Serena /of Anglesey/|1214|Wales|1277|Wales|
+p0198200a.html|of Angus|Beatrix /of Angus/|1174|Angus, Forfarshire, Scotland|||
+pc5482574.html|of Angus|GilleBrigte /of Angus/|1118|Forfar, Angusshire, Scotland|1189||
+p11e7c958.html|of Aquitanien|Adelheid /of Aquitanien/|945||1004||
+p7edd24de.html|of Ardennes & Bidgau|Godzelin /of Ardennes & Bidgau/|911|Aachen, Reinland, Preussen|18DEC 943||
+p9f4252be.html|of Arles|Constance /of Arles/|986|Arles, France|1032|Meulan, Yvelines, Frankrike|
+pe39cf74e.html|of Arles|Richilda /of Arles/|820||||
+p7e2efba7.html|of Atholl (Tynedale)|Hextilda /of Atholl (Tynedale)/|1122|Moray, Scotland|1182|Moulin, Perthshire, Scotland|
+pb39c6a6c.html|of Bavaria|Gisella /of Bavaria/|975|Bavaria, Tyskland||Passau, Bavaria, Tyskland|
+p78c45482.html|of Bavaria|Judith /of Bavaria/|800|Alldorf, Eistadt, Bavaria, Tyskland|19APR 843|Tours, Frankrike|
+p32e1493f.html|of Bavaria|Welf /of Bavaria/|746|Bavaria, Tyskland|3SEP 824|Tyskland|
+p72897e9b.html|of Berkeley|Euphemia /of Berkeley/|1249|Scotland|1296|Fern, Ross, Scotland|
+pe498b481.html|of Berkeley|Hugh /of Berkeley/|1225|Cullen Castle, Banffshire, Scotland|1296|Towie, Banffshire, Scotland|
+pac63b451.html|of Berkeley|Roger /of Berkeley/|1180|Cullen Castle, Banffshire, Scotland|1226|Towie, Banffshire, Scotland|
+p1891797b.html|of Bliesgau & Luneville & Metz|Folmar I /of Bliesgau & Luneville & Metz/|930||995||
+p6d325d3e.html|of Bliesgau & Metz|Folmar II /of Bliesgau & Metz/|972||1026||
+p540cbb0f.html|of Brioquibec|Ertemberge /of Brioquibec/|930|Normandy, France|||
+p818a20b3.html|of Carrick|Errick /of Carrick/|1201|Argyll and Bute, Scotland|1280|Lochawe, Agryll and Bute, Scotland|
+p512a0511.html|of Carrick|Majorie /of Carrick/|1252|Carrick, Argyll, Scotland|9NOV 1292|Carrick, Argyll, Scotland|
+p22d6a40f.html|of Chaumontois|Arnulf II /of Chaumontois/|||||
+p5b7bb4e2.html|of Chaumontois|Arnulf III /of Chaumontois/|780|Bourgogne, Frankrike|820||
+pbacda66c.html|of Chester|Maud (Matilda) /of Chester/|1171|Chester, Scotland|1233|Scotland|
+p7653fdec.html|of Crepon|Herbastus /of Crepon/|918|Normandy, France|||
+p299cf40c.html|of Dagsburg|Mechtild /of Dagsburg/|||1157||
+p2f4f0eab.html|of Denmark|Thorgrim /of Denmark/|833|Danmark|860||
+pcb332393.html|of Dreini|Egbert /of Dreini/|760|Ringelheim, Tyskland|834|Hanover, Niedersachsen, Tyskland|
+p54895eba.html|of Dreini|Matilda /of Dreini/|833|Ringelheim, Tyskland|909|Ringelheim, Tyskland|
+p3ac28d83.html|of Dunbar|Cospatric /of Dunbar/|1062||22AUG 1138|Battle of the Standard, Yorkshire, England|
+p231a81f3.html|of England|Henry I /of England/|1068|England|1135|Saint-Denis, France|
+pcd83f49b.html|of Fenton|Alice /of Fenton/|1270|Clan Fenton, East Lothian, Scotland|1336|Roslin Castle, Midlothian, Scotland|
+p97a2fb27.html|of Fezensac|Leuthard I /of Fezensac/|785|Paris, France|813|Paris, France|
+p97a02f87.html|of Fife|Eaill /of Fife/|||||
+pf6102a69.html|of Fife|Malcolm /of Fife/|||||
+p2565f3bb.html|of Flandern|Mathilde /of Flandern/|937|Saxony, Tyskland|25MAY 1008||
+p58d87322.html|of Flanders|Arnulf I /of Flanders/|896||27MAR 964|Gent, Belgien|
+pda4b1f18.html|of Flanders|Baldwin I /of Flanders/|837|Nord, Nord-Pas-de-Calais, France|879|Auxerre, Yonne, Bourgogne, France|
+pe8877623.html|of Flanders|Baldwin II /of Flanders/|865||10OCT 918|Gent, Belgien|
+pdd63cd19.html|of Flanders|Baldwin III /of Flanders/||Flandern, Frankrike|1JAN 962|Flandern, Frankrike|
+pe34f884d.html|of Flandres|Arnulf II /of Flandres/|941||30MAR 987|Gent, Belgien|
+p47451272.html|of Flandres|Baudouin IV /of Flandres/|980||1035||
+pb8fc2066.html|of France|Cunigunde /of France/|895|Aachen, Cologne, Tyskland|930|Aachen, Cologne, Tyskland|
+p58814d8d.html|of France|Ermentrude /of France/|875||||
+p24d7accd.html|of France|Louis "the Stammerer" /of France/|1NOV 846||10APR 879|Compiegne, Frankrike|
+p96fa4b6a.html|of France|Robert (the Strong) /of France/|820|Anjou, France|866|Brisarthe, Les Hauts-d´Anjou, France|
+p6a32edf1.html|of France|Robert I /of France/|866|Angers, France|923|Soissoins, France|
+pfeaa3893.html|of Franken|Lothaire I /of Franken/|795|Ingelheim, Rheinland-Pfalz, Germany|29SEP 855|Prum, Rheinland-Pfalz, Germany|
+p0b6bd116.html|of Frankerna|Henrik I /of Frankerna/|5APR 1008|Meulan, Yvelines, Frankrike|4AUG 1060|Palais de Vitry-aux-Loges, Vitry-aux-Loges, Centre, France|
+pb4d51e1c.html|of Friesland|Reinhild Ludmilla /of Friesland/|870||917||
+p0d59edbb.html|of Galloway| /of Galloway/|1180||||
+p12004582.html|of Galloway|Afreca /of Galloway/|1099|Scotland|1130|Isle of Man, England|
+pf96b77a7.html|of Galloway|Dervorguilla /of Galloway/|1210|Wigtownshire, Scotland|28JAN 1290|Barnard Castle, Gainford, Durham, England|
+pc0d5db9f.html|of Galloway|Fergus /of Galloway/|1070|England|1161|Holyrood, Irland|
+pf063e568.html|of Galloway|Fergus /of Galloway/|1090|Drakemyre, North Ayreshire, Scotland|12MAY 1161|Edinburg, Scotland|
+paad4747b.html|of Gloucester & Hertford|Isabella /of Gloucester & Hertford/|8NOV 1226|Tewkesbury, England|10JUL 1264|England|
+p1ab6cbc8.html|of Gutzkov-Pommern|Woizlava /of Gutzkov-Pommern/|||||
+p14a6b2e7.html|of Gwynedd|Susanna /of Gwynedd/|1100|Wales|1168|Wales|
+p1543de1f.html|of Harcourt|Torf /of Harcourt/|913|Normandy, France|||
+p9f947111.html|of Harcourt|Tourude /of Harcourt/|950|Pont-Audemer, Beaumont, Normandy, Frankrike|1040|Preaux, Normandie, France|
+peec4140a.html|of Hastings|Alice /of Hastings/|1180|Dunmow, Essex, England|15MAY 1246|Little Easton, Essex, England|
+pddaa35fe.html|of Hungary|Stephan I /of Hungary/|975|Hungary|15AUG 1038|Esztergom, Hungary|
+p61dd8bdd.html|of Huntingdon|David /of Huntingdon/|1144|Huntingdon, Scotland|17JUN 1219|Jedburgh, Roxburghshire, Scotland|
+p20043c5c.html|of Huntingdon|Isobel /of Huntingdon/|1199|Huntingdon, Scotland|1251|Scotland|
+p37408926.html|of Huntingdon|Margret /of Huntingdon/|1185|Scotland|1228|Wigtownshire, Scotland|
+pdaee4476.html|of Huntingdon|Marjorie /of Huntingdon/|1152|Caitness, Scotland|1213|Forfar, Angusshire, Scotland|
+pf25b7c8a.html|of Huntingdon|Maud (Matilda) /of Huntingdon/|1072||1130|Scotland|
+p085d522f.html|of Huntingdon|Waltheof /of Huntingdon/|1050|Wallsend, Tyne and Wear, England|31MAY 1076|St. Giles Hill, Winchester, England|
+p33135fe2.html|of Italy|Bernard /of Italy/|797|Vermandois, France|818|Aachen, Cologne, Tyskland|
+peace8602.html|of Italy|Ermengard /of Italy/|843|Pavia, Lombardiet, Italy|896|Vienne, Isére, France|
+pa9b70d73.html|of Italy|Louis II /of Italy/|825|Metz, Moselle, Lorraine, France|12AUG 875|Brescia, Lombardiet, Italy|
+p044bce86.html|of Italy|Rosela Roxana /of Italy/|955|Italien|7FEB 1003|Flandern, Frankrike|
+p1763343c.html|of Leslie|Andrew /of Leslie/|1280|Leslie Castle, Aberdeenshire, Scotland|28NOV 1324|Leslie Castle, Aberdeenshire, Scotland|
+p52e182a8.html|of Lesmona|Alburgis /of Lesmona/|803|Ringelheim, Tyskland|890|Ringelheim, Tyskland|
+p2a56b1f4.html|of Loon|Arnold I /of Loon/|1050||1130||
+p858322b9.html|of Loon|Arnold II /of Loon/|||1146||
+p8ed537bd.html|of Loon|Emmo /of Loon/|||17JAN 1978||
+p5861c722.html|of Loon|Imagina /of Loon/|1148|Loon, Limburg, Belgien|JUN 1214||
+pe6468706.html|of Loon|Ludvig (Louis) I /of Loon/|||11AUG 1171||
+p71b6dc27.html|of Lotharingla & Bidgau|Wigeric /of Lotharingla & Bidgau/|886|Luxenburg|923||
+p15516ea5.html|of Lovaine & Duke of Brabant|Godfrey III /of Lovaine & Duke of Brabant/|1142||AUG 1190||
+p7aff4e0a.html|of Luxenburg|Antoine /of Luxenburg/|||||
+pa66afeda.html|of Luxenburg|Berthilde /of Luxenburg/|770||||
+pefbd489f.html|of Luxenburg|Ermesind /of Luxenburg/|||||
+pb2cab390.html|of Luxenburg|nn /of Luxenburg/|810||||
+p7c6b7516.html|of Mainz|Agnes /of Mainz/|||||
+pfdfb1116.html|of Mar|Alesta /of Mar/|1156|Mar, Aberdeenshire, Scotland|1210|Paisley Abbey, Scotland|
+pd7509df9.html|of Mar|Margret (Marjory) /of Mar/|||||
+p967cd26b.html|of Mar|Morggán /of Mar/|||||
+p6b9a4f0c.html|of Marshal|Margaret /of Marshal/|||||
+p955580f0.html|of Maun|Godfrey /of Maun/|||||
+p3e7f04f5.html|of Menteith|Gilchrist /of Menteith/|||1189||
+p33d87ede.html|of Menteith|Isabel /of Menteith/|1217||1271||
+pe7737e45.html|of Menteith|Margret /of Menteith/|1276|Scotland|1324|Scotland|
+p589dece6.html|of Menteith|Mary /of Menteith/|||1286||
+p0e414ce6.html|of Menteith|Muireadhack II /of Menteith/|||1234|Perth, Perthshire, Scotland|
+pd5213bce.html|of Metz|Buvinus (Bivin) /of Metz/|810||869||
+p11a4700a.html|of Metz|Folmar III /of Metz/|||1075||
+peafecf99.html|of Metz|Folmar IV /of Metz/|||1111||
+p33241102.html|of Metz|Gerard /of Metz/|||||
+p7a697559.html|of Metz|Godefroy /of Metz/|||1056||
+p6ed18cd3.html|of Moha|Albert I /of Moha/|||||
+pd89fed51.html|of Nagolzgau|Thietrada /of Nagolzgau/|750|Aachen, Tyskland|806||
+p024bb031.html|of Namur|Luitgarde /of Namur/|||||
+p522eb5c9.html|of Normandie|Robert II /of Normandie/|964|Evreux, Haut-Normandie, France|1037|Evreux, Haut-Normandie, France|
+p039543da.html|of Northumbria|Siward /of Northumbria/||Skandinavia|1055|York, England|
+p2397144e.html|of Orleans|Ermentrude /of Orleans/|27SEP 823|Orleans, Loiret, Frankrike|6OCT 869|St, Denis, Paris, Frankrike|
+p2bdf055b.html|of Paris|Adelaide /of Paris/|850||10NOV 901|Laon, Frankrike|
+pa1cb9393.html|of Paris|Hugh ("den store" eller "den vite") /of Paris/|898|Paris, France|956|Dourdan, France|
+p4b69c123.html|of Poland|Siemomysl /of Poland/|891|Gniezno, Polen|964|Poznan, Polen|
+p5f854de8.html|of Provence|Kunnigunde /of Provence/|873||||
+p0fa2d01a.html|of Putbus|Borante I /of Putbus/|1181||||
+pc0702f44.html|of Putbus|Margrete /of Putbus/|1221|Putbus, Tyskland|1253|Rygen, Tyskland|
+pdfcc1099.html|of Rackwick|Thorljit /of Rackwick/|1078|Orkney Islands, Scotland|||
+p7d3da2ec.html|of Ringelheim|Dietrich (Theodoric) /of Ringelheim/|853|Ringelheim, Tyskland|916|Ringelheim, Tyskland|
+p5514f8d6.html|of Ringelheim|Matilda /of Ringelheim/|895|Engern, Sachsen, Tyskland|968|Qedingburg, Tyskland|
+p5ae90c35.html|of Ringelheim|Reginhart /of Ringelheim/|828|Goslar, Hannover, Tyskland|891|Ringelheim, Tyskland|
+p87c268a8.html|of Ringelheim|Walpert /of Ringelheim/|802|Ringelheim, Tyskland|856|Saxony, Tyskland|
+p4f8d433b.html|of Riparian|Ida /of Riparian/|800||838|Tyskland|
+p60910ecb.html|of Romanska riket & King of the Franks|Ludvig I /of Romanska riket & King of the Franks/|16APR 778|Chasseneuil, Frankrike|20JUN 840|Mainz, Tyskland|
+p466319b5.html|of Ross, 4th Earl of Ross|William III /of Ross, 4th Earl of Ross/||Fearn, Ross & Cromarty, Scotland|1372|Scotland|
+p04462cab.html|of Ross|Christina /of Ross/|1200|Ross, Scotland|1230|Isle of Man, England|
+p24412c8a.html|of Ross|Euphemia /of Ross/|1345|Cromarty, Scotland|24JUL 1394|Pitmiddle, Scotland|
+p7a12c693.html|of Ross|Hugh /of Ross/|1276|Fearn, Ross & Cromarty, Scotland|1333|Halidon Hill, England|
+p51b463e3.html|of Ross|Marjory /of Ross/|1309|Ross, Scotland|1350|Perth, Perthshire, Scotland|
+pe4db9e1b.html|of Ross|William I /of Ross/|1220|Fearn, Ross & Cromarty, Scotland|1274|Fearn, Ross & Cromarty, Scotland|
+p9bcfce3b.html|of Ross|William II /of Ross/|||1323|Delny, Ross-shire, Scotland|
+p36deab33.html|of Sachsen|Hedwig /of Sachsen/|910|Sachsen, Tyskland|965|Aachen, Tyskland|
+pd0772b96.html|of Sachsen|Henrik I (Fågelfångaren) /of Sachsen/|876||936|Germany|
+pb9ae53b0.html|of Salisbury|Sibyl /of Salisbury/|27NOV 1126|Old Sarum (Salisbury), Wiltshire, England|3JUN 1176|Pembroke Castle, Wales|
+pb3ca75b4.html|of Saxony|Heilwig /of Saxony/|780|Saxony, Tyskland|19APR 843|Tyskland|
+p5532a80d.html|of Saxony|Matilda /of Saxony/||Saxony, Tyskland|25MAY 1008|Lorraine, Frankrike|
+p7806f2c0.html|of Saxony|Oda /of Saxony/|||||
+p5460e2d8.html|of Saxony|Theodorata /of Saxony/|765|Worms, Tyskland|789|Worms, Tyskland|
+pdebca391.html|of Scotland|David I /of Scotland/|1084|Scotland|24MAY 1153|Carlisle, England|
+p383a6c24.html|of Scotland|Donald II /of Scotland/|862|Forres, Morayshire, Scotland|900|Laurencekirk, Aberdeenshire, Scotland|
+p52172fa7.html|of Scotland|Ethelred /of Scotland/|1072|Scotland|13NOV 1093|Scotland|
+pb3bcd056.html|of Scotland|Kenneth II /of Scotland/|954||995|Fettercairn, Scotland|
+p847e28fb.html|of Scotland|Konstantin I /of Scotland/|836|Isle of Iona, Argyll and Bute, Scotland|877|Isle of Iona, Argyll and Bute, Scotland|
+pf305e97c.html|of Scotland|Malcolm I /of Scotland/|897|Moray, Scotland|954|Fetteresso, Kincardineshire, Scotland|
+p653998d8.html|of Scotland|Malcolm III /of Scotland/|26MAR 1031|Scotland|13NOV 1093|Alnwick, England|
+p0f29253b.html|of Scotland|Margareta /of Scotland/|1045|Slottet Reka, Ungern|16NOV 1093|Edinburgh Castle, Scotland|
+p6b8f9b72.html|of Sorbia|Slavibor /of Sorbia/|820|Melnik, Böhmen, Tjeckien|870|Böhmen, Tjeckien|
+pee75ec52.html|of Spoleto|Adelchis /of Spoleto/|790|Spoleto, Perugia, Italy|845|Spoleto, Perugia, Italy|
+p67623b7c.html|of Spoleto|Engelberga /of Spoleto/|826|Spoleto, Perugia, Italy|897|Piacenza, Padova, Veneto, Italy|
+pad728a14.html|of Strathearn|Gilbert /of Strathearn/|1150|Strathearn, Pearthshire, Scotland|1223|Stratheam, Perthshire, Scotland|
+p6f73f717.html|of Strathearn|Isabella /of Strathearn/|1328|Perth, Scotland|1410|Orkney Islands, Scotland|
+p31a4393d.html|of Strathearn|Malise V /of Strathearn/|1315|Strathearn, Pearthshire, Scotland|1346|Durham, England|
+p949821d2.html|of Strathearn|Matilda /of Strathearn/|1230|Scotland|||
+p4ec37a95.html|of Strathearn|Robert /of Strathearn/|1176|Scotland|1245|Ruthven, Pearth, Scotland|
+p1f4981ae.html|of Tegaingl|Angarad /of Tegaingl/|1069|Tegeingl, Flintshire, Wales|1128||
+p42cb42f5.html|of the Franks|Charles II /of the Franks/|13JUN 823|Frankfurt am Main, Tyskland|6OCT 877|Avrieux, Frankrike|
+p45eb11b0.html|of The Orkneys|Matilde (Maud) /of The Orkneys/|1178|Orkney Islands, Scotland|1247|Scotland|
+pdf973ee2.html|of Trevern & Ardennes|Cunigunda /of Trevern & Ardennes/|892|Aachen, Cologne, Tyskland|923|Aachen, Cologne, Tyskland|
+p174d86af.html|of Tynedale|Uchtred Fitzwaldeve /of Tynedale/|1070|Tynedale, Scotland|1152|Johnstone, Dumfries-shire, Scotland|
+p06e493ca.html|of Verdun & Bidgau & Ardennes|Godfrey I /of Verdun & Bidgau & Ardennes/|930||3SEP 1005||
+pb522a94b.html|of Verdun|Gerberge /of Verdun/|973||||
+p514556af.html|of Vermandois|Adele /of Vermandois/|910|Frankrike|10OCT 958|Brugge, Belgien|
+p97faf74f.html|of Vermandois|Otto /of Vermandois/|979|Vermandois, France|1044|France|
+p84ae5996.html|of Vinzgau|Gerald /of Vinzgau/|720|Anglachgau, Schwaben, Tyskland|779|Tyskland|
+pd2f03887.html|of Vinzgau|Hildegard /of Vinzgau/|754|Schwaben, Tyskland|30APR 783|Thionville, Frankrike|
+p8f748765.html|of Wessex|Æthelwulf /of Wessex/|795|Aachen, Tyskland|13JAN 858|Stambridge, England|
+p1f94deaf.html|of Wessex|Elfrida /of Wessex/|877|England|7JUN 929||
+peafbb47d.html|of Wessex|Margret /of Wessex/|1045|Ungern|16NOV 1093|Edinburgh Castle, Scotland|
+p3ac5a35c.html|of Wilmnitz|Stoislav II /of Wilmnitz/|1217||1278||
+p8875cd08.html|of Wittelsbach|Otto VI /of Wittelsbach/|1130|Kelheim, Nederbayern, Tyskland|1189|Pfullendorf, Bayern, Tyskland|
+p1454b790.html|Offesen Neb|Peder /Offesen Neb/|1400||MAR 1461|Söllerup, Själland, Danmark|
+pbba323c4.html|Offsen Dyre| /Offsen Dyre/|1200||1260||
+p15535b68.html|Og MacDonald of the Isles|Angus /Og MacDonald of the Isles/|1272|Scotland|1329|Scotland|
+p3fc100f4.html|Ogmundsdottir|Ragnhild /Ogmundsdottir/|1120|Norge|1190|Orkney Islands, Scotland|
+pd4417aca.html|Ogmundson Giske|Skofte /Ogmundson Giske/|1040|Giske, Norge|1103|Roma, Lazio, Italien|
+p2bc70380.html|Ogmundsson Bolt|Håkon /Ogmundsson Bolt/|1260|Viken, Ringerike, Norge|1346|Hamar, Hedmark, Norge|
+p4612525f.html|Olafsdotter|Gunhild /Olafsdotter/|920|Danmark|||
+pb5ef394c.html|Olaisdotter|Johanna /Olaisdotter/|||||
+p3a995d67.html|Olavson|Håvard /Olavson/|1150|Storedal, Skjeberg, Norge|||
+p4516a2ca.html|Olavsson "den vasse"|Helge /Olavsson "den vasse"/|770|Danmark|795|Ringerike, Buskerud, Norge|
+p067bd674.html|Olavsson Barfot|Magnus /Olavsson Barfot/|1073||1103|Ulster, Irland|
+pd45f5bf1.html|Olavsson Bratt|Harald /Olavsson Bratt/|||||
+p0c3a2c83.html|Olavsson of Orkneyöarna|Svein /Olavsson of Orkneyöarna/|1115|Freswick, Caithness, Scotland|1171|Dublin, Ireland|
+pa6f04c95.html|Olavsson Tinghatt på Stordal|Tore /Olavsson Tinghatt på Stordal/|1190|Bergen, Hordadal, Norge|1265|Selardalur, Westfjord, Island|
+peabbd67c.html|Olavsson|Gudbrand "Kula" /Olavsson/|923|Vik, Kvam, Norge|||
+p61be1e53.html|Olavsson|Rolf /Olavsson/|1040|Orkney Islands, Scotland|||
+p7dd9f292.html|Olavsson|Tryggve /Olavsson/|928|Ringerike, Buskerud, Norge|963|Sotenäs (O)|
+p12fff4e2.html|Olesdatter Dille|Maren /Olesdatter Dille/|11NOV 1734|Sjåfram, Röros, Norge|1825|Håneset, Röros, Norge|
+p8d3e5049.html|Olesen Engen|Steffen /Olesen Engen/|1683||30MAY 1746|Röros, Norge|
+p68a1dcfb.html|Olesen Sjövoll|Ole /Olesen Sjövoll/|1837|Röros, Norge|1904|Sjövold, Brekken, Norge|
+pd91f65c5.html|von Ollersbach|Benedicta /von Ollersbach/|1090|Ollersbach, Österrike|1147||
+pd7a3e105.html|von Ollersbach|Gebhard /von Ollersbach/|||||
+p1983eda9.html|Olofsdatter Brynnilds|Brönnille /Olofsdatter Brynnilds/||Brynnildsvoll, Brekken Aursund, Röros, Norge||Myrmoen, Brekken, Norge|
+pe3343a32.html|Olofsdatter Brynnilds|Catharina Maria /Olofsdatter Brynnilds/|||1733|Ryen gård, Brekken, Aursund, Norge|
+p1bf223d8.html|Olofsdatter|Lusia /Olofsdatter/|||||
+p7fed82a2.html|Olofsdotter Berling|Ingrid /Olofsdotter Berling/|||1674|Riga, Lettland|
+p3e3c29c8.html|Olofsdotter Tavast|Ragnhild /Olofsdotter Tavast/|1360|Finland|1433||
+p1c29eec7.html|Olofsdotter|Anna /Olofsdotter/|||1740|Hede (O)|
+p2db561bf.html|Olofsdotter|Anna /Olofsdotter/|1630|Nössemark (P)|||
+p6d6d1c29.html|Olofsdotter|Anna /Olofsdotter/|1695|Svarteborg (O)|1765|Svarteborg (O)|
+p795b9f05.html|Olofsdotter|Barbro /Olofsdotter/|||1714|Brastad (O)|
+p2f73d680.html|Olofsdotter|Börta /Olofsdotter/|||||
+p5a76cbf5.html|Olofsdotter|Börta /Olofsdotter/|1654||1714||
+pe8e7e803.html|Olofsdotter|Börta /Olofsdotter/|1665|Svarteborg (O)|1719|Svarteborg (O)|
+p03de620e.html|Olofsdotter|Elin /Olofsdotter/|1709|Dalskog (P)|1759|Dalskog (P)|
+p30c91dba.html|Olofsdotter|Elin /Olofsdotter/|19JAN 1763|Forshälla (O)|||
+pd9b33751.html|Olofsdotter|Eline /Olofsdotter/|1560|Bro (O)|1611|Bro (O)|
+p336b7df7.html|Olofsdotter|Gertrud /Olofsdotter/|1639|Sunne (S)|5SEP 1686|Östanbjörke, Sunne (S)|
+p0f7fbf54.html|Olofsdotter|Gurun /Olofsdotter/|1610|Håbol (P)|||
+p101ad711.html|Olofsdotter|Ingeborg /Olofsdotter/|10FEB 1740|Öxna, Foss (O)|12MAY 1797|Foss (O)|
+p06d6164a.html|Olofsdotter|Ingrid /Olofsdotter/|1667||1732|Byn, Långserud (S)|
+pc8e3b373.html|Olofsdotter|Ingrid /Olofsdotter/|1718|Laxarby (P)|1798|Laxarby (P)|
+pd3a39253.html|Olofsdotter|Johanna /Olofsdotter/|29DEC 1782|Röd, Forshälla (O)|||
+p27ed65b8.html|Olofsdotter|Karin /Olofsdotter/|||||
+p994d42b6.html|Olofsdotter|Kerstin /Olofsdotter/|||1705|Lilla Foss, Foss (O)|
+p02aee68c.html|Olofsdotter|Kerstin /Olofsdotter/|1774|Steneby (P)|1811||
+pbd3b1b69.html|Olofsdotter|Kerstn /Olofsdotter/|||||
+p099506f7.html|Olofsdotter|Kristina /Olofsdotter/|23JUL 1709|Bråland, Foss (O)|7SEP 1752|Foss (O)|
+peec54e78.html|Olofsdotter|Magnhild /Olofsdotter/|1228|Isle of Man, England|1300|Tronheim, Norge|
+pe2e06202.html|Olofsdotter|Margareta /Olofsdotter/|1748||||
+p2f83ba22.html|Olofsdotter|Marit /Olofsdotter/|1615||1637|Forsebol, Ör (P)|
+pb4e8c258.html|Olofsdotter|Marta /Olofsdotter/|||1711||
+pb128c7d1.html|Olofsdotter|Sigrid /Olofsdotter/|||||
+pdc293bd4.html|Olofsdotter|Walborg /Olofsdotter/|1670|Foss (O)|1732|Foss (O)|
+p67c7d39a.html|Olofsson Kråka d.y|Olof /Olofsson Kråka d.y/|1630|Långserud (S)|1686|Kastensbol, Långserud (S)|
+pf61cbdd9.html|Olofsson Kråka d.ä|Olof /Olofsson Kråka d.ä/|||1657|Halmstad (N)|
+pcfd61277.html|Olofsson Lithovius (Swart)|Lars /Olofsson Lithovius (Swart)/|1500|Kaarina, Finland|1571|Littoinen, Finland|
+p027855c8.html|Olofsson Tavast|Nils /Olofsson Tavast/|1355|Tavastland, Finland|1433|Åbo, Finland|
+paa8f9b49.html|Olofsson till Sätuna|Jöns /Olofsson till Sätuna/|||||
+p6dd779ff.html|Olofsson Åberg|Carl /Olofsson Åberg/|1723||15JUN 1773|Kållerö, Väne-Ryr (P)|
+p78ffbccd.html|Olofsson|Anders /Olofsson/|1650|Nössemark (P)|||
+p26c3937f.html|Olofsson|Anders /Olofsson/|1689|Tisselskog (P)|1759|Steneby (P)|
+pcfbb5733.html|Olofsson|Anna /Olofsson/|1710|Laxarby (P)|1773|Steneby (P)|
+pb08deace.html|Olofsson|Asmund /Olofsson/|1620|Brastad (O)|1673|Brastad (O)|
+p3c679ff1.html|Olofsson|Björn /Olofsson/|||1JUN 1772|Röd, Forshälla (O)|
+pbad672f4.html|Olofsson|Bryngel /Olofsson/|1705|Heden, Dalskog (P)|10MAR 1765|Heden, Dalskog (P)|
+p14b12507.html|Olofsson|Erik /Olofsson/|1714|Svartbo, Bollnäs (X)|1795|Källbo, Bollnäs (X)|
+p4611a1e9.html|Olofsson|Gudröd II /Olofsson/|1127|Isle of Man, England|1187|Isle of Man, England|
+p64afb6e9.html|Olofsson|Hans /Olofsson/|||||
+pa6bb0d66.html|Olofsson|Johan /Olofsson/|||||
+p742ebc40.html|Olofsson|Johan /Olofsson/|1731|Glyckshult, Skållerud (P)|12MAR 1791|Kopparbol, Dalskog (P)|
+p7aebed4f.html|Olofsson|Jon /Olofsson/|1570|Håbol (P)|1655|Håbol (P)|
+p9432bb08.html|Olofsson|Jon /Olofsson/|1647|Ingevalds Berga, Ör (P)|1733||
+p55c1a563.html|Olofsson|Jöns /Olofsson/|11SEP 1736|Folkesgården,Västra Ämtervik (S)|24MAR 1810|Skottened, Väne-Ryr (P)|
+pe700d8d5.html|Olofsson|Nils /Olofsson/|27MAY 1710|Ed,Sunne (S)|1759|Ed, Sunne (S)|
+p5a1b589e.html|Olofsson|Nils /Olofsson/|1725|Brastad (O)|1785|Brastad (O)|
+pfb87f9a9.html|Olofsson|Olof /Olofsson/|1685||12MAR 1754|Folkesgården, Ämtervik (S)|
+p4a4e0a46.html|Olofsson|Olof /Olofsson/|1696||1765|Svartbo, Bollnäs (X)|
+pf959477c.html|Olofsson|Peder /Olofsson/|1410|Jämtland (Z)|1474|Jämtland (Z)|
+p1cb5dc02.html|Olofsson|Per /Olofsson/|||||
+pde6aa201.html|Olofsson|Seger /Olofsson/|1530|Nensjö, Gudmundrå (Y)|1613|Nensjö, Gudmundrå (Y)|
+p3d615a33.html|Olofsson|Simon /Olofsson/|1615|Västra Ämtervik (S)|||
+p28962719.html|Olofsson|Thomas /Olofsson/|||1644|Laxarby (P)|
+p2e07f52d.html|Olofsson|Thomas /Olofsson/|1631|Laxarby (P)|1718|Laxarby (P)|
+p0df85184.html|Olofsson|Torkil /Olofsson/|1600|Sundals-Ryr (P)|1690|Liane, Dalskog (P)|
+p7ed42211.html|Olofsson|Torkil /Olofsson/|1604|Sundals-Ryr (P)|1690|Ör (P)|
+p44499e61.html|Olsdatter Aasen|Marit /Olsdatter Aasen/|1700|Röros, Norge|1767|Svendsgärden, Röros, Norge|
+p8230047a.html|Olsdatter eller Larsdatter|Karin /Olsdatter eller Larsdatter/|1675|Röros, Norge|1759|Svartviken, Röros, Norge|
+p27f1faa3.html|Olsdatter Haugen|Marit /Olsdatter Haugen/|1670|Röros, Norge|1723|Svendsgärden, Röros, Norge|
+pffcec703.html|Olsdatter Romsdal|Anne /Olsdatter Romsdal/|1657||1738||
+p2fc332f9.html|Olsdatter Sjövold|Ingeborg /Olsdatter Sjövold/|1763|Sjövold, Brekken, Norge|1841|Sjövold, Brekken, Norge|
+p131710ff.html|Olsdatter Timmermann|Ildri /Olsdatter Timmermann/|1700|Röros, Norge|1781|Brekken, Norge|
+pea245dc6.html|Olsdatter Törres (Kulbrender)|Marit /Olsdatter Törres (Kulbrender)/|1681|Röros gruva, Röros, Norge|1751|Kuraasen, Glåmos, Röros, Norge|
+pd122447d.html|Olsdatter|Anne /Olsdatter/|1720||||
+p19785538.html|Olsdatter|Beritte /Olsdatter/|||||
+pa081dd99.html|Olsdatter|Ingeborg /Olsdatter/|||1709|Röros, Norge|
+p553eafb6.html|Olsdatter|Kirsten /Olsdatter/|1682||1749|Röros, Norge|
+p6c0ef365.html|Olsdatter|Lisbeth /Olsdatter/|1735|Röros, Norge|1811|Glåmos, Norge|
+p0a1baf4d.html|Olsdatter|Margta /Olsdatter/|19APR 1767|Källbo, Bollnäs (X)|17AUG 1858|Ingebrigtsvollen, Brekken, Norge|
+pb1fb2e41.html|Olsen Aasen|Hans /Olsen Aasen/|1567|Myren, Tännäs, Hede (Z)|1673|Aasen, Röros, Norge|
+p56288060.html|Olsen Bock|Peder /Olsen Bock/|1608||||
+pc851b754.html|Olsen Borgos|John /Olsen Borgos/|9MAR 1872|Röros, Norge|1928||
+p2d8a61c6.html|Olsen Bruhn|Hans /Olsen Bruhn/|1450|Vä (L)||Vä (L)|
+pb285be31.html|Olsen Brynnilds|Olof d.y. /Olsen Brynnilds/|1665|Brynnildsvoll, Brekken Aursund, Röros, Norge|MAY 1733|Brynnildsvoll, Brekken Aursund, Röros, Norge|
+pc2fe40a1.html|Olsen Dille|Ole /Olsen Dille/|1668|Röros, Norge|5FEB 1741|Röros, Norge|
+p75a4900f.html|Olsen Dille|Ole /Olsen Dille/|MAR 1695|Röros, Norge|15SEP 1737|Röros, Norge|
+p48d6d2cd.html|Olsen Dille|Peder /Olsen Dille/|1698||22MAR 1778||
+p4c78f107.html|Olsen Gullikstad|Harald /Olsen Gullikstad/|1660|Erdal, Oppstryn, Norge|15MAR 1744|Gullikstad, Röros, Norge|
+pddeaaf6b.html|Olsen Haugen|Ole /Olsen Haugen/|1731|Svendsgärden, Röros, Norge|1772|Röros, Norge|
+p86737888.html|Olsen Hougen|Joergen /Olsen Hougen/|1671||1754|Haugen, Brekken, Norge|
+p1727e057.html|Olsen i Myren|Törres /Olsen i Myren/|1620|Tännäs (Z)|1701|Röros, Norge|
+p740da0b2.html|Olsen Kolberger|Michel /Olsen Kolberger/|1727|Klasvollen Nedre, Djupsjølia, Røros, Norge|1798|Klasvollen Øvre, Djupsjølia, Røros, Norge|
+p87bcd256.html|Olsen Kuraas|Joen /Olsen Kuraas/|1672|Kuraasen, Glåmos, Röros, Norge|1725|Kuraasen, Glåmos, Röros, Norge|
+pa739aa9a.html|Olsen Kuraas|Jörgen /Olsen Kuraas/|1846|Röros, Norge|1920|Röros, Norge|
+p3b6a1377.html|Olsen Kuraas|Peder /Olsen Kuraas/|||||
+p0a615672.html|Olsen Myrmoen|Henrik /Olsen Myrmoen/||Myrmoen, Aursunden, Norge||Myrmoen, Brekken, Norge|
+pe5a758bb.html|Olsen Myrmoen|Ole /Olsen Myrmoen/||Röros, Norge||Myrmoen, Aursunden, Norge|
+p7868bd76.html|Olsen Oppdaling|Lars /Olsen Oppdaling/|1700|Norge|1757||
+p1f09a734.html|Olsen Røstvender|Christen /Olsen Røstvender/|1686|Röros, Norge|1776|Röros, Norge|
+pcf2d95ed.html|Olsen Sjövoll|Henrik /Olsen Sjövoll/|1867|Sjövoll, Brekken||Torsvollen|
+pd79b7cec.html|Olsen Skomager|Knut /Olsen Skomager/|1667|Härjedalen, Sverige|1747|Feragen, Röros, Norge|
+p19dc67ae.html|Olsen Tamnes|Jon /Olsen Tamnes/|1803|Tamnes, Brekken. Norge|7SEP 1873|Nordbrekken|
+p7dc0ae67.html|Olsen Östby|Erik /Olsen Östby/|1705|Tydal, Norge|1773|Tydal, Norge|
+p8026b493.html|Olsen|Troen /Olsen/|||1677|Röros, Norge|
+pa1a23910.html|Olsson|Hans /Olsson/|1753|Hede (O)|1815|Hede (O)|
+p4c927d97.html|Olsson|Johannes /Olsson/|1792|Håby (O)|1833|Ödsmål, Håby (O)|
+pa3b762c1.html|Olsson|Mårten /Olsson/|||||
+p00ebb938.html|Olsson|Nils /Olsson/|||||
+p089476e3.html|Olsson|Nils /Olsson/|1646|Hals, Brastad (O)|1709|Hals, Brastad (O)|
+p43a482b0.html|Olsson|Nils /Olsson/|1654|Brastad (O)|1717|Brastad (O)|
+p2285775c.html|Olsson|Nils /Olsson/|1666|Säleby, Foss (O)|1707|Foss (O)|
+p2b1497a8.html|Olsson|Nils /Olsson/|1805|Svarteborg (O)|1851|Svarteborg (O)|
+pe053a587.html|Olsson|Olof /Olsson/|||1691|Foss (O)|
+p11e8c559.html|Olsson|Olof /Olsson/|1645|Bro (O)|||
+pef76f244.html|Olsson|Olof /Olsson/|1656|Svarteborg (O)|1709|Svarteborg (O)|
+p12412827.html|Olsson|Olof /Olsson/|1669|Bro (O)|1713|Foss (O)|
+p8b77a7b1.html|Olsson|Per /Olsson/|||1711||
+pebeef04c.html|Olsson|Per /Olsson/|1704|Foss (O)|4MAR 1784|Nya Verket, Foss (O)|
+pf37857dd.html|Olsson|Thol /Olsson/|1670|Tisselskog (P)|||
+pc68c214b.html|Olufsen Glug|Ebbe /Olufsen Glug/|1140|Bavelse, Prästö, Danmark|||
+pbc8fe8c2.html|von Orlamunde|Sophie /von Orlamunde/|1180|Orlamunde, Thyringen, Tyskland|1244|Erfurth, Thyringen, Tyskland|
+p04d444f1.html|av Orléans|Adrian /av Orléans/|765|Anglachgau, Badem-Wurtenberg, Tyskland|821|Orleáns, France|
+p3e34700b.html|av Orléans|Ermentrude /av Orléans/|823|Orléans, Frankrike|869|St. Denise, Aude, Langedouc-Rousillion, France|
+pf06c3f55.html|av Orléans|Odo /av Orléans/|790|Orléans, Frankrike|834|Touraine, France|
+pcdbe7d38.html|Ormsdatter|Margarete /Ormsdatter/|1299||1359||
+p78f66ab5.html|Ormsen Skakke|Erlin /Ormsen Skakke/|1115|Gjerde, Etna, Norge|1179|Kalvskinnet, Trondheim, Norge|
+pa6738c07.html|Ormsson av Veien|Filippus /Ormsson av Veien/|1185||1217||
+p2692be3f.html|Ospaksson Stallare|Ulfur /Ospaksson Stallare/|990|Island|1066|Norge|
+p239ca41c.html|Ovesen (Panter) til Asdal o Skovgaard|Niels /Ovesen (Panter) til Asdal o Skovgaard/|1335|Morsö, Danmark|1406|Asdal, Hjörring, Danmark|
+pd12cecf2.html|Ovesen Järnskägg, till Herlev|Niels /Ovesen Järnskägg, till Herlev/|1334|Dronningholm, Danmark|1405|Herlev (M)|
+p959b8bee.html|Pallesdatter|Ingrid /Pallesdatter/|1090|Danmark|1115|Danmark|
+p3d74f651.html|Pallesen Juel till Ögelstrup|Jens /Pallesen Juel till Ögelstrup/|||1428||
+p0a867d5a.html|Palnesøn Quigh|Niels /Palnesøn Quigh/|1363|Them, Vrad, Silkeborg, Danmark|1438|Qulesgaard, Hjerm, Struer, Danmark|
+pba4dc444.html|Patriksdatter Mowat|Rutilia /Patriksdatter Mowat/|1545||||
+p45a4a1f7.html|Paulsen Vold Kulbrender|Ole /Paulsen Vold Kulbrender/|||1701||
+p6a03a2db.html|Pedersdatter Bock|Ildri /Pedersdatter Bock/|1628|Röros, Norge|1728|Röros, Norge|
+p601d4ef8.html|Pedersdatter Dalen|Maria /Pedersdatter Dalen/|1721|Kvipsdalen, Röros, Norge|1802|Röros, Norge|
+p7520f5bb.html|Pedersdatter Dille|Marit /Pedersdatter Dille/|14JUN 1733|Röros, Norge|4OCT 1818||
+p3504f956.html|Pedersdatter Haugen|Kirsten /Pedersdatter Haugen/|1773||||
+pc2213f76.html|Pedersdatter Juel|Ingegerd /Pedersdatter Juel/|||1205||
+p565269c5.html|Pedersdatter Kuraas|Malena /Pedersdatter Kuraas/|1707||1782||
+peec9120e.html|Pedersdatter Myre|Bodil /Pedersdatter Myre/|1460|Klinteby, Bornholm, Danmark|1495||
+p98a90e48.html|Pedersdatter Neb|Berete /Pedersdatter Neb/|1470|Söllerup, Själland, Danmark|1550|Jordberga, Trelleborg (M)|
+pe82521b1.html|Pedersdatter Ryen|Beritte /Pedersdatter Ryen/|1704|Röros, Norge|3OCT 1737|Röros, Norge|
+p95ca5bbc.html|Pedersdatter Stuedal|Ragnhild /Pedersdatter Stuedal/|1698|Tydal, Norge|1774|Tydal, Norge|
+p4d6e7579.html|Pedersdatter Ulfeldt|Elisabeth /Pedersdatter Ulfeldt/|1230|Kalundborg, Själland, Danmark|1310|Ellinge (M)|
+p692d6e05.html|Pedersdatter von Everstein|N.N /Pedersdatter von Everstein/|||1412|Höjbygaard, Danmark|
+p5fd7b94a.html|Pedersdatter|Agnis /Pedersdatter/|JAN 1669|Röros, Norge|15APR 1736|Sjåfram, Röros, Norge|
+p0b16fcad.html|Pedersdatter|Birgitta /Pedersdatter/|1440|Jämtland (Z)|1489|Hov, Hackås (Z)|
+pb68adc7d.html|Pedersdatter|Dordi /Pedersdatter/|1706|Röros, Norge|1802|Glåmos, Norge|
+p5a18ba68.html|Pedersdatter|Else /Pedersdatter/|1280||1333||
+p7fd554ef.html|Pedersdatter|Maria /Pedersdatter/|||||
+pc8d01090.html|Pedersdatter|Maria /Pedersdatter/|1604|Röros, Norge|||
+p63e88c56.html|Pedersdatter|Marit /Pedersdatter/|||||
+p48e8c229.html|Pedersdotter (Rommel)|Anna /Pedersdotter (Rommel)/|1505|Halland (N)|1532|Olsnäs, Stenkyrka, Tjörn (O)|
+p4c4dddbb.html|Pedersdotter Aasen|Licia /Pedersdotter Aasen/|1673|Aasen, Röros, Norge|1721|Röros, Norge|
+p189b3938.html|Pedersdotter|Anna /Pedersdotter/|1577||||
+p802494ad.html|Pedersen Bock|Ole /Pedersen Bock/|1571|Faxnälden, Näskott (Z)|||
+p9d642194.html|Pedersen Borgos|Ole /Pedersen Borgos/|1844|Nordbrekken, Röros, Norge|1928|Brekken, Röros, Norge|
+p175a3946.html|Pedersen Dalen|Anders (Kullbrenner) /Pedersen Dalen/|1617|Kvipsdalen, Röros, Norge|1699|Pålsdalen, Röros, Norge|
+pfba2afd0.html|Pedersen Fasti till Ørs|Jep /Pedersen Fasti till Ørs/|||1455||
+pa6d00c48.html|Pedersen Hak af Riis|Stig /Pedersen Hak af Riis/|1300|Skåne, Sverige|1351|Riis, Ordrup, Själland, Danmark|
+pe5254c36.html|Pedersen Kielsberg|Lorentz /Pedersen Kielsberg/|1703|Röros, Norge|1762|Röros, Norge|
+pceee05fd.html|Pedersen Kirkhus|Lars /Pedersen Kirkhus/|1774|Haltdalen, Norge|1849|Kirkhus, Ålen, Norge|
+p34c463de.html|Pedersen Quigh|Palne /Pedersen Quigh/|1320||||
+pf3fa7d0c.html|Pedersen Romel|Steffen /Pedersen Romel/|1390||||
+p39541f30.html|Pedersen Rugeldal|Moens /Pedersen Rugeldal/|1702|Röros, Norge|4JAN 1798|Röros, Norge|
+pc7e5b95c.html|Pedersen Skancke|Faste /Pedersen Skancke/|1620|Hov, Hackås (Z)|1694|Röros, Norge|
+pd89f1cd6.html|Pedersen till Vittskövle|Gregers /Pedersen till Vittskövle/|1250|Vittskövle (M)|1285|Vittskövle (M)|
+p74165021.html|Pederson Skancke|Jens /Pederson Skancke/|1540|Hov, Hackås (Z)|1583|Hov, Hackås (Z)|
+pd8652271.html|Pedersson (Skanke)|Karl /Pedersson (Skanke)/|1360|Hov, Hackås (Z)|1430|Hov, Hackås (Z)|
+pa6c17704.html|Pedersson Bruhn|Romel (Rasmus) /Pedersson Bruhn/|1520|Vä (L)|1570|Vä (L)|
+p987ba857.html|Pedersson Hak af Riis|Stig /Pedersson Hak af Riis/|1300|Skåne, Sverige|1351|Riis, Ordrup, Själland, Danmark|
+pfff99954.html|Pedersson|Olof /Pedersson/|1390|Brunflo (Z)|1470|Jämtland (Z)|
+p51ceaa04.html|Pedersson|Sven /Pedersson/|||1526|Hamrånger (X)|
+p25855db5.html|Pehrsson|Engelbrekt /Pehrsson/|1642|Torrskog (P)|||
+pd8d939f1.html|Persdatter|Anne /Persdatter/|1375|||Skarhult, Eslöv (M)|
+p3ce66780.html|Persdotter|Elin /Persdotter/|1685|Bro (O)|1765|Svarteborg (O)|
+p76c92fb8.html|Persdotter|Elin /Persdotter/|1741|Laxarby (P)|||
+pf1adff05.html|Persdotter|Gunilla /Persdotter/|1736||24JUL 1812|Amunderöd, Foss (O)|
+p2d0e641b.html|Persdotter|Ingebor /Persdotter/|1637|Foss (O)|1711|Foss (O)|
+p9c844bfb.html|Persdotter|Ingrid /Persdotter/|||||
+p2a77ce8c.html|Persdotter|Ingrid /Persdotter/|||1737|Laxarby (P)|
+pd46c4407.html|Persdotter|Karin /Persdotter/|||1719|Laxarby (P)|
+pb7c139b5.html|Persdotter|Kristansa /Persdotter/|1725|Håby (O)|1798|Foss (O)|
+pd7de8450.html|Persdotter|Maja /Persdotter/|||||
+p294ab575.html|Persdotter|Malin /Persdotter/|JAN 1764|Kroken, Skållerud (P)|1NOV 1810|Svecklingeby, Ör (P)|
+p411f496f.html|Persdotter|Märit /Persdotter/|1585|Säbrå (Y)|1625|Säbrå (Y)|
+pe97d9aa7.html|Persdotter|Sara /Persdotter/|||||
+pd55296db.html|Persson Koch|Niels /Persson Koch/|1570|Falun (W)||Kongsberg, Norge|
+pf615ebc0.html|Persson|Anna /Persson/|||||
+pdddcd3f8.html|Persson|Gunnar /Persson/|22DEC 1747|Foss (O)|25APR 1843|Foss (O)|
+p62169941.html|Persson|Jon /Persson/|1735|Laxarby (P)|1810|Laxarby (P)|
+p0d3cb757.html|Persson|Kristen /Persson/|1679||1712|Håby (O)|
+pd5db8b6a.html|Persson|Nils /Persson/|1719|Foss (O)|1789|Foss (O)|
+p3e3c7d8c.html|Persson|Olof /Persson/|||||
+pdd27715a.html|Persson|Per /Persson/|1675|Foss (O)|1738|Foss (O)|
+p7be79db2.html|Persson|Petter /Persson/|18JUL 1761|Dalen, Tisselskog (P)|||
+pa7082699.html|Petersdatter|Sigrid /Petersdatter/|1140|Möre og Romsdal, Norge|||
+p6e0bf985.html|Petri Walstenius|Johannes /Petri Walstenius/|1590|Finland|1658|Finland|
+p1b8f14bb.html|Pettersdotter|Britta /Pettersdotter/|1747|Erikstad (P)|19NOV 1809|Heden, Dalskog (P)|
+pb9de8122.html|Pettersson Burman (Dierf)|Simon /Pettersson Burman (Dierf)/|1761|Foss (O)|1796|Foss (O)|
+p7a61e51e.html|Pettersson|Anders /Pettersson/|14OCT 1793|Dalen, Tisselskog (P)|28DEC 1874|Översidan, Laxarby (P)|
+pf1899b89.html|Piast|Swietoslawa "Gunhilda" /Piast/|970|Poznan, Polen|1015|Gainsborough, England|
+p2087f592.html|Pik|Arvid /Pik/|||||
+p8aec5618.html|von Polen|Gorka /von Polen/|891|Poznan, Polen|962|Poznan, Polen|
+p1f280d23.html|av Polen|Rikissa /av Polen/|1116||1155||
+p3c0697e8.html|Polie|Dag II /Polie/|825|Polen|||
+p49ce8778.html|Porse|Nils /Porse/|1200|Halland, Sverige||Halland, Sverige|
+p14895a54.html|Raef i Rangedal|Jonas /Raef i Rangedal/|||1537|Ekshärad (S)|
+p0d6414d0.html|Ragnarsdottir of Denmark|Alof /Ragnarsdottir of Denmark/|788||848||
+p082b70a5.html|Ragnarsson Wolsung|Sigurd /Ragnarsson Wolsung/|735|Ringerike, Buskerud, Norge|||
+p70e2fb3e.html|Ragnvaldsdatter|Ingrid /Ragnvaldsdatter/|1120|Orkney Islands, Scotland|||
+p2197d6cc.html|Ragnvaldsdotter|Ingrid /Ragnvaldsdotter/|1105|Sverige|1161|Norge|
+p7b1ff8bb.html|Ragnvaldsson "Gånge-Rolf"|Viking /Ragnvaldsson "Gånge-Rolf"/|860|Möre og Romsdal, Norge|931|Rouen, France|
+p623780cc.html|Ragnvaldsson|Gudröd /Ragnvaldsson/|1186||1237||
+p61caddf2.html|Ranesdatter Rise|Tora /Ranesdatter Rise/|950|Bergen, Hardaland, Norge|970|Ringerike, Buskerud, Norge|
+p7af842ea.html|Ranesdatter Tunsberg|Elin /Ranesdatter Tunsberg/|1340|Tönsberg, Norge|1430|Vadstena kloster (E)|
+p0c6d9aee.html|Ranesdotter|Tora /Ranesdotter/|950|Bergen, Hardaland, Norge|||
+p7e6c36d4.html|Raneson Sodheim|Eivind /Raneson Sodheim/|1280|Sandsvær, Kongsberg, Norge|1336|Sandsvær, Kongsberg, Norge|
+pf5617a22.html|Rangfredsdotter| /Rangfredsdotter/|975|Norge|1035|Isle of Man, England|
+p158f1d5a.html|Rannvejgsson på Aurland|Helge /Rannvejgsson på Aurland/|980||1010||
+p0447f0f3.html|Rask (Olofsson)|Anders /Rask (Olofsson)/|1780||24NOV 1856|Anolfsbyn, Skållerud (P)|
+p0785fcbf.html|Rasmusdatter Vintervold|Gjertrud /Rasmusdatter Vintervold/|1726|Röros, Norge|29MAR 1795|Röros, Norge|
+p3240c8b0.html|Rasmusdotter|Johanna /Rasmusdotter/|||||
+p071760e1.html|Rasmussdotter|Barbro /Rasmussdotter/|22MAY 1689|Foss (O)|6OCT 1742|Amunderöd, Foss (O)|
+p88164b26.html|Rasmusson Bruhn|Claus /Rasmusson Bruhn/|1550|Brunsgård, Vä (L)|1584|Marstrand (O)|
+p9472ab87.html|Rasmusson|Erik /Rasmusson/|2NOV 1811|Ekåsen, Stenshult, Forshälla (O)|28JUL 1904|Uddevalla (O)|
+p4efeb400.html|Rasmusson|Esbjörn /Rasmusson/|||||
+pe1cec167.html|Rasmusson|Rasmus /Rasmusson/|1660|Skredsvik (O)|17JAN 1714|Stora Foss, Foss (O)|
+pe11b444d.html|von Ratzenhofen|Eberhard /von Ratzenhofen/|1045||1097||
+pbb699b5a.html|von Ratzenhofen|Richardis /von Ratzenhofen/|1065|Tyskland|1121|Tyskland|
+pce438597.html|Reersdotter|Kari /Reersdotter/|1639|Häggvall, Lyse (O)|1709|Häggvall, Lyse (O)|
+p816e5b4b.html|Reersson|Alf /Reersson/|1580|Lyse (O)|||
+p62b8c0e3.html|von Regensburg|Babo (Pabo) /von Regensburg/|940|Regensburg, Tyskland|1003|Regensburg, Tyskland|
+p6e6873c3.html|Reinholdsen Saxstrup|Mathias /Reinholdsen Saxstrup/|1360||1384||
+p3f26ef6f.html|von Reipertshofen|Kuno /von Reipertshofen/|||||
+p99575bad.html|von Reipertshofen|Mathilde /von Reipertshofen/|||1143||
+p12c23d35.html|von Rembersweibe|Witherold /von Rembersweibe/|||||
+p9f4ff25e.html|Reorsson|Gunnar /Reorsson/|1691|Brastad (O)|1724|Brastad (O)|
+p95fe2b0f.html|Rig Skjalmsøn Hvide|Asser /Rig Skjalmsøn Hvide/|1078|Fjenneslev, Sörö, Danmark|1151|Sorø kloster, Danmark|
+pb7008cdb.html|Rise Haraldsson|Sigurth /Rise Haraldsson/|900|Haugesund, Rogeland, Norge|937|Haugesund, Rogeland, Norge|
+p5515d026.html|Robertians de Morvois|Guerri I /Robertians de Morvois/|820|Vermandois, France|866|St, Martin, Chateauneuf, Auvergne, France|
+p19d55eaa.html|Robertians de Morvois|Witithin /Robertians de Morvois/|795|Thyringen,|834|Aisne, Picardie, France|
+p0ce9331b.html|Rodgeirsen Dalene|Gudbrand III /Rodgeirsen Dalene/|770||860||
+pdebbb4ff.html|Rolandsdotter Lace-Cuff|Tora /Rolandsdotter Lace-Cuff/|880|Island|915||
+p148662d0.html|Rolfsson|Olav /Rolfsson/|1000|Orkney Islands, Scotland|||
+p1ad4562d.html|Rolvsætling|Torleiv /Rolvsætling/|||||
+p23c23b2b.html|Rolvsson|Olaf /Rolvsson/|1075||1139|Gairsay, Orkney, Scotland|
+p98e52d73.html|von Roning|Benedikta /von Roning/|1135||1205||
+p40122bef.html|von Roning|Konrad I /von Roning/|||1129||
+p67198ecf.html|von Roning|Konrad II /von Roning/|1110||1171||
+pef9f1240.html|Rosensparre|Niels /Rosensparre/|1300|||Skåne, Sverige|
+p73852be3.html|Ross, Countess of Moray|Euphemia /Ross, Countess of Moray/|1329|Cromarty, Scotland|5SEP 1394|Scotland|
+pb205a71d.html|Rothof (Roth)|Laurentz /Rothof (Roth)/|1520|Germany||Hedenstorp, Angelstad (G)|
+p95c1204e.html|Sæbjørnson af Agder|Kali /Sæbjørnson af Agder/|1010||||
+pb3093ecd.html|Salomonsdatter Selvik|Åsa /Salomonsdatter Selvik/|1320|Herset, Trogstad, Norge|1396|Selvik, Sande, Norge|
+pb1a4d87c.html|Salvesen Salve|Jacob /Salvesen Salve/|1736|Röros, Norge|1790|Röros, Norge|
+pa4cd1f20.html|Sauda-Ulvson|Peter /Sauda-Ulvson/|1110||||
+p628fc566.html|Saxesdatter Brekken|Karen /Saxesdatter Brekken/|1656|Saxegården, Nordbrekken, Brekken, Norge|1733|Sollie Östra, Röros, Norge|
+pa8f79118.html|Saxesen Stenbrikke|Aage /Saxesen Stenbrikke/|1250|Kokkedal, Hjörring, Danmark|1314||
+p434a43f9.html|Saxesen Stenbrikke|Aauge /Saxesen Stenbrikke/|||||
+paee243dd.html|Saxstruo til Vram|Peder /Saxstruo til Vram/|1428|Halmstad (N)|1487|Vram (M)|
+p156d1691.html|Saxstrup|Axel /Saxstrup/|1428|Halmstad (N)|1487|Vram (M)|
+p080e79df.html|Saxstrup|Reinholdt /Saxstrup/|1340||||
+pc4715493.html|von Schwaben| /von Schwaben/|||||
+pacaefc43.html|von Schwaben|Liudolf /von Schwaben/|||||
+pce258558.html|von Schwalenberg|Heinrich /von Schwalenberg/|1040|Schwalenberg, Tyskland|1125||
+p77dd8669.html|von Schwalenberg|Hermann I /von Schwalenberg/|1065|Schwalenberg, Tyskland|1110|Schwalenberg, Tyskland|
+p9ec4b1ac.html|von Schwalenberg|Judith (Jutta) /von Schwalenberg/|1108||1162||
+p1a0dfdf0.html|von Schwalenberg|Widekind I /von Schwalenberg/|1080|Schwalenberg, Tyskland|1136|Schwaben, Tyskland|
+pfb4ba6f8.html|von Schweinfurt|Eilika /von Schweinfurt/|1000||1056||
+p4585512a.html|Segersdotter|Anna /Segersdotter/|1560|Nensjö, Gudmundrå (Y)|1632|Helgum, Säbrå (Y)|
+p674a3ca3.html|Segolsson Ekerot|Daniel /Segolsson Ekerot/|1689|Blomskog (S)|1775|Blomskog (S)|
+pd7a52eff.html|Semkler|Gregers /Semkler/|1610||||
+p94ad92c5.html|Sigtryggsson|Harald /Sigtryggsson/|916|Dublin, Ireland|940|Limerick, Irland|
+p3cfddd54.html|Sigulfsson de Greystoke|Forne /Sigulfsson de Greystoke/|1060|England|1130|England|
+pe59a5953.html|Sigurdsdatter|Aslög /Sigurdsdatter/|||||
+p323bcb5e.html|Sigurdsdatter|Gunhild /Sigurdsdatter/|1000|Bergen, Hardaland, Norge|||
+pa4138ded.html|Sigurdsdatter|Ingrid /Sigurdsdatter/|1010|Bønsnes, Hole, Buskerud, Norge|1070|Norge|
+p1b121128.html|Sigurdsdatter|Ragnhild /Sigurdsdatter/|835|Sogn, Norge|879|Vestfold, Norge|
+p06205e67.html|Sigurdsdotter|Kristin /Sigurdsdotter/|1125|Folkinsberg, Eidsberg, Norge|1178|Trondheim, Norge|
+pc913a390.html|Sigurdsson|Halvdan "the Gray" /Sigurdsson/|924|Haugesund, Rogeland, Norge|1018|Hadafylke, Norge|
+pc51d4b9c.html|Sigurdsson|Halvdan /Sigurdsson/|930|Haugesund, Rogeland, Norge|||
+p3054afe8.html|Simola (Hillbom)|Pennti Johannes /Simola (Hillbom)/|14AUG 1935|Rovaniemi, Finland|8MAR 2019|Hede (Z)|
+p77440007.html|Simola|Pekka /Simola/|||||
+p9950d1ea.html|Simoni (Simonsson)|Elias /Simoni (Simonsson)/|1530|Viipuri, Finland|1584|Pargas, Finland|
+p4c916c77.html|Simonsdatter Ku til Tomb|Ulfhild /Simonsdatter Ku til Tomb/|1185||||
+p4f557cb0.html|Simonsdotter|Gertrud /Simonsdotter/|||||
+p9d9e801f.html|Simonsen (Baad af Halland)|Broder /Simonsen (Baad af Halland)/|1320|Skedal (N)|1370|Halland (N)|
+pdcbf1b82.html|Simonsen Ku til Tomb|Torgeir /Simonsen Ku til Tomb/|||||
+p807045ce.html|Simonsson|Olof /Simonsson/|1640|Folkesgården, Ämtervik (S)|24FEB 1719|Folkesgården, Ämtervik (S)|
+p94b3dd71.html|Simonsson|Pär /Simonsson/|1670|Kungälv (O)|||
+pc807893e.html|Sinclair 1st Earl of Caithness|William /Sinclair 1st Earl of Caithness/|1410|Caithmess, Scotland|1484|Kirkcaldy, Scotland|
+pf1a0b35e.html|Sinclair, Earl of Orkney|Henry I /Sinclair, Earl of Orkney/|1345|Rosslyn Castle, Edinburgh, Scotland|1400|Orkney Islands, Scotland|
+p50fafad4.html|Sinclair, Earl of Orkney|Henry II /Sinclair, Earl of Orkney/|1375|Rosslyn Castle, Edinburgh, Scotland|1422|Orkney Islands, Scotland|
+pb0ead7b9.html|Sinclair|Arthur /Sinclair/|1452|Roslin Castle, Midlothian, Scotland|||
+pd421120f.html|Sinclair|Barbara /Sinclair/|1515|Banffshire, Scotland|1573|Sunnhordaland, Norge|
+p6802ecb0.html|Sinclair|David /Sinclair/|1537||1611||
+p44f5d2a5.html|Sinclair|Henry /Sinclair/|1265|Rosslyn Castle, Edinburgh, Scotland|1336|Scotland|
+pae5e602b.html|Sinclair|William /Sinclair/|1283|Rosslyn Castle, Edinburgh, Scotland|1330|Teba, Malaga, Spain|
+pbcabb909.html|Sinclair|William II /Sinclair/|1328|Roslin Castle, Midlothian, Scotland|1379|Roslin Castle, Midlothian, Scotland|
+p290291b3.html|Sinclaire|Janet /Sinclaire/|1232|Rosslyn Castle, Edinburgh, Scotland|1FEB 1271|Dunnyglass, Scotland|
+p1f73fd23.html|Sinclaire|John /Sinclaire/|||||
+pf3239bcc.html|Sjællandsfar|Erik /Sjællandsfar/|1310||1380||
+pb39dd391.html|Sjönnesdatter Walset|Mari /Sjönnesdatter Walset/|||||
+p8c235f38.html|Skave|Johannes /Skave/|||1368||
+p7a2b9110.html|Skjalg Ogmundsson til Sola|Torolv /Skjalg Ogmundsson til Sola/|930|Sola, Rogaland, Norge|971|Sola, Rogaland, Norge|
+p35ad4e87.html|Skjalgsson til Sola|Jan Erling /Skjalgsson til Sola/|970|Sola, Rogaland, Norge|1028|Boknafjorden, Norge|
+p891db9f2.html|Skjalmsdatter (Hvide)|Cecilie /Skjalmsdatter (Hvide)/||Fjenneslev, Knardrup, Danmark|1160|Sorø kloster, Danmark|
+p0d33305f.html|Skjalmsen Hvide|Ebbe /Skjalmsen Hvide/|1075||1151|Sorø kloster, Danmark|
+p161bf9a8.html|Skoftesdotter Giske|Tora /Skoftesdotter Giske/|1070|Giske, Norge|1135|Rein. Rissa, Norge|
+p0ceb3fa7.html|Skulesson på Rein|Åsolv /Skulesson på Rein/|1075|Rein. Rissa, Norge|1150|Rein. Rissa, Norge|
+p4446ac03.html|Slaviborova de Pswo of Bohemia|Ludmila /Slaviborova de Pswo of Bohemia/|853|Melnik, Böhmen, Tjeckien|921|Beron, Tjekien|
+pbb1e5391.html|Snærsson of Kvenland|Thorri /Snærsson of Kvenland/||Kvenland, Finland||Romsda, Norge|
+p1fe8e321.html|Sneis|Ivar /Sneis/|1120|Norge|||
+pf41b05a5.html|Snjallson|Ejnar /Snjallson/|||||
+p76fb9d20.html|av Soissons|Bodegisel /av Soissons/|555|Soissons, Aisne, Picardie, Frankrike|588|Karthago, Tunisien.|
+p272ca762.html|av Soissons|Mummolin /av Soissons/|525|Köln, Midi-Pyrénées, Frankrike,|566|Soissoins, France|
+p8b28ea1b.html|Solgren (Eriksson)|Rasmus /Solgren (Eriksson)/|7JUL 1783|Källegren, Forshälla (O)|15MAY 1860|Köperöd, Forshälla (O)|
+p1197b1eb.html|Solvasson av Hordaland|Kaun /Solvasson av Hordaland/|655|Norge|||
+p4fd8e097.html|Sonesson|Lars /Sonesson/|||||
+p2afcf7b2.html|Spake| /Spake/|||||
+p0fb146d1.html|Sparre|Christine /Sparre/|||||
+p00dd5a1b.html|Splid (Fasti)|Kirsten /Splid (Fasti)/|1439||1470||
+pb689a266.html|Sprakalegg|Thorgils /Sprakalegg/|||||
+p8d5af7f2.html|St. Martin|Gnu /St. Martin/|1144|Paisley, Lanarkshire,  Scotland|||
+p4344f3f5.html|Staffansdotter|Anna /Staffansdotter/|JUN 1686|Ockelbo (X)|1763|Bollnäs (X)|
+p5950a988.html|Staffansson|Olof /Staffansson/|||||
+p75121474.html|Stark|Ingevald /Stark/|||1588|Biskopsvrak, Stora Mellösa (T)|
+p5ca1acd7.html|Steffensdatter Tamnes|Kirsten /Steffensdatter Tamnes/|1793|Röros, Norge|1874|Myrmoen, Aursunden, Norge|
+p0843d78d.html|Steffensdatter Tamnes|Maren /Steffensdatter Tamnes/|27MAY 1803|Tamnes, Brekken. Norge|31MAR 1889|Ingebrigtsvollen, Brekken, Norge|
+pba15f656.html|Steffensdatter|Mariette /Steffensdatter/|1640|Röros, Norge|1687|Aasen, Röros, Norge|
+pca294354.html|Steffensen Hånes (Engen)|Jon /Steffensen Hånes (Engen)/|1MAR 1735|Röros, Norge|1819|Röros, Norge|
+pcd0c79f0.html|Steffensen Romel|Peder /Steffensen Romel/|1430||29JUL 1515||
+pa80d310d.html|Steffensen|Ole /Steffensen/|||||
+p67abcdf1.html|Stenarsdotter|Anna /Stenarsdotter/|1665|Brastad (O)|1746|Brastad (O)|
+p864c709d.html|Stenbrikke|Aage /Stenbrikke/|||||
+pa87a3e7a.html|Stensdotter Finne (Renhuvud)|Elin /Stensdotter Finne (Renhuvud)/|||||
+p7ed06d5a.html|Stenvaehr| /Stenvaehr/|1284|Lövestad (M)|||
+p9fb4c7f5.html|Stenvaehr|Gödeke /Stenvaehr/|||||
+p790b1b8c.html|Stewart (Grevinna av Sutherland)|Margaret /Stewart (Grevinna av Sutherland)/|1373|Lochindorb castle, Badenoch, Scotland|1439|Trieve castle, Galloway, Wigtonshire, Scotland|
+p084a9fa6.html|Stewart of Albany|Margaret /Stewart of Albany/|1432|Haddington, East Lotian, Scotland|1484|Scotland|
+p34b4c571.html|Stewart of Lounane, Princess of Scotland|Egidia /Stewart of Lounane, Princess of Scotland/|1368|Dundonald Castle, Ayrshire, Scotland|1388|Scotland|
+p9bd8fe75.html|Stewart|Alexander /Stewart/|1214|Dundonald, Ayrshire, Scotland|1283|Dundonald Castle, Ayrshire, Scotland|
+p4af719e6.html|Stewart|Elisabeth /Stewart/|1245|Irvine, Ayrshire, Scotland|1288|Scotland|
+p68f7fbb1.html|Stewart|Elisabeth /Stewart/|1351|Scone palace, Pearthshire, Scotland|||
+p665c9658.html|Stewart|James /Stewart/|1260|Kilmarnock, Ayrshire, Scotland|16JUL 1309|Dundonald, Ayrshire, Scotland|
+p6c70e316.html|Stewart|Margret /Stewart/|1352|Dundonald Castle, Ayrshire, Scotland|1410|Cromarty, Scotland|
+pafe881a9.html|Stewart|Walter /Stewart/|1198||1246|Dundonald Castle, Ayrshire, Scotland|
+p9a77cfe4.html|Stewart|Walter /Stewart/|1296|Bathgate castle, Scotland|9APR 1327|Bathgate castle, Scotland|
+p904622d8.html|Stigesen Hak (af Riis)|Niels /Stigesen Hak (af Riis)/|1335|Riis, Holbaeck, Danmark|1380||
+pf886683a.html|Stigsdotter|Barbro /Stigsdotter/|1520|Bergsjö (X)|1600|Runsvik (Y)|
+p73673a85.html|Stigsen Thott til Naes|Anders /Stigsen Thott til Naes/|1417||1496|Trollenäs slott, Onsjö (M)|
+p5696773c.html|Stigsön Egeside|Jens /Stigsön Egeside/|1345|Skåne, Sverige|1416|Skåne, Sverige|
+p12434db0.html|av Stodor|Drahomira /av Stodor/|881|Prag, Tjekien|935||
+p058d9f47.html|Stoislavsdotter (Putbus)|N.N /Stoislavsdotter (Putbus)/|||||
+p98bf79ec.html|Storråda|Sigrid /Storråda/|||1014||
+pb920ca9b.html|Strangesen Ulfeldt till Kalundborg|Peder /Strangesen Ulfeldt till Kalundborg/|1170|Kalundborg, Själland, Danmark|1241|Ribe, Danmark|
+p5edb70cf.html|Stridbar|Erik /Stridbar/|1754||1808||
+p0ac2f31b.html|Stuart|Alexander /Stuart/|1343|Dundonald, Ayrshire, Scotland|4APR 1406|Dundonald, Ayrshire, Scotland|
+p148c3f20.html|Sulichgau di Friuli|Evrard /Sulichgau di Friuli/|||||
+p3b00cbb9.html|von Sulzbach|Adelheid /von Sulzbach/|1052|Sulzbach, Bayern, Tyskland|1090|Diessen, Tyskland|
+pd3c0044d.html|von Sulzbach|Gebhard /von Sulzbach/|1037|Kastl, Oberpfalz, Bavaria, Tyskland|1071|Sulzbach, Bayern, Tyskland|
+p78467675.html|Sumarlidsdottir|Thora /Sumarlidsdottir/|||||
+p00ddd472.html|Sunesdatter Hvide af Knardrup|Margarethe /Sunesdatter Hvide af Knardrup/|1144|Knardrup, Själland, Danmark|1162|Roskilde, Danmark|
+pe9e93461.html|Sunesdatter Hvide|Margareta /Sunesdatter Hvide/|1140|Knardrup, Själland, Danmark|1176||
+p026bcd11.html|Sunesen Galen|Erland /Sunesen Galen/|1170|Ellinge (M)|29SEP 1226|Rendsburg, Schlesvig-Holstein, Tyskland|
+p43f89cb4.html|Sutherland of Dunbeath|Alexander /Sutherland of Dunbeath/|1395|Dunlichtie, Dunbeath castle, Iverness, Scotland|1456|Roslin Castle, Midlothian, Scotland|
+p6be427e1.html|Sutherland|Marjory /Sutherland/|1436|Dunbeath, Caithness, Scotland|1476|Dunbeath, Caithness, Scotland|
+p682c90e2.html|Sutherland|Robert /Sutherland/|1347|Golspie, Sutherland, Scotland|1427|Dunrobin castle, Golspie, Sutherland, Scotland|
+p2d6ac9fb.html|Svarte (Gudrödsson)|Halvdan /Svarte (Gudrödsson)/|815|Norge|860|Randsfjorden, Norge|
+p2190d43a.html|Svasedotter|Snöfrid /Svasedotter/|872|Norge|903|Haugesund, Rogeland, Norge|
+pb6c715f9.html|Sveinsson af Maag|Olav /Sveinsson af Maag/|1145|Orkney Islands, Scotland|1194|Bergen, Hardaland, Norge|
+pf9cdd99b.html|Svendsdatter|Estrid  (Margarete) /Svendsdatter/|||||
+pb9908039.html|Svendsen Aasen|Christen /Svendsen Aasen/|1659|Röros, Norge|1723|Svendsgärden, Röros, Norge|
+peb5a5b80.html|Svendsen Kuraas|Christen /Svendsen Kuraas/|1731|Glåmos, Röros, Norge|1816|Röros, Norge|
+p89cae10c.html|Svendsen|Knut den Helige (den IV) /Svendsen/|1040|Roskilde, Danmark|10JUL 1086|Odense, Danmark|
+pdcb42626.html|Svennungdotter|Ingrid /Svennungdotter/|||||
+pe3c25c32.html|Svenonis|Laurentius /Svenonis/|1507|Byrestad (Y)|1597||
+p3d3ba5a1.html|Svensdotter av Danmark|Estrid /Svensdotter av Danmark/|997|Roskilde, Danmark|1074|Roskilde, Danmark|
+p3e1ebf95.html|Svensdotter Bäk|Gunhild /Svensdotter Bäk/|1350||1414||
+pec69e53d.html|Svensdotter|Anna /Svensdotter/|||1743|Foss (O)|
+p3f9768a6.html|Svensdotter|Annika /Svensdotter/|1762|Gunnarsröd, Hede (O)|1845|Gunnarsröd, Hede (O)|
+pb523781a.html|Svensdotter|Börta /Svensdotter/|||||
+p834f5def.html|Svensdotter|Elin /Svensdotter/|1625|Ingevalds Berga, Ör (P)|1668|Liane, Dalskog (P)|
+p6580877d.html|Svensdotter|Ingebor /Svensdotter/|1701|Laxarby (P)|1776|Laxarby (P)|
+pbb3517da.html|Svensdotter|Kerstin /Svensdotter/|||||
+p9dae04ff.html|Svensdotter|Kerstin /Svensdotter/|1731||||
+p1caf4b0c.html|Svensdotter|Kerstin Christin /Svensdotter/|||||
+pc769d7e9.html|Svensdotter|Stina /Svensdotter/|1804|Ramdala, Tisselskog (P)|1JAN 1843|Bocklarud, Fröskog (P)|
+p7474641b.html|Svensson Krumme|Nils /Svensson Krumme/|1441||1486|Hjälmaryd (G)|
+p652ee890.html|Svensson|Anders /Svensson/|||||
+p79af647f.html|Svensson|Anders /Svensson/|||||
+pd293d208.html|Svensson|Anders /Svensson/|1607|Lyse (O)|1672|Lyse (O)|
+p3129b567.html|Svensson|Anders /Svensson/|3JUN 1756|Ryrås, Fuxerna (P)|||
+pe7d237de.html|Svensson|Andreas /Svensson/|1766||||
+p3d935295.html|Svensson|Halfvard /Svensson/|||||
+pa7bc293c.html|Svensson|Lars /Svensson/|1729|Skållerud (P)|1814|Ör (P)|
+pb1029d4c.html|Svensson|Olof /Svensson/|1620|Ärtemark (P)|1700|Ärtemark (P)|
+p5e71957a.html|Svensson|Pehr /Svensson/|1620|Ödskölt (P)|1695|Torrskog (P)|
+p6cb59eb1.html|Svensson|Tolf /Svensson/|1610|Håby (O)|1682|Håby (O)|
+p71007f2e.html|Svenungsdotter|Anna /Svenungsdotter/|1645|Svarteborg (O)|||
+pd701cea7.html|Svina-Bodvarsson|Thorir /Svina-Bodvarsson/|730|Norge|||
+pae61c193.html|Svärd|Herman /Svärd/|1330|Tyskland|1383|Finland|
+p89e22865.html|Syr (Halvdansson)|Sigurd /Syr (Halvdansson)/|970|Rise, Ringerike, Buskerud, Norge|1018|Stein i Hole, Ringarike, Buskerud, Norge|
+p73f372be.html|Sörensdotter|Ingebor /Sörensdotter/|1686|Lyse (O)|1748|Håby (O)|
+p3f2cd883.html|Sörensen|Christen /Sörensen/|||||
+p070726a8.html|Tank|Didrik /Tank/|1591|Tyskland|||
+paa2267c6.html|The Great|Alfred /The Great/|849|Wantage, Berkshire, England|26OCT 899||
+p6c3b59c5.html|Tholsdotter|Karin /Tholsdotter/|1695|Torrskog (P)|||
+p46a0140c.html|Thomasdotter|Elin /Thomasdotter/|1689|Laxarby (P)|1764|Laxarby (P)|
+p1329e672.html|Thomasson|Olof /Thomasson/|||1678|Laxarby (P)|
+p506e67ed.html|Thomasson|Olof /Thomasson/|1683|Laxarby (P)|1755|Laxarby (P)|
+p0aa52d2e.html|Thorarensson|Arnvid /Thorarensson/|913|Møre og Romsdal, Norge|1000||
+pe1575535.html|Thorasdottir (Hallursdotter)|Ulfhilde /Thorasdottir (Hallursdotter)/|927|Vestfold, Norge|978|Gudbrandsdalen, Sel, Oppland, Norge|
+p3dab44bc.html|Thorbjörnsson|Anders /Thorbjörnsson/|1505|Bohuslän, Sverige||Bro (O)|
+pe73cf12f.html|Thorbjörnsson|Gunnar /Thorbjörnsson/|1450|Bohuslän, Sverige||Bohuslän, Sverige|
+p5b66650e.html|Thordsdatter d.ä.  på Aurland|Rannvejg /Thordsdatter d.ä.  på Aurland/|940|Aurland, Sogn og Fjordane, Norge|998||
+p2c54720d.html|Thoresdatter Valdal|Berithe /Thoresdatter Valdal/|||1710|Valdalsvolden, Röeos, Norge|
+p9eb41c80.html|Thorfinnsson af Orkneyöarna|Erland /Thorfinnsson af Orkneyöarna/|||||
+p72a751ab.html|Thorgilsson|Ulf /Thorgilsson/|||1026|Roskilde, Danmark|
+pe26d0dee.html|Thorgilsson|Ulf /Thorgilsson/|993||1026|Roskilde, Danmark|
+p9eef6e43.html|Thorgrimmsdottir|Tordis /Thorgrimmsdottir/|860|Danmark|900|Island|
+p3a600138.html|Thorleifsdatter|Audhild /Thorleifsdatter/|1105||||
+pacbf562a.html|Thorolfsdotter| /Thorolfsdotter/|870|Mosterøy, Rogaland, Norge|||
+p06820b0c.html|Thorrisdotter|Goa /Thorrisdotter/||Finland||Hedmark, Norge|
+pc76b8257.html|Thorsson|Halfar /Thorsson/|1644|Bärfendal (O)|1716|Bärfendal (O)|
+p64991b24.html|Thorstensson af Pedersborg|Peder /Thorstensson af Pedersborg/|1085|Danmark|1173|Borg, Pedersborg, Sorö, Danmark|
+pafefe5af.html|Thrugotsdatter|Bodil /Thrugotsdatter/|1065|Danmark|1103|Oljeberget, Jerusalem, Israel|
+pa2ced8aa.html|Tokesen Hvide|Skjalm /Tokesen Hvide/|1045|Fjenneslev, Sörö, Danmark|1102|Själland, Danmark|
+pfb61633f.html|Tolfsson|Fredrik /Tolfsson/|1640|Håby (O)|1705|Tanum (O)|
+pdebf0ae1.html|Tollesdotter|Kari /Tollesdotter/|1634|Hals, Brastad (O)|1709|Hals, Brastad (O)|
+p8fbe304a.html|Tollesson|Svenung /Tollesson/|1605|Svarteborg (O)|||
+p619aa8ed.html|Tonna von Thyringen|Erwin /Tonna von Thyringen/|1070|Sachsen, Thyringen, Tyskland|1116|Sachsen, Thyringen, Tyskland|
+pe9d685f1.html|von Tonna|Ernst /von Tonna/|1096|Sachsen, Thyringen, Tyskland|1151|Sachsen, Thyringen, Tyskland|
+p7ad99b45.html|Toraldesen på Berg|Toralde /Toraldesen på Berg/|1245|Buskerud, Norge|1290|Berg, Tönsberg, Norge|
+pffae71b2.html|Toraldesson|Salomon /Toraldesson/|1289|Berg, Tönsberg, Norge|1351|Selvik, Sande, Norge|
+pc8e6a6da.html|Torasdottir|Ulfrid Ulfrida /Torasdottir/|927|Norge|||
+pc886ca52.html|Torbergsdotter Giske|Jorunn /Torbergsdotter Giske/|1027|Giske, Norge||Norge|
+pf1b47b80.html|Torbergsson av Giske|Ogmund /Torbergsson av Giske/|||||
+p6614c840.html|Torbergsson Laage|Arne /Torbergsson Laage/|1035|Giske, Sunnmøre, Norge||Blindheim, Sunnmøre, Norge|
+p251a8a6a.html|Torbjörnsson|Guttorm /Torbjörnsson/|1380|Ångsta, Lockne (Z)|1426|Ångsta, Lockne (Z)|
+pbefea949.html|Torbjörnsson|Hans /Torbjörnsson/|1681|Foss (O)|1730|Foss (O)|
+pa80a812a.html|Tordsdotter på Giske|Gudrun /Tordsdotter på Giske/|1029|Giske, Norge|1095|Giske, Norge|
+pc150ee0a.html|Tordsen Thott|Aage /Tordsen Thott/|||||
+pb27ba9e2.html|Tordsen Thott|Aage /Tordsen Thott/|1287|Löddeköpinge (M)||Sverige|
+p30e93965.html|Toresdotter|Karin /Toresdotter/|1660|Östanbjörke, Sunne (S)|1731|Ed, Sunne (S)|
+pd73548e8.html|Toresdottir|Eline /Toresdottir/|1220|Island|1260|Giskemo, Møre og Romsdal, Norge|
+pc8f702d9.html|Toresen Timmermann|Ole /Toresen Timmermann/|1661||1746|Röros, Norge|
+pcb7eb452.html|Toresson|Haakon /Toresson/|1210|Sørum, Akershus,Norge|1267|Trondheim, Norge|
+p8bc67e35.html|Torgeirsson Ku til Tomb|Simon /Torgeirsson Ku til Tomb/|1290||||
+pd4a6fc70.html|Torgsson|Anders /Torgsson/|||||
+pe687d5c7.html|Torkilsdotter|Karin /Torkilsdotter/||Järn (P)||Skållerud (P)|
+p3be28323.html|Torkilsson|Olof /Torkilsson/|1624|Liane, Dalskog (P)|1668|Liane, Dalskog (P)|
+p8c73ea6c.html|Torleifsdotter| /Torleifsdotter/|870||||
+pea4162a7.html|Torleivsson|Hallstein /Torleivsson/|1272|Isle of Man, England|1345|Egge, Steinkjer, Norge|
+pf753e3fa.html|Torsdatter| /Torsdatter/|||||
+p9de407d9.html|Torsteinsdatter av Galge|Tora /Torsteinsdatter av Galge/|||||
+pe7db2a11.html|Torsteinsdatter av Galge|Tora /Torsteinsdatter av Galge/|970|Norge|1015|Giske, Norge|
+pcb275505.html|Torstensdatter Smed|Guren /Torstensdatter Smed/|1703|Smedgården, Tolga, Hedmark, Norge|1778|Röros, Norge|
+p7cabcb19.html|Torstensson|Anders /Torstensson/|||||
+pfb493b35.html|Torstensson|Anders /Torstensson/|1644|Brastad (O)|1712|Brastad (O)|
+p8b616c13.html|Torstensson|Kerstin /Torstensson/|1657|Foss (O)|1732|Foss (O)|
+pdd5d9d48.html|Troensdatter|Dorethe /Troensdatter/|1657|Röros, Norge|1722|Pålsdalen, Röros, Norge|
+p20d1bc5e.html|Troensen Dalen|Johannes /Troensen Dalen/|1721||1791||
+p8494d660.html|Trondsen Troenshat|Ole /Trondsen Troenshat/|1651|Röros, Norge|1732|Tronhartsgården, Röros, Norge|
+p69b02743.html|Truedsen Myre|Peder /Truedsen Myre/|1435|Klinteby, Bornholm, Danmark|1489|Klinteby, Bornholm, Danmark|
+p0c663f90.html|Trulsson|Nils /Trulsson/|1600|Backa, Långserud (S)|1673|Långserud (S)|
+pb4bfc77c.html|Tryggvesdatter|Astrid /Tryggvesdatter/|962|Ringerike, Buskerud, Norge|1006|Sola, Rogaland, Norge|
+p151c2970.html|Trylle|Toke /Trylle/|1000|Danmark|1050||
+p28370c30.html|Tuesen Olufsdotter av Skåne|Ragna /Tuesen Olufsdotter av Skåne/|1142||1180||
+pdb30b865.html|Turesson|Sven /Turesson/|1705|Hede (O)|1782|Hede (O)|
+p18773089.html|Tveskägg|Sven /Tveskägg/|17APR 963|Danmark|3FEB 1014|Gainsborough, England|
+pe690424d.html|Törresdatter|Ingeborg /Törresdatter/|1649|Röros, Norge|1732|Röros, Norge|
+p66f506c2.html|Udsen Juel|Vagn /Udsen Juel/|1115||1160|Sorö, Danmark|
+p93a62d83.html|Ufeigsdottir|Gudbjörg /Ufeigsdottir/|880||923||
+pe4d809c4.html|Ufeigsdottir|Onund /Ufeigsdottir/|||||
+p1d4d41e9.html|Ulfsdatter|Brigid /Ulfsdatter/|1066|Trondheim, Norge||Norge|
+p791c5885.html|Ulfsdotter|Gertrud /Ulfsdotter/|1540|Nätra (Y)|1632|Säbrå (Y)|
+p7371dd1a.html|Vagnsen Udnes|Esbern /Vagnsen Udnes/|1192||1268|Århus, Danmark|
+p0619b3ce.html|Vatnarson|Snjall /Vatnarson/|715||760||
+p6018ce62.html|Vebjörnsdotter| /Vebjörnsdotter/|||||
+pa254919d.html|Verch Llywarch|Tangwystl /Verch Llywarch/|1177|Wales||Wales|
+p81372018.html|Verch Llywelyn|Elen /Verch Llywelyn/|1243|Caernarvonshire, Wales|FEB 1295|Kildrummy castle, Scotland|
+pf1ffd2c9.html|Vestisen Drefeld|Gjord /Vestisen Drefeld/|1440|Skåne, Sverige||Skåne, Sverige|
+p08af4782.html|Vexin de Mantes|Walther II /Vexin de Mantes/|952|Vexin, Normandie, Frankrike|1025|Oise, Picardie, Frankrike|
+p1caf1481.html|Vikingsdatter|Velaug /Vikingsdatter/|||||
+pb81dcd25.html|Vintervold|Nils /Vintervold/|||||
+p60669ed1.html|Vladimirovichden store av Kiev|Mstislav I /Vladimirovichden store av Kiev/|1076|Kiev, Russia|1132|Kiev, Ukraina|
+p6ea67559.html|Vladimirovitj den store|Mstislav I /Vladimirovitj den store/|1076|Turau, Ukraina|1132|Kiev, Ukraina|
+pa6cfb09a.html|Volodarsdotter av Minsk|Sofia /Volodarsdotter av Minsk/|1141|Minsk, Ukraina|1198|Ringsted, Danmark|
+p7c2b8d21.html|af Västergötland o Falster|Erik /af Västergötland o Falster/|1080|Västergötland, Sverige|1131|Haraldsted, Ringsted, Själland, Danmark|
+p3e4545e3.html|Waehmen|Gerthrud /Waehmen/||Bremen, Tyskland|||
+p36b57442.html|Warimburge| /Warimburge/|||||
+pdaf22c1d.html|von Weimar-Orlamunde|Herman I /von Weimar-Orlamunde/|||||
+p417eb1cc.html|von Weimar-Orlamunde|Siegfried III /von Weimar-Orlamunde/|1155||1206||
+pf2bcbaf2.html|von Werl-Arnsberg|Konrad II /von Werl-Arnsberg/|1040|Werl, Tyskland|1092|Friesland, Nederländerna|
+pc023b96f.html|Wessel|Kirsti Anny /Wessel/|8AUG 1930|Norge|20AUG 2001|Hede (Z)|
+p0ad07fba.html|Westerbourg|Hildegardis /Westerbourg/|905||||
+paa0ada21.html|von Wittelsbach|Agnes /von Wittelsbach/|1160|Wittelsbach Castle, Bayern, Tyskland|1218|Everstein, Holzminden, Tyskland|
+pd39cee47.html|Åberg|Jonas /Åberg/|28FEB 1760|Kållerö, Väne-Ryr (P)|1JUL 1823|Väne-Ryr (P)|
+pce42931a.html|Ångerman Sursill|Erik /Ångerman Sursill/|1480|Teg (AC)|1553|Teg (AC)|
+p781e24eb.html|Åsmundsdotter|Maria /Åsmundsdotter/|25JUL 1723|Kärr, Dalskog (P)|1772|Heden, Dalskog (P)|
+pfc543a6a.html|Åsulfsson på Rein|Guttorm /Åsulfsson på Rein/|1120|Rein, Norge|1183|Norge|
+p5ea5cf2a.html|Åsulvsson på Rein|Guttorm /Åsulvsson på Rein/|1120|Rein. Rissa, Norge|1183|Rein. Rissa, Norge|
+p5b8f8cfc.html|den äldre (Stenkilsson)|Inge /den äldre (Stenkilsson)/|||1108||
+pcf8814e5.html|Ölvisson|Einar /Ölvisson/|830|Island|||
+p072955d7.html|Örjansson Skancke|Karl /Örjansson Skancke/|1440|Hov, Hackås (Z)|1488|Hov, Hackås (Z)|
+p4771e5fb.html|Örjansson Skancke|Peder /Örjansson Skancke/|1515|Hov, Hackås (Z)|1553|Hov, Hackås (Z)|
+p802dbeaf.html|Ørn-Hyrnasson|Aun /Ørn-Hyrnasson/|790|Hordaland, Norge|820|Norge|
+pf8c1d948.html|Örnolfsson|Thorolf "Mostarskeg" /Örnolfsson/|845|Mosterøy, Rogaland, Norge|918|Thorsnes, Snefjældssyssel, Island|
+pb72b3e9a.html|Östensdotter Sursill|Catharina /Östensdotter Sursill/|||1619|Liminika, Finland|
+pdf8c8173.html|Östensdotter Sursill|Kristina /Östensdotter Sursill/|1567|Teg (AC)|1632|Finland|
+p951ee5bb.html|Östmansson Jarl|Guttorm /Östmansson Jarl/|1140|Frösö (Z)|14APR 1171|Frösö (Z)|
+p7c1ad84f.html|Östnår (Halvardsdotter)|Kristina /Östnår (Halvardsdotter)/|1305|Östnår, Hackås (Z)|1360|Våle, Hackås (Z)|
